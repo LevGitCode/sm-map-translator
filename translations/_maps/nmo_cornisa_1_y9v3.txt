@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"5833026045e549e29dc24b59b820a67c"
+	{
+		"en"		"Press the button that activates the extraction"
+		"ru"		"Нажмите кнопку, чтобы активировать эвакуацию"
+		"zho"		"按下激活提取的按钮"
+		"chi"		"按下啟動提取的按鈕"
+	}
+	"4f2e76679ca8fce7a0734924b799c47f"
+	{
+		"en"		"Press the correct button in TestChamber3"
+		"ru"		"Нажмите правильную кнопку в TestChamber3"
+		"zho"		"在TestChamber3中按下正确的按钮"
+		"chi"		"在TestChamber3中按下正確的按鈕"
+	}
+	"480a6775fd1690df9d11508b5e0ebd7b"
+	{
+		"en"		"Exceed the TestChamber2"
+		"ru"		"Пройдите TestChamber2"
+		"zho"		"超越TestChamber2"
+		"chi"		"超越TestChamber2"
+	}
+	"36d3340d4f2dd7046aef19b0b66716ab"
+	{
+		"en"		"Find the TestChamber1 and overcome it"
+		"ru"		"Найдите TestChamber1 и преодолейте его"
+		"zho"		"找到TestChamber1并克服它"
+		"chi"		"找到TestChamber1並克服它"
+	}
+	"70726c57383271dc5f05ad3ec9add1d5"
+	{
+		"en"		"Look for the battery and give energy to the TestChamber1"
+		"ru"		"Найдите батарею и подайте энергию в TestChamber1"
+		"zho"		"寻找电池并为TestChamber1提供能量"
+		"chi"		"尋找電池並為TestChamber1提供能量"
+	}
+	"4e66190aaebedce8cabdf03e2ac98014"
+	{
+		"en"		"Open the door and take the tool"
+		"ru"		"Откройте дверь и возьмите инструмент"
+		"zho"		"打开门并拿取工具"
+		"chi"		"打開門並拿取工具"
+	}
+	"9debceb88e54ed8caa0c644b12761231"
+	{
+		"en"		"Press the button to give light to the facility"
+		"ru"		"Нажмите кнопку, чтобы включить свет в здании"
+		"zho"		"按下按钮为设施提供光"
+		"chi"		"按下按鈕為設施提供光"
+	}
+	"11ed50445da8db64a9d547364734e772"
+	{
+		"en"		"Map made by Khalecsy. Modified by yomox9."
+		"ru"		"Карта создана Khalecsy. Изменена yomox9."
+		"zho"		"地图由Khalecsy制作。由yomox9修改。"
+		"chi"		"地圖由Khalecsy製作。由yomox9修改。"
+	}
+}

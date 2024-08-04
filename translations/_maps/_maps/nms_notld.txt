@@ -1,0 +1,10 @@
+"Phrases"
+{
+	"2e78cb247b228617d699cd3a04a5b6c5"
+	{
+		"en"		"#nms_notld_title"
+		"ru"		"#nms_notld_title"
+		"zho"		"#nms_notld_title"
+		"chi"		"#nms_notld_title"
+	}
+}

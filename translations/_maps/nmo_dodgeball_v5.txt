@@ -1,0 +1,52 @@
+"Phrases"
+{
+	"eb59254299181215ffc07621477ed683"
+	{
+		"en"		"Last team standing wins!"
+		"ru"		"Последняя стоящая команда выигрывает!"
+		"zho"		"最后站立的队伍获胜！"
+		"chi"		"最後站立的隊伍獲勝！"
+	}
+	"9b34fad4112abeb54fb20e31ed875459"
+	{
+		"en"		"durkhaz & Socialstyrelsen"
+		"ru"		"durkhaz & Socialstyrelsen"
+		"zho"		"durkhaz & Socialstyrelsen"
+		"chi"		"durkhaz & Socialstyrelsen"
+	}
+	"a129ef8050bf52f9538c666fa60d66ba"
+	{
+		"en"		"Made by"
+		"ru"		"Сделано"
+		"zho"		"制作"
+		"chi"		"製作"
+	}
+	"0293d0774462d7b37832d1d1f2ed50c7"
+	{
+		"en"		"Team Oakhampton Wins!"
+		"ru"		"Команда Окхэмптон выигрывает!"
+		"zho"		"奥克汉普顿队获胜！"
+		"chi"		"奧克漢普頓隊獲勝！"
+	}
+	"e6d1b201cdf233336750d2cc0255be22"
+	{
+		"en"		"Team Greendale Wins!"
+		"ru"		"Команда Гриндейл выигрывает!"
+		"zho"		"格林代尔队获胜！"
+		"chi"		"格林代爾隊獲勝！"
+	}
+	"80c536f5368d770978574c1930b747a3"
+	{
+		"en"		"Waiting for players!"
+		"ru"		"Ожидание игроков!"
+		"zho"		"等待玩家！"
+		"chi"		"等待玩家！"
+	}
+	"dc8b46db173a25ad6d27af1f2a6b129a"
+	{
+		"en"		"Starting game!"
+		"ru"		"Начало игры!"
+		"zho"		"开始游戏！"
+		"chi"		"開始遊戲！"
+	}
+}

@@ -1,0 +1,136 @@
+"Phrases"
+{
+	"690ac464a9d75fec9307454e4687fafb"
+	{
+		"en"		"Power the door and wait for it to open"
+		"ru"		"Включите дверь и ждите, пока она откроется"
+		"zho"		"给门供电并等待它打开"
+		"chi"		"給門供電並等待它打開"
+	}
+	"543d2957c654145e44a01b5c1faee290"
+	{
+		"en"		"Refuel the truck"
+		"ru"		"Заправьте грузовик"
+		"zho"		"给卡车加油"
+		"chi"		"給卡車加油"
+	}
+	"2f7b0a764b8e628421c352f9b1f9bde6"
+	{
+		"en"		"find keycard and place it in card reader"
+		"ru"		"найдите ключ-карту и вставьте ее в считыватель карт"
+		"zho"		"找到钥匙卡并将其放入读卡器中"
+		"chi"		"找到鑰匙卡並將其放入讀卡器中"
+	}
+	"13891bb39b57e2bdf00f52ebd71e94a0"
+	{
+		"en"		"Use the interface to open door"
+		"ru"		"Используйте интерфейс для открытия двери"
+		"zho"		"使用界面打开门"
+		"chi"		"使用界面打開門"
+	}
+	"5dceb95552bbccc84c35775bf55c321b"
+	{
+		"en"		"turn off the electricity"
+		"ru"		"выключите электричество"
+		"zho"		"关闭电源"
+		"chi"		"關閉電源"
+	}
+	"f19b3ec9a20909e169752dedbd75c3d5"
+	{
+		"en"		"proceed ahead"
+		"ru"		"идите дальше"
+		"zho"		"继续前进"
+		"chi"		"繼續前進"
+	}
+	"090bf7d0f2966637a5d421fc45d9917b"
+	{
+		"en"		"turn off the gas"
+		"ru"		"выключите газ"
+		"zho"		"关掉煤气"
+		"chi"		"關掉煤氣"
+	}
+	"0c4f64569c5bfacb3f85ba9ab3635bb7"
+	{
+		"en"		"Turn on power for door and wait 2 minutes for it to open"
+		"ru"		"Включите питание двери и подождите 2 минуты, пока она откроется"
+		"zho"		"给门供电并等待2分钟让它打开"
+		"chi"		"給門供電並等待2分鐘讓它打開"
+	}
+	"af80f0fb38961d53b0b84ae09befaff5"
+	{
+		"en"		"get to the other side"
+		"ru"		"доберитесь до другой стороны"
+		"zho"		"到达另一边"
+		"chi"		"到達另一邊"
+	}
+	"42c5891c30e8a2ac40a49be660e41fac"
+	{
+		"en"		"Reach to the underground"
+		"ru"		"Доберитесь до подземелья"
+		"zho"		"到达地下"
+		"chi"		"到達地下"
+	}
+	"89cd1463a7ec3e51835ed48c02fec720"
+	{
+		"en"		"Navigate throughout Ravenholm"
+		"ru"		"Перемещайтесь по Рейвенхолму"
+		"zho"		"在 Ravenholm 中导航"
+		"chi"		"在 Ravenholm 中導航"
+	}
+	"6f6f0c9c7d42dd25433af4066aeb4a32"
+	{
+		"en"		"Get in sewers and then find another way out"
+		"ru"		"Попадите в канализацию, а затем найдите другой выход"
+		"zho"		"进入下水道，然后找另一条出路"
+		"chi"		"進入下水道，然後找另一條出路"
+	}
+	"9712237191a659b2a047ca1e4ae67d29"
+	{
+		"en"		"Find the key to unlock the door"
+		"ru"		"Найдите ключ, чтобы открыть дверь"
+		"zho"		"找到钥匙来打开门"
+		"chi"		"找到鑰匙來打開門"
+	}
+	"7163f88f61acaafa24e203793852b0b4"
+	{
+		"en"		"30 seconds remaining until door opens"
+		"ru"		"Осталось 30 секунд до открытия двери"
+		"zho"		"距离门打开还有30秒"
+		"chi"		"距離門打開還有30秒"
+	}
+	"d8437151cf82648969fae9a9da36a70c"
+	{
+		"en"		"Wait two minutes until power restores for door."
+		"ru"		"Подождите две минуты, пока не восстановится питание двери."
+		"zho"		"等待两分钟，直到门恢复电力。"
+		"chi"		"等待兩分鐘，直到門恢復電力。"
+	}
+	"4e1e9c896636931a5943e1c41f4b108b"
+	{
+		"en"		"Hurry get in the truck before it leaves!"
+		"ru"		"Быстро садитесь в грузовик, пока он не уехал!"
+		"zho"		"快上卡车，它马上就要开了！"
+		"chi"		"快上卡車，它馬上就要開了！"
+	}
+	"caaa7a4157a82e37559e3f620d4f6995"
+	{
+		"en"		"Ported by xkarma123x"
+		"ru"		"Портировано xkarma123x"
+		"zho"		"由 xkarma123x 移植"
+		"chi"		"由 xkarma123x 移植"
+	}
+	"04245b0a264a05b64d128d0e645d9d89"
+	{
+		"en"		"Map by Striker"
+		"ru"		"Карта от Striker"
+		"zho"		"地图由 Striker 制作"
+		"chi"		"地圖由 Striker 製作"
+	}
+	"8a9c7909df601c9ef4fe539d98b9913c"
+	{
+		"en"		"Enervation"
+		"ru"		"Утомление"
+		"zho"		"疲惫"
+		"chi"		"疲憊"
+	}
+}

@@ -1,0 +1,115 @@
+"Phrases"
+{
+	"952413f4bc81a344c2111acf01a3cf1f"
+	{
+		"en"		"Escape from hive."
+		"ru"		"Сбежать из улья."
+		"zho"		"逃离蜂巢。"
+		"chi"		"逃離蜂巢。"
+	}
+	"af5482e9887390835bb7b1bf67c79175"
+	{
+		"en"		"The red queen closed the door before turning it off, need open it."
+		"ru"		"Красная королева закрыла дверь перед выключением, нужно открыть ее."
+		"zho"		"红皇后在关闭前关上了门，需要打开它。"
+		"chi"		"紅皇后在關閉前關上了門，需要打開它。"
+	}
+	"082fd8d52fae00ed4144047d33db8600"
+	{
+		"en"		"Use welding to open the door."
+		"ru"		"Используйте сварку, чтобы открыть дверь."
+		"zho"		"使用焊接打开门。"
+		"chi"		"使用焊接打開門。"
+	}
+	"de1c9d6b1c8a63bbea56ef4da2fd8a9e"
+	{
+		"en"		"Find the red queen and unplug."
+		"ru"		"Найдите Красную королеву и отключите ее."
+		"zho"		"找到红皇后并拔掉插头。"
+		"chi"		"找到紅皇后並拔掉插頭。"
+	}
+	"d1de2ec09c1e70f692ca74c9b8efdc42"
+	{
+		"en"		"Survive 1 minute and go through the door."
+		"ru"		"Продержитесь 1 минуту и пройдите через дверь."
+		"zho"		"生存1分钟并通过门。"
+		"chi"		"生存1分鐘並通過門。"
+	}
+	"2e453c14af70097408ab1f54973ba091"
+	{
+		"en"		"The door is open to supplies, but you need to go further and do not forget the card from the digital lock."
+		"ru"		"Дверь открыта для запасов, но вам нужно идти дальше и не забыть карту от цифрового замка."
+		"zho"		"门已经为补给打开，但你需要继续前进，不要忘记数字锁的卡。"
+		"chi"		"門已經為補給打開，但你需要繼續前進，不要忘記數字鎖的卡。"
+	}
+	"eb8cc289ce803f0676a8447b63c674b6"
+	{
+		"en"		"Survive and go forward."
+		"ru"		"Выживайте и идите вперед."
+		"zho"		"生存并前进。"
+		"chi"		"生存並前進。"
+	}
+	"7bd66970a1c144de2fb9635d01953828"
+	{
+		"en"		"The door is open, you need to go forward."
+		"ru"		"Дверь открыта, нужно идти дальше."
+		"zho"		"门开了，你需要继续前进。"
+		"chi"		"門開了，你需要繼續前進。"
+	}
+	"36011c440a3d6155ff197a4f2ede5871"
+	{
+		"en"		"Open the digital lock with card from the door."
+		"ru"		"Откройте цифровой замок с помощью карты от двери."
+		"zho"		"用门卡打开数字锁。"
+		"chi"		"用門卡打開數字鎖。"
+	}
+	"6e27e8251ceb73cd73ef7c18dffa8fe0"
+	{
+		"en"		"Go down and find the card from the door."
+		"ru"		"Спуститесь и найдите карту от двери."
+		"zho"		"下去找门卡。"
+		"chi"		"下去找門卡。"
+	}
+	"d975ee9f1448d93abdac3d4e92c5c1df"
+	{
+		"en"		"Get to the elevator."
+		"ru"		"Доберитесь до лифта."
+		"zho"		"去电梯。"
+		"chi"		"去電梯。"
+	}
+	"76a89a42d0583f177b2b5b4bdcc2363c"
+	{
+		"en"		"Special thanks to Norm and other, for found bugs on map."
+		"ru"		"Особая благодарность Norm и другим за найденные ошибки на карте."
+		"zho"		"特别感谢 Norm 和其他人在地图上发现的错误。"
+		"chi"		"特別感謝 Norm 和其他人在地圖上發現的錯誤。"
+	}
+	"f8a4efb530d914048b0be15494d035a6"
+	{
+		"en"		"Original map zm_redqueen_2_b1 by audiOtrash."
+		"ru"		"Оригинальная карта zm_redqueen_2_b1 от audiOtrash."
+		"zho"		"原始地图 zm_redqueen_2_b1 由 audiOtrash 制作。"
+		"chi"		"原始地圖 zm_redqueen_2_b1 由 audiOtrash 製作。"
+	}
+	"4f1380d79508bb588abc276cd11d082b"
+	{
+		"en"		"Port zm_redqueen_2_b1 to nmrih by magister."
+		"ru"		"Порт zm_redqueen_2_b1 на nmrih от magister."
+		"zho"		"由 magister 将 zm_redqueen_2_b1 移植到 nmrih。"
+		"chi"		"由 magister 將 zm_redqueen_2_b1 移植到 nmrih。"
+	}
+	"3b473c540ac9d2e5a746973134af2bee"
+	{
+		"en"		"Special thanks for support original zm_redqueen_2_b1 by lunatix-community.de"
+		"ru"		"Особая благодарность за поддержку оригинальной карты zm_redqueen_2_b1 от lunatix-community.de"
+		"zho"		"特别感谢 lunatix-community.de 支持原始地图 zm_redqueen_2_b1"
+		"chi"		"特別感謝 lunatix-community.de 支持原始地圖 zm_redqueen_2_b1"
+	}
+	"68e9061e01bb306c9338f5bc08cd17b5"
+	{
+		"en"		"Welcome to nmo_red_queen_v2, special for nmrih :)"
+		"ru"		"Добро пожаловать в nmo_red_queen_v2, специально для nmrih :)"
+		"zho"		"欢迎来到 nmo_red_queen_v2，特别为 nmrih :)"
+		"chi"		"歡迎來到 nmo_red_queen_v2，特別為 nmrih :)"
+	}
+}

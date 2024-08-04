@@ -1,0 +1,227 @@
+"Phrases"
+{
+	"2d5dbcf18b836c369cd91da91283087f"
+	{
+		"en"		"Wait for the rescue chopper"
+		"ru"		"Ждите спасательного вертолёта"
+		"zho"		"等待救援直升机"
+		"chi"		"等待救援直升機"
+	}
+	"c1753ae101065dc8d0a3113a57b7ac5c"
+	{
+		"en"		"Use the welder to open rooftop door"
+		"ru"		"Используйте сварочный аппарат, чтобы открыть дверь на крышу"
+		"zho"		"使用焊接机打开屋顶门"
+		"chi"		"使用焊接機打開屋頂門"
+	}
+	"e5d73c6ffc418a71faadfca9898c7f81"
+	{
+		"en"		"Search for the access code to unlock the storage"
+		"ru"		"Ищите код доступа для разблокировки склада"
+		"zho"		"搜索解锁储物柜的访问代码"
+		"chi"		"搜索解鎖儲物櫃的訪問代碼"
+	}
+	"039c9a36a954eaee3d997773d448ff9e"
+	{
+		"en"		"Keep rising to the top of the building"
+		"ru"		"Продолжайте подниматься на вершину здания"
+		"zho"		"继续上升到建筑顶部"
+		"chi"		"繼續上升到建築頂部"
+	}
+	"4f936aa36159f18829ef6cf6c6ff6d7b"
+	{
+		"en"		"Use an extinguisher to clear your path"
+		"ru"		"Используйте огнетушитель, чтобы расчистить путь"
+		"zho"		"使用灭火器清除道路"
+		"chi"		"使用滅火器清除道路"
+	}
+	"a83703a898aa7be6e742b7c011e8744a"
+	{
+		"en"		"Find an alternative way to climb the building"
+		"ru"		"Найдите альтернативный способ подняться на здание"
+		"zho"		"寻找爬上建筑物的替代方法"
+		"chi"		"尋找爬上建築物的替代方法"
+	}
+	"76ad7a367ec62a97e9f5086d5f4b9b0b"
+	{
+		"en"		"Call for help"
+		"ru"		"Позовите на помощь"
+		"zho"		"呼救"
+		"chi"		"呼救"
+	}
+	"394d3b2c422b958cd03380023ebe3ba2"
+	{
+		"en"		"Find the key to unlock the control room"
+		"ru"		"Найдите ключ, чтобы разблокировать комнату управления"
+		"zho"		"找到钥匙解锁控制室"
+		"chi"		"找到鑰匙解鎖控制室"
+	}
+	"0b12b005d026c0297f07d6962af780b8"
+	{
+		"en"		"Use a propane tank to destroy the fence in order to gain access to the alternative elevator"
+		"ru"		"Используйте пропановый баллон, чтобы разрушить забор и получить доступ к альтернативному лифту"
+		"zho"		"使用丙烷罐摧毁围栏以进入备用电梯"
+		"chi"		"使用丙烷罐摧毀圍欄以進入備用電梯"
+	}
+	"dfc0462dc24a09ff06c7548b9c0aee95"
+	{
+		"en"		"Take the main stairs and follow your path"
+		"ru"		"Идите по главной лестнице и следуйте своему пути"
+		"zho"		"走主楼梯并跟随你的路径"
+		"chi"		"走主樓梯並跟隨你的路徑"
+	}
+	"578a34d9ce8731c535c8664925aa1887"
+	{
+		"en"		"Use the elevator to reach the next floor"
+		"ru"		"Используйте лифт, чтобы подняться на следующий этаж"
+		"zho"		"使用电梯到达下一层"
+		"chi"		"使用電梯到達下一層"
+	}
+	"e839a9504624bd7f6fc7f6487e58f755"
+	{
+		"en"		"Find and repair the main power box, then turn on the elevator"
+		"ru"		"Найдите и отремонтируйте главный электрический щит, затем включите лифт"
+		"zho"		"找到并修理主电箱，然后启动电梯"
+		"chi"		"找到並修理主電箱，然後啟動電梯"
+	}
+	"3522ffbdb3880a75954c830e5f352e27"
+	{
+		"en"		"Access code 0789"
+		"ru"		"Код доступа 0789"
+		"zho"		"访问代码 0789"
+		"chi"		"訪問代碼 0789"
+	}
+	"2b9b9d666410765395abb2f8bdd2bd98"
+	{
+		"en"		"Access code 6893"
+		"ru"		"Код доступа 6893"
+		"zho"		"访问代码 6893"
+		"chi"		"訪問代碼 6893"
+	}
+	"e4d7612c68ef0d3ba604c6dccb3c4dc5"
+	{
+		"en"		"Access code 9046"
+		"ru"		"Код доступа 9046"
+		"zho"		"访问代码 9046"
+		"chi"		"訪問代碼 9046"
+	}
+	"7227e304ffe8c1c7da1586179c76e925"
+	{
+		"en"		"Access code 5269"
+		"ru"		"Код доступа 5269"
+		"zho"		"访问代码 5269"
+		"chi"		"訪問代碼 5269"
+	}
+	"c997e46047d409c4fc8582082e1daf52"
+	{
+		"en"		"Access code 2970"
+		"ru"		"Код доступа 2970"
+		"zho"		"访问代码 2970"
+		"chi"		"訪問代碼 2970"
+	}
+	"47e61e23ac9d19e76b2c44f9d6fc60df"
+	{
+		"en"		"Access code 1346"
+		"ru"		"Код доступа 1346"
+		"zho"		"访问代码 1346"
+		"chi"		"訪問代碼 1346"
+	}
+	"ebd235eacd69fa74851863dc0949dd76"
+	{
+		"en"		"Access code 0612"
+		"ru"		"Код доступа 0612"
+		"zho"		"访问代码 0612"
+		"chi"		"訪問代碼 0612"
+	}
+	"0307ae96ced2cee143671f1705cc886f"
+	{
+		"en"		"Access code 9538"
+		"ru"		"Код доступа 9538"
+		"zho"		"访问代码 9538"
+		"chi"		"訪問代碼 9538"
+	}
+	"71ab2d8ec5eb2e8fea1986a3382307d7"
+	{
+		"en"		"Access code 6124"
+		"ru"		"Код доступа 6124"
+		"zho"		"访问代码 6124"
+		"chi"		"訪問代碼 6124"
+	}
+	"d4fbbf340bfa2acec67b153de6f54767"
+	{
+		"en"		"Access code 5872"
+		"ru"		"Код доступа 5872"
+		"zho"		"访问代码 5872"
+		"chi"		"訪問代碼 5872"
+	}
+	"fb54cb6b673a0d4aaadc9f3c8d63f744"
+	{
+		"en"		"Access code 4210"
+		"ru"		"Код доступа 4210"
+		"zho"		"访问代码 4210"
+		"chi"		"訪問代碼 4210"
+	}
+	"210a6b607a7e9e9498a9bc138a895765"
+	{
+		"en"		"Access code 3907"
+		"ru"		"Код доступа 3907"
+		"zho"		"访问代码 3907"
+		"chi"		"訪問代碼 3907"
+	}
+	"f674bcd645e9aa84b26cfb2f972c55e5"
+	{
+		"en"		"Access code 8365"
+		"ru"		"Код доступа 8365"
+		"zho"		"访问代码 8365"
+		"chi"		"訪問代碼 8365"
+	}
+	"ce43a7365058949ab83292ba3c63564a"
+	{
+		"en"		"Access code 1099"
+		"ru"		"Код доступа 1099"
+		"zho"		"访问代码 1099"
+		"chi"		"訪問代碼 1099"
+	}
+	"920bb99a493a38ecf21516caf48e82eb"
+	{
+		"en"		"Access code 7743"
+		"ru"		"Код доступа 7743"
+		"zho"		"访问代码 7743"
+		"chi"		"訪問代碼 7743"
+	}
+	"ec2839d763218a4e83697d503a70b5dc"
+	{
+		"en"		"Access code 2501"
+		"ru"		"Код доступа 2501"
+		"zho"		"访问代码 2501"
+		"chi"		"訪問代碼 2501"
+	}
+	"33aafe38adcdab169b5ac78c113d612b"
+	{
+		"en"		"Map created by Ulreth"
+		"ru"		"Карта создана Ulreth"
+		"zho"		"地图由 Ulreth 创建"
+		"chi"		"地圖由 Ulreth 創建"
+	}
+	"50081814629bb5d26cedc8ddbfe55ac2"
+	{
+		"en"		"We run out of supplies, our only chance is to escape from this building..."
+		"ru"		"У нас закончились припасы, наш единственный шанс — сбежать из этого здания..."
+		"zho"		"我们的物资用完了，我们唯一的机会就是逃离这栋楼..."
+		"chi"		"我們的物資用完了，我們唯一的機會就是逃離這棟樓..."
+	}
+	"43d5668492d4e6bfe51089fa29247084"
+	{
+		"en"		"Access code:"
+		"ru"		"Код доступа:"
+		"zho"		"访问代码:"
+		"chi"		"訪問代碼:"
+	}
+	"75e8e74ee3d3b6b093aaea2896df78af"
+	{
+		"en"		"Chopper leaves in 40 seconds!"
+		"ru"		"Вертолёт улетает через 40 секунд!"
+		"zho"		"直升机将在40秒后离开！"
+		"chi"		"直升機將在40秒後離開！"
+	}
+}

@@ -1,0 +1,241 @@
+"Phrases"
+{
+	"dc71f2605e2eff2c37a65fabcd95c48b"
+	{
+		"en"		"Get the hell out of there!"
+		"ru"		"Убирайтесь оттуда немедленно!"
+		"zho"		"赶快离开那里！"
+		"chi"		"趕快離開那裡！"
+	}
+	"e2b08823d3418d27185a2ce5830aea0e"
+	{
+		"en"		"Use the keycard on the elevator door"
+		"ru"		"Используйте ключ-карту на двери лифта"
+		"zho"		"在电梯门上使用钥匙卡"
+		"chi"		"在電梯門上使用鑰匙卡"
+	}
+	"1ba50be64507d79e4482c35df9f4a222"
+	{
+		"en"		"Close all of the doors by the elevator to stop the flow of zombies"
+		"ru"		"Закройте все двери у лифта, чтобы остановить поток зомби"
+		"zho"		"关闭电梯旁边的所有门，以阻止僵尸的涌入"
+		"chi"		"關閉電梯旁邊的所有門，以阻止僵尸的湧入"
+	}
+	"bc1c2d78225b1c1be091fa08b10f1d2c"
+	{
+		"en"		"Use a welder to repair the fuse box"
+		"ru"		"Используйте сварочный аппарат для ремонта распределительной коробки"
+		"zho"		"使用焊接机修复保险丝箱"
+		"chi"		"使用焊接機修復保險絲箱"
+	}
+	"ff9e49209ea2f7216c70b1762c486058"
+	{
+		"en"		"Use the crank from earlier to shut off the steam"
+		"ru"		"Используйте крэнк, который был ранее, чтобы отключить пар"
+		"zho"		"使用之前的曲柄关闭蒸汽"
+		"chi"		"使用之前的曲柄關閉蒸汽"
+	}
+	"13ec644df42ce47358c78bdba6ba1cea"
+	{
+		"en"		"Find the other missing server part"
+		"ru"		"Найдите другую недостающую часть сервера"
+		"zho"		"找到另一块丢失的服务器部件"
+		"chi"		"找到另一塊丟失的伺服器部件"
+	}
+	"7b8194046f67a08b1c6e986f220ab65f"
+	{
+		"en"		"Find the missing server part"
+		"ru"		"Найдите недостающую часть сервера"
+		"zho"		"找到丢失的服务器部件"
+		"chi"		"找到丟失的伺服器部件"
+	}
+	"04113d40f7a2f38216b4bd5fa726d4d8"
+	{
+		"en"		"Access the server room"
+		"ru"		"Получите доступ к серверной комнате"
+		"zho"		"进入服务器室"
+		"chi"		"進入伺服器室"
+	}
+	"55f781a3435857aa9779722f88404729"
+	{
+		"en"		"Ladder release stuck, find an alternate route"
+		"ru"		"Ручка лестницы застряла, найдите альтернативный маршрут"
+		"zho"		"梯子释放卡住了，寻找备用路线"
+		"chi"		"梯子釋放卡住了，尋找替代路線"
+	}
+	"40b0bd66283421bc36d7a58679c87eb3"
+	{
+		"en"		"Use the car battery to power up the ladder release"
+		"ru"		"Используйте автомобильный аккумулятор для питания механизма лестницы"
+		"zho"		"使用汽车电池为梯子释放供电"
+		"chi"		"使用汽車電池為梯子釋放供電"
+	}
+	"d69dcc7c97bfde89e3c30fab8086518b"
+	{
+		"en"		"Find the missing crank"
+		"ru"		"Найдите отсутствующий крэнк"
+		"zho"		"找到丢失的曲柄"
+		"chi"		"找到丟失的曲柄"
+	}
+	"2911ed7ac1e09dc542d098d21830571f"
+	{
+		"en"		"Weld open the metal door downstairs"
+		"ru"		"Заварите металлическую дверь внизу"
+		"zho"		"焊接打开楼下的铁门"
+		"chi"		"焊接打開樓下的鐵門"
+	}
+	"e32c5255c428491d0095804a0ab2a4fa"
+	{
+		"en"		"Find some welders"
+		"ru"		"Найдите несколько сварочных аппаратов"
+		"zho"		"找到一些焊接工具"
+		"chi"		"找到一些焊接工具"
+	}
+	"c2b6c02a4dcb6c389dacaaf821022ace"
+	{
+		"en"		"Open the door with the red key"
+		"ru"		"Откройте дверь красным ключом"
+		"zho"		"用红色钥匙打开门"
+		"chi"		"用紅色鑰匙打開門"
+	}
+	"6b7d7a0c197dedadeb1b4edf4d0ae2a2"
+	{
+		"en"		"Break open all the marked containers"
+		"ru"		"Разбейте все отмеченные контейнеры"
+		"zho"		"打破所有标记的容器"
+		"chi"		"打破所有標記的容器"
+	}
+	"e9ac03cbc55a48be7653d1de074947f2"
+	{
+		"en"		"Let the trolley roll to its target"
+		"ru"		"Позвольте тележке доехать до цели"
+		"zho"		"让手推车滚动到目标"
+		"chi"		"讓手推車滾動到目標"
+	}
+	"2ba159b451dd73469a865b1780df8b15"
+	{
+		"en"		"Break the boxes and use the elevator"
+		"ru"		"Разбейте коробки и воспользуйтесь лифтом"
+		"zho"		"打破箱子并使用电梯"
+		"chi"		"打破箱子並使用電梯"
+	}
+	"40e3175d2bf83de1d00644f19a260524"
+	{
+		"en"		"Go through the vents"
+		"ru"		"Пройдите через вентиляционные шахты"
+		"zho"		"通过通风口"
+		"chi"		"通過通風口"
+	}
+	"37b8e4e792fef0d0276c3b74651bae97"
+	{
+		"en"		"Climb the ladder"
+		"ru"		"Поднимитесь по лестнице"
+		"zho"		"爬上梯子"
+		"chi"		"爬上梯子"
+	}
+	"6e3d84f641d4fd759c66780105f51162"
+	{
+		"en"		"Push the trolley and block off the flow of zombies"
+		"ru"		"Толкните тележку и заблокируйте поток зомби"
+		"zho"		"推车并阻挡僵尸的流动"
+		"chi"		"推車並阻擋僵尸的流動"
+	}
+	"859b94b3a31e4690cd910a890d4746b3"
+	{
+		"en"		"Extinguish the generator fire before the facility explodes"
+		"ru"		"Потушите пожар в генераторе, прежде чем здание взорвется"
+		"zho"		"在设施爆炸之前扑灭发电机火灾"
+		"chi"		"在設施爆炸之前撲滅發電機火災"
+	}
+	"71c4138d154816b3567f044da6fdccaa"
+	{
+		"en"		"Find the missing lever and restore power to the rollup door"
+		"ru"		"Найдите отсутствующий рычаг и восстановите питание для рольставни"
+		"zho"		"找到丢失的杠杆并恢复卷帘门的电源"
+		"chi"		"找到丟失的槓桿並恢復卷簾門的電源"
+	}
+	"fc3eb60c2b669f1fe9c25fbbd353c47c"
+	{
+		"en"		"Barricade all of the wooden doorways to stop the flow of zombies"
+		"ru"		"Баррикадируйте все деревянные дверные проемы, чтобы остановить поток зомби"
+		"zho"		"用木板封住所有木门口以阻止僵尸的涌入"
+		"chi"		"用木板封住所有木門口以阻止僵尸的湧入"
+	}
+	"d9cd4b880ecdbc3253e44aecfb83d539"
+	{
+		"en"		"Make your way through the forest and proceed deep into the bunker"
+		"ru"		"Пройдите через лес и двигайтесь глубже в бункер"
+		"zho"		"穿过森林，深入掩体"
+		"chi"		"穿過森林，深入掩體"
+	}
+	"0463397cb7919cd2ccabf1a246e4c8f1"
+	{
+		"en"		"Close the rollup door to stop the flow of runners!"
+		"ru"		"Закройте рольставни, чтобы остановить поток бегунов!"
+		"zho"		"关闭卷帘门以阻止跑者的涌入！"
+		"chi"		"關閉卷簾門以阻止跑者的湧入！"
+	}
+	"e092ce18453d3bd709d0cfd1d9cdff5d"
+	{
+		"en"		"Go right to close the office entrance door. This will stop the flow of runners."
+		"ru"		"Поверните направо, чтобы закрыть дверь на входе в офис. Это остановит поток бегунов."
+		"zho"		"右转以关闭办公室入口门。这将停止跑者的涌入。"
+		"chi"		"右轉以關閉辦公室入口門。這將停止跑者的湧入。"
+	}
+	"4d41541c18b82608b5a3000f439fc667"
+	{
+		"en"		"We all need to be here. Get inside the doorway!"
+		"ru"		"Всем нужно быть здесь. Зайдите в дверной проем!"
+		"zho"		"我们都需要在这里。快进入门口！"
+		"chi"		"我們都需要在這裡。快進入門口！"
+	}
+	"34e0ac0524ab486349ed5f202f18b6a8"
+	{
+		"en"		"Replace the first server part to unlock this door."
+		"ru"		"Замените первую часть сервера, чтобы открыть эту дверь."
+		"zho"		"更换第一个服务器部件以解锁此门。"
+		"chi"		"更換第一個伺服器部件以解鎖此門。"
+	}
+	"25b01e01c3067e236a337815df05ee89"
+	{
+		"en"		"Fire Suppression System engaged......Doors to lower levels closing."
+		"ru"		"Система подавления огня активирована......Двери на нижние уровни закрываются."
+		"zho"		"火灾抑制系统已启动......下层门正在关闭。"
+		"chi"		"火災抑制系統已啟動......下層門正在關閉。"
+	}
+	"2923a61df3c2470c10d02d0f01a5e0ab"
+	{
+		"en"		"Break the boxes on the elevator first!"
+		"ru"		"Сначала разбейте коробки на лифте!"
+		"zho"		"首先打破电梯上的箱子！"
+		"chi"		"首先打破電梯上的箱子！"
+	}
+	"3487d44bfdbe558db2266105474aa5df"
+	{
+		"en"		"Climb through the hole and grab the data plug below."
+		"ru"		"Взбирайтесь через отверстие и возьмите разъем данных ниже."
+		"zho"		"爬过孔洞，拿到下面的数据插头。"
+		"chi"		"爬過孔洞，拿到下面的數據插頭。"
+	}
+	"f373285aaa5327e2045d3f0835908032"
+	{
+		"en"		"Fire in the hole!"
+		"ru"		"Огонь в отверстии!"
+		"zho"		"洞里有火！"
+		"chi"		"洞裡有火！"
+	}
+	"4218748621667bf3575dd56061ed66cf"
+	{
+		"en"		"Locked. We need the key."
+		"ru"		"Заблокировано. Нам нужен ключ."
+		"zho"		"锁上了。我们需要钥匙。"
+		"chi"		"鎖上了。我們需要鑰匙。"
+	}
+	"ab1d7785b387356b5c3793dbe609c18a"
+	{
+		"en"		"Motorpool garage door will open in 15 seconds!"
+		"ru"		"Дверь гаража моторного блока откроется через 15 секунд!"
+		"zho"		"机动车库门将在15秒内打开！"
+		"chi"		"機動車庫門將在15秒內打開！"
+	}
+}

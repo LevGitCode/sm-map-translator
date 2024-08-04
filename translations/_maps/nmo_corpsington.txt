@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"1cbf0845141e72c5fc6d1f8be0ae2397"
+	{
+		"en"		"Clear the safehouse"
+		"ru"		"Очистите безопасный дом"
+		"zho"		"清理安全屋"
+		"chi"		"清理安全屋"
+	}
+	"33f44e09aab97e36a965701ed29b5b47"
+	{
+		"en"		"Turn on the generator"
+		"ru"		"Включите генератор"
+		"zho"		"打开发电机"
+		"chi"		"打開發電機"
+	}
+	"e921455c9efc7f0457923221c2e2e79a"
+	{
+		"en"		"Push the generator to the safe house"
+		"ru"		"Переместите генератор в безопасный дом"
+		"zho"		"把发电机推到安全屋"
+		"chi"		"把發電機推到安全屋"
+	}
+	"7db41dc420c4a776649fe846a2e9e5c6"
+	{
+		"en"		"Reach the gas station"
+		"ru"		"Доберитесь до заправочной станции"
+		"zho"		"到达加油站"
+		"chi"		"到達加油站"
+	}
+	"0d75debcc5375fe94c7799ce47a9e0ed"
+	{
+		"en"		"Unlock the warehouse"
+		"ru"		"Откройте склад"
+		"zho"		"解锁仓库"
+		"chi"		"解鎖倉庫"
+	}
+	"4683d61624e19fcd8af28ea66552ea9e"
+	{
+		"en"		"Weld the lock"
+		"ru"		"Сварите замок"
+		"zho"		"焊接锁"
+		"chi"		"焊接鎖"
+	}
+	"9dc5c30f22200506873539644409259b"
+	{
+		"en"		"Unlock the gate"
+		"ru"		"Откройте ворота"
+		"zho"		"打开大门"
+		"chi"		"打開大門"
+	}
+	"d0c8e45f73824f106b2ae627608d1f06"
+	{
+		"en"		"Map by E-Arkham. NMRiH edit by Porkchops4lunch."
+		"ru"		"Карта от E-Arkham. Редакция NMRiH от Porkchops4lunch."
+		"zho"		"地图由E-Arkham制作。NMRiH编辑由Porkchops4lunch完成。"
+		"chi"		"地圖由E-Arkham製作。NMRiH編輯由Porkchops4lunch完成。"
+	}
+}

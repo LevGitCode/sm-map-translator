@@ -1,0 +1,87 @@
+"Phrases"
+{
+	"199bedda11ac16a4276372225031d5b8"
+	{
+		"en"		"Get to the surface"
+		"ru"		"Поднимитесь на поверхность"
+		"zho"		"到达地面"
+		"chi"		"到達地面"
+	}
+	"76ad7a367ec62a97e9f5086d5f4b9b0b"
+	{
+		"en"		"Call for help"
+		"ru"		"Позовите на помощь"
+		"zho"		"呼救"
+		"chi"		"呼救"
+	}
+	"4e3305fffc6ae2073c38d7d4215be17d"
+	{
+		"en"		"Put General Bogsack out of his misery"
+		"ru"		"Прекратите страдания генерала Боксэка"
+		"zho"		"解除博格萨克将军的痛苦"
+		"chi"		"解除博格薩克將軍的痛苦"
+	}
+	"15a0942f95bfa7916d5761aa280c2d33"
+	{
+		"en"		"Find General Bongsack"
+		"ru"		"Найдите генерала Бонгсака"
+		"zho"		"找到邦萨克将军"
+		"chi"		"找到邦薩克將軍"
+	}
+	"162ca6adfa7f4d008661b59220012f13"
+	{
+		"en"		"Get to the Bunker!"
+		"ru"		"Доберитесь до бункера!"
+		"zho"		"到达地堡！"
+		"chi"		"到達地堡！"
+	}
+	"7642773ea750afa1744d5d10ecbfc798"
+	{
+		"en"		"The truck has crashed into the gate!"
+		"ru"		"Грузовик врезался в ворота!"
+		"zho"		"卡车撞上了大门！"
+		"chi"		"卡車撞上了大門！"
+	}
+	"dfba89a600b608b2b724efe1f06f599a"
+	{
+		"en"		"Story"
+		"ru"		"История"
+		"zho"		"故事"
+		"chi"		"故事"
+	}
+	"41573afc0549a1b6bbacb9b90652aa4a"
+	{
+		"en"		"Soldiers are dying, explosions and crazyness everywhere!"
+		"ru"		"Солдаты гибнут, взрывы и хаос повсюду!"
+		"zho"		"士兵们正在死去，到处都是爆炸和疯狂！"
+		"chi"		"士兵們正在死去，到處都是爆炸和瘋狂！"
+	}
+	"7afb56e8f76093742932311d60abd54c"
+	{
+		"en"		"You have alot of runners after you and your objective is to find the general and get out of there!"
+		"ru"		"За вами гонится множество преследователей, и ваша цель - найти генерала и выбраться оттуда!"
+		"zho"		"有很多追赶你的人，你的目标是找到将军然后离开那里！"
+		"chi"		"有很多追趕你的人，你的目標是找到將軍然後離開那裡！"
+	}
+	"9f123e8b6648e67c6de44a92ed412135"
+	{
+		"en"		"A truck has just rammed into the main gate /nand the zombies are gathering up to find the source of the sound."
+		"ru"		"Грузовик только что врезался в главные ворота, /nи зомби собираются, чтобы найти источник звука."
+		"zho"		"一辆卡车刚刚撞上了大门，/n僵尸们正在聚集寻找声音的来源。"
+		"chi"		"一輛卡車剛剛撞上了大門，/n殭屍們正在聚集尋找聲音的來源。"
+	}
+	"9a4f0d828b16db0eacb4f993fe6c3c4d"
+	{
+		"en"		"Original is nmo_area_51 by SWEGTA, Modified by yomox9."
+		"ru"		"Оригинальная карта nmo_area_51 от SWEGTA, изменена yomox9."
+		"zho"		"原版是SWEGTA的nmo_area_51，yomox9修改。"
+		"chi"		"原版是SWEGTA的nmo_area_51，yomox9修改。"
+	}
+	"3e13f0d8727dda8816a915d91c280862"
+	{
+		"en"		"Congraturation!"
+		"ru"		"Поздравляю!"
+		"zho"		"祝贺！"
+		"chi"		"祝賀！"
+	}
+}

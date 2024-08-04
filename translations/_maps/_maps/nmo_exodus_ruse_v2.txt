@@ -1,0 +1,276 @@
+"Phrases"
+{
+	"9c04c89d606b2361167e8d6f04ccca00"
+	{
+		"en"		"Survive until rescue!"
+		"ru"		"Выживайте до спасения!"
+		"zho"		"坚持到救援到来！"
+		"chi"		"堅持到救援到來！"
+	}
+	"1759ba5fb9f3cf0eb362b28772c1b749"
+	{
+		"en"		"Use the interface to disable wall."
+		"ru"		"Используйте интерфейс, чтобы отключить стену."
+		"zho"		"使用界面关闭墙壁。"
+		"chi"		"使用界面關閉牆壁。"
+	}
+	"b11beaeee0ee1103b6337958fc5531a2"
+	{
+		"en"		"Find something to open gate."
+		"ru"		"Найдите что-нибудь, чтобы открыть ворота."
+		"zho"		"找点东西来开门。"
+		"chi"		"找點東西來開門。"
+	}
+	"9b52593890415ab74e09437252689242"
+	{
+		"en"		"Use the elevator and get to the surface."
+		"ru"		"Используйте лифт и поднимитесь на поверхность."
+		"zho"		"使用电梯到达地面。"
+		"chi"		"使用電梯到達地面。"
+	}
+	"b9f10270497308b8f004d6a75d68cdd1"
+	{
+		"en"		"Restore power for the elevator."
+		"ru"		"Восстановите питание лифта."
+		"zho"		"恢复电梯的电力。"
+		"chi"		"恢復電梯的電力。"
+	}
+	"05033686fb2d0c68f671e3c97f4711dc"
+	{
+		"en"		"Gear up and then power the door."
+		"ru"		"Снарядитесь и включите дверь."
+		"zho"		"装备好然后启动门。"
+		"chi"		"裝備好然後啟動門。"
+	}
+	"42f8f8a396f1fc09beba7b59495baacd"
+	{
+		"en"		"Pull both levers."
+		"ru"		"Потяните оба рычага."
+		"zho"		"拉动两个杠杆。"
+		"chi"		"拉動兩個槓桿。"
+	}
+	"a66a94379ae6f3e55fed3d70742347d6"
+	{
+		"en"		"Gear has been placed."
+		"ru"		"Снаряжение размещено."
+		"zho"		"装备已放置。"
+		"chi"		"裝備已放置。"
+	}
+	"e4fa63ba765a58b67fdea5b8de53430f"
+	{
+		"en"		"Battery has been placed."
+		"ru"		"Батарея установлена."
+		"zho"		"电池已放置。"
+		"chi"		"電池已放置。"
+	}
+	"9033383161de5c7a5d2cf66ad18bb270"
+	{
+		"en"		"Ported by Miza."
+		"ru"		"Портировано Miza."
+		"zho"		"由 Miza 移植。"
+		"chi"		"由 Miza 移植。"
+	}
+	"3c64d730d749e424e2c26c767a5815ee"
+	{
+		"en"		"Map by Citizen_001"
+		"ru"		"Карта от Citizen_001"
+		"zho"		"地图由 Citizen_001 制作"
+		"chi"		"地圖由 Citizen_001 製作"
+	}
+	"822759b6d9191c5f9c81df61a71b003d"
+	{
+		"en"		"The lift motor is in the basement, it needs a battery and a gear"
+		"ru"		"Мотор лифта находится в подвале, ему нужны батарея и шестерня"
+		"zho"		"电梯马达在地下室，需要一个电池和齿轮"
+		"chi"		"電梯馬達在地下室，需要一個電池和齒輪"
+	}
+	"c098f35111a70a451a304539921786df"
+	{
+		"en"		"Emergency shield shut down complete!"
+		"ru"		"Экстренное отключение щита завершено!"
+		"zho"		"紧急屏障关闭完成！"
+		"chi"		"緊急屏障關閉完成！"
+	}
+	"5df5a087ef0dbce0805756c769bd7d1c"
+	{
+		"en"		"Estimated completion time: 2 Minutes 10 Seconds"
+		"ru"		"Ориентировочное время завершения: 2 минуты 10 секунд"
+		"zho"		"预计完成时间：2 分钟 10 秒"
+		"chi"		"預計完成時間：2 分鐘 10 秒"
+	}
+	"076c598943001aeb0a069e9dea9b445e"
+	{
+		"en"		"Electrical shield emergency shut down now in progress..."
+		"ru"		"Экстренное отключение электрического щита в процессе..."
+		"zho"		"紧急关闭电力屏障进行中..."
+		"chi"		"緊急關閉電力屏障進行中..."
+	}
+	"ae290d70a755701cde5349abb404e4e3"
+	{
+		"en"		"Electrical shield controls, Shield status - Off"
+		"ru"		"Управление электрическим щитом, Статус щита - Выключен"
+		"zho"		"电力屏障控制，屏障状态 - 关闭"
+		"chi"		"電力屏障控制，屏障狀態 - 關閉"
+	}
+	"825ae2b7912525e46d4a2ec62234fbb1"
+	{
+		"en"		"Electrical shield controls, Emergency shut down in progress"
+		"ru"		"Управление электрическим щитом, Экстренное отключение в процессе"
+		"zho"		"电力屏障控制，紧急关闭进行中"
+		"chi"		"電力屏障控制，緊急關閉進行中"
+	}
+	"f8044216b6f00bec1dd36ee1455ebc9f"
+	{
+		"en"		"Electrical shield controls, Shield status - On"
+		"ru"		"Управление электрическим щитом, Статус щита - Включен"
+		"zho"		"电力屏障控制，屏障状态 - 开启"
+		"chi"		"電力屏障控制，屏障狀態 - 開啟"
+	}
+	"e1602b0726deec2ddf88cf3fdb596322"
+	{
+		"en"		"To be continued in Exodus Finale..."
+		"ru"		"Продолжение следует в финале Исхода..."
+		"zho"		"将在《出埃及记》结局中继续..."
+		"chi"		"將在《出埃及記》結局中繼續..."
+	}
+	"bfd151eab03810fde26f965c7e0e9e81"
+	{
+		"en"		"The bunker is just ahead, but what awaits you there?"
+		"ru"		"Бункер прямо впереди, но что вас там ждет?"
+		"zho"		"掩体就在前方，但那里等待你的是什么？"
+		"chi"		"掩體就在前方，但那裡等待你的是什麼？"
+	}
+	"953b2b2142f469659d7504ec83a6e2c0"
+	{
+		"en"		"Place an NWM passkey here..."
+		"ru"		"Поместите здесь ключ доступа NWM..."
+		"zho"		"在这里放置NWM通行密钥..."
+		"chi"		"在這裡放置NWM通行密鑰..."
+	}
+	"5911970f481830dd9ec0ca6f5a40f47c"
+	{
+		"en"		"Gate access has been granted"
+		"ru"		"Доступ к воротам предоставлен"
+		"zho"		"门禁已被授予"
+		"chi"		"門禁已被授予"
+	}
+	"b9668fc367e250fe4d701790ccd8678d"
+	{
+		"en"		"This gate needs an NWM passkey to be opened"
+		"ru"		"Для открытия этих ворот нужен ключ доступа NWM"
+		"zho"		"这道门需要NWM通行密钥才能打开"
+		"chi"		"這道門需要NWM通行密鑰才能打開"
+	}
+	"d99830a2436ad15f6ac992c6e67c59a7"
+	{
+		"en"		"The elevators are out of order!"
+		"ru"		"Лифты не работают!"
+		"zho"		"电梯故障！"
+		"chi"		"電梯故障！"
+	}
+	"20d911d46343c1e4a337b65c4315b147"
+	{
+		"en"		"The elevator is now in working condition!"
+		"ru"		"Лифт теперь в рабочем состоянии!"
+		"zho"		"电梯现在处于工作状态！"
+		"chi"		"電梯現在處於工作狀態！"
+	}
+	"a248799c978a7e6ef2cd2992116b5c4d"
+	{
+		"en"		"emergency generator, and repair the electric motor"
+		"ru"		"аварийный генератор, и отремонтируйте электродвигатель"
+		"zho"		"紧急发电机，修理电动机"
+		"chi"		"緊急發電機，修理電動機"
+	}
+	"cc6f89e99ecfbb9731692518c810a0b2"
+	{
+		"en"		"To restore the elevators to working condition reroute power, turn on the"
+		"ru"		"Чтобы восстановить работу лифтов, перенаправьте питание, включите"
+		"zho"		"要恢复电梯的工作状态，请重新布线并开启"
+		"chi"		"要恢復電梯的工作狀態，請重新佈線並開啟"
+	}
+	"af0ef6141e4e43f88ae177ac784b06db"
+	{
+		"en"		"The elevator has been repaired"
+		"ru"		"Лифт отремонтирован"
+		"zho"		"电梯已修复"
+		"chi"		"電梯已修復"
+	}
+	"133d100d7ab5d0f639537655f93487c7"
+	{
+		"en"		"The elevator has been switched to backup power"
+		"ru"		"Лифт переключен на резервное питание"
+		"zho"		"电梯已切换到备用电源"
+		"chi"		"電梯已切換到備用電源"
+	}
+	"d5a0a49a27bbd655bfad31853db31943"
+	{
+		"en"		"The power supply for the elevator motor is missing a battery"
+		"ru"		"В блоке питания двигателя лифта отсутствует батарея"
+		"zho"		"电梯马达的电源缺少电池"
+		"chi"		"電梯馬達的電源缺少電池"
+	}
+	"697db0563b2d3f0b2cc58069121bacd5"
+	{
+		"en"		"The gearbox for the elevators is missing a gear."
+		"ru"		"В редукторе лифтов отсутствует шестерня."
+		"zho"		"电梯的齿轮箱缺少一个齿轮。"
+		"chi"		"電梯的齒輪箱缺少一個齒輪。"
+	}
+	"28655889836d7c7d23f5c53d26331c29"
+	{
+		"en"		"These relays control backup elevator power,   Status - Main"
+		"ru"		"Эти реле управляют резервным питанием лифтов,   Статус - Основной"
+		"zho"		"这些继电器控制备用电梯电源， 状态 - 主"
+		"chi"		"這些繼電器控制備用電梯電源， 狀態 - 主"
+	}
+	"0cf659326f0fd769c309096d73bb7555"
+	{
+		"en"		"These relays control backup elevator power,   Status - Backup"
+		"ru"		"Эти реле управляют резервным питанием лифтов,   Статус - Резервный"
+		"zho"		"这些继电器控制备用电梯电源， 状态 - 备用"
+		"chi"		"這些繼電器控制備用電梯電源， 狀態 - 備用"
+	}
+	"36afd86003e5204a5024053408aed55a"
+	{
+		"en"		"These relays control backup elevator power,   Status - Off"
+		"ru"		"Эти реле управляют резервным питанием лифтов,   Статус - Выключен"
+		"zho"		"这些继电器控制备用电梯电源， 状态 - 关闭"
+		"chi"		"這些繼電器控制備用電梯電源， 狀態 - 關閉"
+	}
+	"d49d1033075dacc270b464ed3081e25a"
+	{
+		"en"		"The emergency generator is now running"
+		"ru"		"Аварийный генератор теперь работает"
+		"zho"		"紧急发电机现在运行中"
+		"chi"		"緊急發電機現在運行中"
+	}
+	"8db6aa94f08918ec3406b1c430dd071b"
+	{
+		"en"		"These are lockbusters, useful for any padlock"
+		"ru"		"Это ломающие замки, полезные для любого навесного замка"
+		"zho"		"这些是破锁器，对任何挂锁都有用"
+		"chi"		"這些是破鎖器，對任何掛鎖都有用"
+	}
+	"75306da1dede18de2ba895cd4802ddd5"
+	{
+		"en"		"A plug can be inserted into this outlet."
+		"ru"		"В эту розетку можно вставить вилку."
+		"zho"		"可以将插头插入此插座。"
+		"chi"		"可以將插頭插入此插座。"
+	}
+	"b4bb5ecb893e4136c6cf7fd4ee4232a2"
+	{
+		"en"		"Hydraulic door power restored"
+		"ru"		"Питание гидравлической двери восстановлено"
+		"zho"		"液压门电力恢复"
+		"chi"		"液壓門電力恢復"
+	}
+	"b656891ef418632ef78aedc92528f0f0"
+	{
+		"en"		"This door needs power to open, hook up all of the connections"
+		"ru"		"Для открытия этой двери требуется питание, подключите все соединения"
+		"zho"		"这扇门需要电力才能打开，连接所有连接线"
+		"chi"		"這扇門需要電力才能打開，連接所有連接線"
+	}
+}

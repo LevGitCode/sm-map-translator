@@ -1,0 +1,143 @@
+"Phrases"
+{
+	"261a456bf1ca0be523508ffc6a64871b"
+	{
+		"en"		"Go to the Radio Station"
+		"ru"		"Идите на радиостанцию"
+		"zho"		"去电台"
+		"chi"		"去電台"
+	}
+	"e5d1658f2314f99983d1e43213859abc"
+	{
+		"en"		"Place the explosives on the barrier"
+		"ru"		"Установите взрывчатку на барьер"
+		"zho"		"在障碍物上放置炸药"
+		"chi"		"在障礙物上放置炸藥"
+	}
+	"9d7f5cae1d89ff70740a990d6afde9a3"
+	{
+		"en"		"Use the radio to call for help"
+		"ru"		"Используйте радио, чтобы позвать на помощь"
+		"zho"		"用无线电呼救"
+		"chi"		"用無線電呼救"
+	}
+	"26137d49da0abdb1eb605d7f431446c9"
+	{
+		"en"		"Find the key to the transmission room"
+		"ru"		"Найдите ключ от трансляционной комнаты"
+		"zho"		"找到传输室的钥匙"
+		"chi"		"找到傳輸室的鑰匙"
+	}
+	"1c28307a96e6ef0d793d6dff522fc747"
+	{
+		"en"		"Deactivate the alarm"
+		"ru"		"Отключите сигнализацию"
+		"zho"		"关闭警报"
+		"chi"		"關閉警報"
+	}
+	"b60083b9b607a2e226ebc88afba182da"
+	{
+		"en"		"Reset the breaker box"
+		"ru"		"Сбросьте автоматический выключатель"
+		"zho"		"重置断路器"
+		"chi"		"重置斷路器"
+	}
+	"a3db3293ad7086a7769d9a6739c158b9"
+	{
+		"en"		"Leave the Warehouse"
+		"ru"		"Покиньте склад"
+		"zho"		"离开仓库"
+		"chi"		"離開倉庫"
+	}
+	"19a6decad90272f0558fe296daae4a72"
+	{
+		"en"		"Make your way through the sewers"
+		"ru"		"Пройдите через канализацию"
+		"zho"		"穿过下水道"
+		"chi"		"穿過下水道"
+	}
+	"e4249d29271647eb66a52da61875e2b8"
+	{
+		"en"		"Find a Ladder to climb over the fence"
+		"ru"		"Найдите лестницу, чтобы перелезть через забор"
+		"zho"		"找到梯子爬过围栏"
+		"chi"		"找到梯子爬過圍欄"
+	}
+	"a20114afe28ad3f579b7206ecc067801"
+	{
+		"en"		"Get out of the Clinic"
+		"ru"		"Выйдите из клиники"
+		"zho"		"离开诊所"
+		"chi"		"離開診所"
+	}
+	"8dd996594c5d19f5f1bac6bf135e2cc6"
+	{
+		"en"		"It's busted"
+		"ru"		"Это сломано"
+		"zho"		"它坏了"
+		"chi"		"它壞了"
+	}
+	"398b6b8053b3f77d2a6b58df7da7142c"
+	{
+		"en"		"Something is blocking the door"
+		"ru"		"Что-то блокирует дверь"
+		"zho"		"有东西挡住了门"
+		"chi"		"有東西擋住了門"
+	}
+	"0a8bc75bebbb992de777d14be907c09e"
+	{
+		"en"		"It's locked from the other side"
+		"ru"		"Он заперт с другой стороны"
+		"zho"		"它从另一边锁住了"
+		"chi"		"它從另一邊鎖住了"
+	}
+	"dd5893e98d033de3ca4ae5a410c977fb"
+	{
+		"en"		"It's missing a valve"
+		"ru"		"Отсутствует клапан"
+		"zho"		"缺少一个阀门"
+		"chi"		"缺少一個閥門"
+	}
+	"12b71f5b56b190adbed99f3e114c61ec"
+	{
+		"en"		"I need a Welder to open this"
+		"ru"		"Мне нужен сварщик, чтобы открыть это"
+		"zho"		"我需要一个焊工来打开它"
+		"chi"		"我需要一個焊工來打開它"
+	}
+	"cf19aebc1388a250d93c4d715b56eef5"
+	{
+		"en"		"There's no power"
+		"ru"		"Нет питания"
+		"zho"		"没有电"
+		"chi"		"沒有電"
+	}
+	"79b6c1c8ee351b8aae3ed8233fa5fedd"
+	{
+		"en"		"I must deactivate the alarm first"
+		"ru"		"Я должен сначала отключить сигнализацию"
+		"zho"		"我必须先关闭警报"
+		"chi"		"我必須先關閉警報"
+	}
+	"9f1a3bb47cfe4499329c0303b1e9a8c4"
+	{
+		"en"		"The truck will arrive in one minute. Do your best to stay alive!"
+		"ru"		"Грузовик прибудет через минуту. Постарайтесь выжить!"
+		"zho"		"卡车将在一分钟内到达。尽量活下去！"
+		"chi"		"卡車將在一分鐘內到達。盡量活下去！"
+	}
+	"310c84044d1c24f08b18c80be1274a45"
+	{
+		"en"		"If you can find any explosives, we'll arrive shortly after it's cleared out."
+		"ru"		"Если найдете взрывчатку, мы прибудем вскоре после ее уничтожения."
+		"zho"		"如果你能找到任何炸药，我们将在清理后不久到达。"
+		"chi"		"如果你能找到任何炸藥，我們將在清理後不久到達。"
+	}
+	"5872258dbfe4e0223edf2433c5796958"
+	{
+		"en"		"We can provide you with a rescue truck, but you'll need to do something about that barrier."
+		"ru"		"Мы можем предоставить вам спасательный грузовик, но вам нужно что-то сделать с этим барьером."
+		"zho"		"我们可以为你提供一辆救援卡车，但你需要解决那个障碍物。"
+		"chi"		"我們可以為你提供一輛救援卡車，但你需要解決那個障礙物。"
+	}
+}

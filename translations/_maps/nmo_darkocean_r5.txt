@@ -1,0 +1,178 @@
+"Phrases"
+{
+	"fd79e5b28a0d20acddb97f8f7fb5cc1e"
+	{
+		"en"		"Use the radio"
+		"ru"		"Используйте радио"
+		"zho"		"使用收音机"
+		"chi"		"使用收音機"
+	}
+	"bc287396d47f8800796b7cca7ac9f1b3"
+	{
+		"en"		"The bridge is unpowered. Investigate the generator."
+		"ru"		"Мост без питания. Проверьте генератор."
+		"zho"		"桥没有电。检查发电机。"
+		"chi"		"橋沒有電。檢查發電機。"
+	}
+	"e42118eeaa75db2bcd198b7f8d98495a"
+	{
+		"en"		"Lower the bridge."
+		"ru"		"Опустите мост."
+		"zho"		"放下桥。"
+		"chi"		"放下橋。"
+	}
+	"f92e4c9e741a8aba1694934f5f184d6b"
+	{
+		"en"		"Replace the plugs and restore the generator."
+		"ru"		"Замените штекеры и восстановите генератор."
+		"zho"		"更换插头并恢复发电机。"
+		"chi"		"更換插頭並恢復發電機。"
+	}
+	"910dbe2f0ec9fb5af8e2487ffbb17f3d"
+	{
+		"en"		"Go forward, lower the bridge"
+		"ru"		"Идите вперед, опустите мост"
+		"zho"		"前进，放下桥"
+		"chi"		"前進，放下橋"
+	}
+	"3cda5bbc9ad95090d60deb164ccaa41c"
+	{
+		"en"		"Reach the supply shop"
+		"ru"		"Доберитесь до магазина снабжения"
+		"zho"		"到达供应店"
+		"chi"		"到達供應店"
+	}
+	"c997fc278c1979899cac9b9076fa9dc7"
+	{
+		"en"		"Destroy flight control tower to overload systems and destroy the facility"
+		"ru"		"Уничтожьте диспетчерскую башню, чтобы перегрузить системы и уничтожить объект"
+		"zho"		"摧毁飞行控制塔以使系统超载并摧毁设施"
+		"chi"		"摧毀飛行控制塔以使系統超載並摧毀設施"
+	}
+	"856c76a5fd04c493551a54b89f70d904"
+	{
+		"en"		"It's locked. Find the key"
+		"ru"		"Заперто. Найдите ключ"
+		"zho"		"锁住了。找钥匙"
+		"chi"		"鎖住了。找鑰匙"
+	}
+	"062c7d83860bb42095a9aded4eeb0289"
+	{
+		"en"		"We've reached the shop! Open it up"
+		"ru"		"Мы дошли до магазина! Откройте его"
+		"zho"		"我们到达了商店！打开它"
+		"chi"		"我們到達了商店！打開它"
+	}
+	"15c59d3005ea512f4fcac574a8e97bfc"
+	{
+		"en"		"The way is blocked: break the gate"
+		"ru"		"Путь заблокирован: сломайте ворота"
+		"zho"		"道路被堵住了：打破门"
+		"chi"		"道路被堵住了：打破門"
+	}
+	"1e4f7c73c6972a83c9d1a8de1c4f103e"
+	{
+		"en"		"Explore the compound"
+		"ru"		"Исследуйте территорию"
+		"zho"		"探索化合物"
+		"chi"		"探索化合物"
+	}
+	"56fe45a75e2fddd9137426b7bd09937b"
+	{
+		"en"		"Turn on flight system power upstairs and get out!"
+		"ru"		"Включите питание системы полета наверху и уходите!"
+		"zho"		"打开楼上的飞行系统电源，然后出去！"
+		"chi"		"打開樓上的飛行系統電源，然後出去！"
+	}
+	"d022e9cd12c4d6986ab6054ec0039b52"
+	{
+		"en"		"Flip the switch and open the hangar doors."
+		"ru"		"Переключите выключатель и откройте двери ангара."
+		"zho"		"拨动开关，打开机库门。"
+		"chi"		"撥動開關，打開機庫門。"
+	}
+	"e90794c1e7d933287087d8d45c82c9a8"
+	{
+		"en"		"Turn on the main power generator of the flight systems"
+		"ru"		"Включите основной генератор питания систем полета"
+		"zho"		"打开飞行系统的主发电机"
+		"chi"		"打開飛行系統的主發電機"
+	}
+	"3065a188de00697f894df6c97ce2c8c2"
+	{
+		"en"		"The passage is blocked. Find a different route."
+		"ru"		"Проход заблокирован. Найдите другой маршрут."
+		"zho"		"通道被堵住了。找另一条路线。"
+		"chi"		"通道被堵住了。找另一條路線。"
+	}
+	"1df126b937e9e2de932c3a70fee28d34"
+	{
+		"en"		"Get out! Get to the extraction!"
+		"ru"		"Выйдите! Доберитесь до эвакуации!"
+		"zho"		"出去！去提取！"
+		"chi"		"出去！去提取！"
+	}
+	"b16df505894371ec68f1576a28172e7b"
+	{
+		"en"		"you fucked up, extraction be gone now lol"
+		"ru"		"ты облажался, эвакуации больше нет, лол"
+		"zho"		"你搞砸了，提取没了，哈哈"
+		"chi"		"你搞砸了，提取沒了，哈哈"
+	}
+	"33663ddd28c97f63bcc6d7bcabff16c9"
+	{
+		"en"		"Weld open the lock."
+		"ru"		"Откройте замок сваркой."
+		"zho"		"焊开锁。"
+		"chi"		"焊開鎖。"
+	}
+	"a5268dfaff87e6b11ab5487fd6a02fb4"
+	{
+		"en"		"Based on oceantown, by 33.66 Million Snails"
+		"ru"		"Основано на oceantown, от 33.66 Million Snails"
+		"zho"		"基于oceantown，作者33.66 Million Snails"
+		"chi"		"基於oceantown，作者33.66 Million Snails"
+	}
+	"2e46e1939f6cacdc6b91b38c8810356b"
+	{
+		"en"		"Activate the generator"
+		"ru"		"Активируйте генератор"
+		"zho"		"激活发电机"
+		"chi"		"激活發電機"
+	}
+	"620d779928b77474966f927323cf0ad4"
+	{
+		"en"		"i hope you fall"
+		"ru"		"я надеюсь ты упадешь"
+		"zho"		"希望你摔倒"
+		"chi"		"希望你摔倒"
+	}
+	"662ef98d842141b6037dedaf0ccc340a"
+	{
+		"en"		"You smell like elderberries"
+		"ru"		"Ты пахнешь бузиной"
+		"zho"		"你闻起来像接骨木莓"
+		"chi"		"你聞起來像接骨木莓"
+	}
+	"a03b150afa7f6deb9b493d92d4c94d75"
+	{
+		"en"		"You have run out of time.. The facility is about to explode!!"
+		"ru"		"Время вышло... Объект вот-вот взорвется!!"
+		"zho"		"你已经没时间了.. 设施即将爆炸！！"
+		"chi"		"你已經沒時間了.. 設施即將爆炸！！"
+	}
+	"7b0b8c5d41ceba6d63f9df568a9ea31e"
+	{
+		"en"		"Map by Rogue GarlicBread|Thijs."
+		"ru"		"Карта от Rogue GarlicBread|Thijs."
+		"zho"		"地图由Rogue GarlicBread|Thijs制作。"
+		"chi"		"地圖由Rogue GarlicBread|Thijs製作。"
+	}
+	"8f6481cc3ef62e5e46c3ba70ef7d3272"
+	{
+		"en"		"This doesn't look good... We had better rush to the airfield basement."
+		"ru"		"Это выглядит не очень... Нам лучше поспешить в подвал аэродрома."
+		"zho"		"这看起来不妙... 我们最好赶快去机场的地下室。"
+		"chi"		"這看起來不妙... 我們最好趕快去機場的地下室。"
+	}
+}

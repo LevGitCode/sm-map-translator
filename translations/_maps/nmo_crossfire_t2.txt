@@ -1,0 +1,66 @@
+"Phrases"
+{
+	"544912512ba857697c1ba47124ab18eb"
+	{
+		"en"		"Find the key to the door"
+		"ru"		"Найдите ключ от двери"
+		"zho"		"找到门的钥匙"
+		"chi"		"找到門的鑰匙"
+	}
+	"51a7837bc98f079203fc14078315f394"
+	{
+		"en"		"Protect the bunker entrance from zombie attacks"
+		"ru"		"Защитите вход в бункер от атак зомби"
+		"zho"		"保护掩体入口免受僵尸攻击"
+		"chi"		"保護掩體入口免受殭屍攻擊"
+	}
+	"cc5c73803601dcc0991eec81b649fc97"
+	{
+		"en"		"Press red button to close bunker"
+		"ru"		"Нажмите красную кнопку, чтобы закрыть бункер"
+		"zho"		"按下红色按钮关闭掩体"
+		"chi"		"按下紅色按鈕關閉掩體"
+	}
+	"569e1cbd0537df5ed7d7d3fc6561d8ca"
+	{
+		"en"		"Find the code in the computer to close the bunker"
+		"ru"		"Найдите код в компьютере, чтобы закрыть бункер"
+		"zho"		"在计算机中找到代码以关闭掩体"
+		"chi"		"在計算機中找到代碼以關閉掩體"
+	}
+	"c51dcd63bf171cec40656c8a9b2d884f"
+	{
+		"en"		"Make way to the bunker"
+		"ru"		"Проложите путь к бункеру"
+		"zho"		"前往掩体"
+		"chi"		"前往掩體"
+	}
+	"bfc41c52690a1eaf4359e27481bae44a"
+	{
+		"en"		"Gather all the food and water supplies"
+		"ru"		"Соберите все запасы еды и воды"
+		"zho"		"收集所有食物和水的供应"
+		"chi"		"收集所有食物和水的供應"
+	}
+	"4587588224e055a665ec31401ae56773"
+	{
+		"en"		"Fix a pipe with a toxic fumes leak with cutting torch and a toolbox"
+		"ru"		"Почините трубу с утечкой токсичных паров с помощью резака и ящика с инструментами"
+		"zho"		"用切割炬和工具箱修理泄漏有毒烟雾的管道"
+		"chi"		"用切割炬和工具箱修理洩漏有毒煙霧的管道"
+	}
+	"d00574a3e9854ab25ef11b812db72b84"
+	{
+		"en"		"Find a ham radio to contact survivors"
+		"ru"		"Найдите любительскую радиостанцию, чтобы связаться с выжившими"
+		"zho"		"找到业余无线电联系幸存者"
+		"chi"		"找到業餘無線電聯繫幸存者"
+	}
+	"31696f1859c4a74ea6f04f5327d1ca0d"
+	{
+		"en"		"Find a way outside"
+		"ru"		"Найдите выход наружу"
+		"zho"		"找到出去的路"
+		"chi"		"找到出去的路"
+	}
+}

@@ -1,0 +1,24 @@
+"Phrases"
+{
+	"1175fc7fa8cbd2548a65e3397291b5db"
+	{
+		"en"		"Escape!"
+		"ru"		"Escape!"
+		"zho"		"Escape!"
+		"chi"		"Escape!"
+	}
+	"7a69cb8b898ae7cd400e3452cab808fe"
+	{
+		"en"		"Defend the RV !"
+		"ru"		"Defend the RV !"
+		"zho"		"Defend the RV !"
+		"chi"		"Defend the RV !"
+	}
+	"b1621f7e39365161ca07d8611d8167cc"
+	{
+		"en"		"Map by acrilyk."
+		"ru"		"Map by acrilyk."
+		"zho"		"Map by acrilyk."
+		"chi"		"Map by acrilyk."
+	}
+}

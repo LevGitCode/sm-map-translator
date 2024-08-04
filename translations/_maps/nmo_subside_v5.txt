@@ -1,0 +1,87 @@
+"Phrases"
+{
+	"0f52b66537b941e5f3439cbb5bbb9581"
+	{
+		"en"		"Get the hell out of there"
+		"ru"		"Убирайся оттуда к черту"
+		"zho"		"赶紧离开那里"
+		"chi"		"趕緊離開那裡"
+	}
+	"e189900c79bc8a72c73b6ed2492238a5"
+	{
+		"en"		"Retrieve three breakers"
+		"ru"		"Найдите три автоматических выключателя"
+		"zho"		"取回三个断路器"
+		"chi"		"取回三個斷路器"
+	}
+	"f2690bdf1f70f152b10a5c61d680f436"
+	{
+		"en"		"Reactivate the ventilation before you suffocate"
+		"ru"		"Включите вентиляцию, прежде чем задохнетесь"
+		"zho"		"在窒息之前重新启动通风系统"
+		"chi"		"在窒息之前重新啟動通風系統"
+	}
+	"35939af66bbfde3a8fea1b882830ab25"
+	{
+		"en"		"Regroup and resupply"
+		"ru"		"Перегруппируйтесь и пополните запасы"
+		"zho"		"重新集结并补给"
+		"chi"		"重新集結並補給"
+	}
+	"bd70f9c48a3a5f2cac6bb769f5317743"
+	{
+		"en"		"Make your way underground"
+		"ru"		"Идите под землю"
+		"zho"		"前往地下"
+		"chi"		"前往地下"
+	}
+	"392c85aa522fe3494131fffa6b52975c"
+	{
+		"en"		"Pry open the fire door with the jack"
+		"ru"		"Вскройте пожарную дверь домкратом"
+		"zho"		"用千斤顶撬开防火门"
+		"chi"		"用千斤頂撬開防火門"
+	}
+	"4f0cea436b9f9ce5394f987c4f58e5c2"
+	{
+		"en"		"Weld open lockers to retrieve the crank"
+		"ru"		"Сваркой откройте шкафчики, чтобы достать рукоятку"
+		"zho"		"焊开柜子取出曲柄"
+		"chi"		"焊開櫃子取出曲柄"
+	}
+	"81fe6c6aecc7b74af4adccfcffee255e"
+	{
+		"en"		"Find the key to the generator and perform a restart"
+		"ru"		"Найдите ключ от генератора и выполните перезапуск"
+		"zho"		"找到发电机的钥匙并重新启动"
+		"chi"		"找到發電機的鑰匙並重新啟動"
+	}
+	"63883f7361a63b3b6a0502a437a9b227"
+	{
+		"en"		"Breach the ceiling in the cellar"
+		"ru"		"Проломите потолок в подвале"
+		"zho"		"打破地窖的天花板"
+		"chi"		"打破地窖的天花板"
+	}
+	"cd6d6e2f298bd43b48fc956b5001802e"
+	{
+		"en"		"Search the atrium for explosives"
+		"ru"		"Обыщите атриум в поисках взрывчатки"
+		"zho"		"在中庭寻找炸药"
+		"chi"		"在中庭尋找炸藥"
+	}
+	"a7bff85787d369288a17b9c160e51c2f"
+	{
+		"en"		"Get to the atrium"
+		"ru"		"Доберитесь до атриума"
+		"zho"		"前往中庭"
+		"chi"		"前往中庭"
+	}
+	"8c09cc3571e3707cb4645f8682547423"
+	{
+		"en"		"The car broke and you died. Maybe bring a battery next time?"
+		"ru"		"Машина сломалась, и вы умерли. Может, в следующий раз принесете аккумулятор?"
+		"zho"		"车坏了，你死了。下次带个电池？"
+		"chi"		"車壞了，你死了。下次帶個電池？"
+	}
+}

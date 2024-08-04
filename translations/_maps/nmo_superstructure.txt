@@ -1,0 +1,10 @@
+"Phrases"
+{
+	"cecbab0e0c0fcb3629f2d73c20b36576"
+	{
+		"en"		"Explore the facility."
+		"ru"		"Исследуйте объект."
+		"zho"		"探索设施。"
+		"chi"		"探索設施。"
+	}
+}

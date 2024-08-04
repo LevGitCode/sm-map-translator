@@ -1,0 +1,80 @@
+"Phrases"
+{
+	"1b99b8a861fbc9e87f6a11f8dcf91eb1"
+	{
+		"en"		"Use the TNT to destroy the barricade and escape"
+		"ru"		"Используйте динамит, чтобы разрушить баррикаду и сбежать"
+		"zho"		"使用炸药摧毁路障并逃跑"
+		"chi"		"使用炸藥摧毀路障並逃跑"
+	}
+	"0f96337be1814a9d00be881426036e01"
+	{
+		"en"		"Survive"
+		"ru"		"Выживайте"
+		"zho"		"生存"
+		"chi"		"生存"
+	}
+	"aad298be104f9f6022ea16360623386e"
+	{
+		"en"		"Return to the lobby and signal extraction"
+		"ru"		"Вернитесь в холл и подайте сигнал на эвакуацию"
+		"zho"		"返回大厅并发出撤离信号"
+		"chi"		"返回大廳並發出撤離信號"
+	}
+	"58b3b615dbedc280f2feccb7261e6f49"
+	{
+		"en"		"Secure the vaccine"
+		"ru"		"Обеспечьте сохранность вакцины"
+		"zho"		"确保疫苗安全"
+		"chi"		"確保疫苗安全"
+	}
+	"282d2974da72f033e10876edada73d02"
+	{
+		"en"		"Use the computer to call for help"
+		"ru"		"Используйте компьютер, чтобы вызвать помощь"
+		"zho"		"使用电脑呼救"
+		"chi"		"使用電腦呼救"
+	}
+	"34f056fdfc5ed839f84d8331e3fde2c5"
+	{
+		"en"		"Use the voice recording to get into the head doctor's office"
+		"ru"		"Используйте голосовую запись, чтобы попасть в кабинет главного врача"
+		"zho"		"使用录音进入主任医生办公室"
+		"chi"		"使用錄音進入主任醫生辦公室"
+	}
+	"a9da275ec4f88b66d34b349c3315a346"
+	{
+		"en"		"Get to the treatment room using the keycard"
+		"ru"		"Используйте ключ-карту, чтобы попасть в процедурный кабинет"
+		"zho"		"使用钥匙卡进入治疗室"
+		"chi"		"使用鑰匙卡進入治療室"
+	}
+	"290574bfa313dea286d979ecb76fcd62"
+	{
+		"en"		"Find a key to open the locker room door"
+		"ru"		"Найдите ключ, чтобы открыть дверь в раздевалку"
+		"zho"		"找到钥匙打开更衣室的门"
+		"chi"		"找到鑰匙打開更衣室的門"
+	}
+	"f5271c60ff1986a04a9cdafbca0ef6fb"
+	{
+		"en"		"The door is locked, search for a way to open it"
+		"ru"		"Дверь заперта, найдите способ открыть её"
+		"zho"		"门锁着，寻找打开的方法"
+		"chi"		"門鎖著，尋找打開的方法"
+	}
+	"a450b806cf916eac1dc7e73fa58711a2"
+	{
+		"en"		"Go to the head doctor's office to call for help"
+		"ru"		"Идите в кабинет главного врача, чтобы вызвать помощь"
+		"zho"		"去主任医生办公室呼救"
+		"chi"		"去主任醫生辦公室呼救"
+	}
+	"0d97c9842029aba942668db85c63cdfc"
+	{
+		"en"		"You can now open green crates"
+		"ru"		"Теперь вы можете открывать зелёные ящики"
+		"zho"		"现在可以打开绿色箱子了"
+		"chi"		"現在可以打開綠色箱子了"
+	}
+}

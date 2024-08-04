@@ -1,0 +1,10 @@
+"Phrases"
+{
+	"86acf1167cd3bf8d67ee7188a2f6823e"
+	{
+		"en"		"Find a way out \\ Найдите выход"
+		"ru"		"Find a way out \\ Найдите выход"
+		"zho"		"Find a way out \\ Найдите выход"
+		"chi"		"Find a way out \\ Найдите выход"
+	}
+}

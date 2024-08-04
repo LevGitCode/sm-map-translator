@@ -1,0 +1,115 @@
+"Phrases"
+{
+	"37fa70fcb8aa94b00d456a7850416312"
+	{
+		"en"		"Extinguish the fire blocking your way to the helipad"
+		"ru"		"Потушите огонь, преграждающий путь к вертолетной площадке"
+		"zho"		"扑灭挡住你去直升机停机坪的火焰"
+		"chi"		"撲滅擋住你去直升機停機坪的火焰"
+	}
+	"a62de2b3f69d49d860c02530f940f0a0"
+	{
+		"en"		"Go through the ventilation shaft"
+		"ru"		"Пройдите через вентиляционную шахту"
+		"zho"		"通过通风井"
+		"chi"		"通過通風井"
+	}
+	"27073e548cc92ba0c8ce63082fe07a0c"
+	{
+		"en"		"Pass through the flooded offices"
+		"ru"		"Пройдите через затопленные офисы"
+		"zho"		"通过被淹没的办公室"
+		"chi"		"通過被淹沒的辦公室"
+	}
+	"8d3daa28c618dfae22d1ba579b402c2d"
+	{
+		"en"		"Find a key for the storage door"
+		"ru"		"Найдите ключ от двери склада"
+		"zho"		"找到储藏室门的钥匙"
+		"chi"		"找到儲藏室門的鑰匙"
+	}
+	"10cc5bf13939449e1673fdea64fd47bf"
+	{
+		"en"		"Find a way to open the shutter door"
+		"ru"		"Найдите способ открыть роллетную дверь"
+		"zho"		"找到打开卷帘门的方法"
+		"chi"		"找到打開捲簾門的方法"
+	}
+	"5ec6df3ab6d058b3bce0fdf875a45eed"
+	{
+		"en"		"Reach the office complex"
+		"ru"		"Доберитесь до офисного комплекса"
+		"zho"		"到达办公大楼"
+		"chi"		"到達辦公大樓"
+	}
+	"19d515e427c3cc2506c1f726321ebdda"
+	{
+		"en"		"Find a way to open the top of the elevator"
+		"ru"		"Найдите способ открыть верхнюю часть лифта"
+		"zho"		"找到打开电梯顶部的方法"
+		"chi"		"找到打開電梯頂部的方法"
+	}
+	"9692591449ac81aa86408d35886391be"
+	{
+		"en"		"Find your way out"
+		"ru"		"Найдите выход"
+		"zho"		"找到出路"
+		"chi"		"找到出路"
+	}
+	"030d77f9cffc9444e2a0798a8df222d4"
+	{
+		"en"		"Answer the radio"
+		"ru"		"Ответьте на радио"
+		"zho"		"接听无线电"
+		"chi"		"接聽無線電"
+	}
+	"0adea241562e21249922d246d6674ab5"
+	{
+		"en"		"Search for what's left of the national guard"
+		"ru"		"Ищите остатки национальной гвардии"
+		"zho"		"寻找剩下的国民警卫队"
+		"chi"		"尋找剩下的國民警衛隊"
+	}
+	"621a7bcf3d0460fa0dd0dfdb806b01e2"
+	{
+		"en"		"Find shelter"
+		"ru"		"Найдите укрытие"
+		"zho"		"寻找庇护所"
+		"chi"		"尋找庇護所"
+	}
+	"7b0c403a61705814366076c1f8616dbd"
+	{
+		"en"		"Stay in the mission area!"
+		"ru"		"Оставайтесь в зоне миссии!"
+		"zho"		"留在任务区域内！"
+		"chi"		"留在任務區域內！"
+	}
+	"96a15157c8ed5205d612ec7fa015ba13"
+	{
+		"en"		"Answer the radio!"
+		"ru"		"Ответьте на радио!"
+		"zho"		"接听无线电！"
+		"chi"		"接聽無線電！"
+	}
+	"8f6da6a53c6aaca6fa367c16d04f6dba"
+	{
+		"en"		"Lost players will be teleported in 30 seconds!"
+		"ru"		"Потерянные игроки будут телепортированы через 30 секунд!"
+		"zho"		"迷失的玩家将在30秒内被传送！"
+		"chi"		"迷失的玩家將在30秒內被傳送！"
+	}
+	"be45902f804c012e9fa0dc61daf87ade"
+	{
+		"en"		"How hard is it to gather all players in one area?"
+		"ru"		"Как сложно собрать всех игроков в одной зоне?"
+		"zho"		"将所有玩家聚集在一个区域有多难？"
+		"chi"		"將所有玩家聚集在一個區域有多難？"
+	}
+	"ff5cf0bd912f1e6b9f28a0f148d24306"
+	{
+		"en"		"All players must be in the cafeteria to proceed"
+		"ru"		"Все игроки должны находиться в столовой, чтобы продолжить"
+		"zho"		"所有玩家必须在自助餐厅才能继续"
+		"chi"		"所有玩家必須在自助餐廳才能繼續"
+	}
+}

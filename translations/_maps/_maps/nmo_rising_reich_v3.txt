@@ -1,0 +1,696 @@
+"Phrases"
+{
+	"1c5484a6c72268021c22cd100b48bde4"
+	{
+		"en"		"Escape on the tank / Спасайтесь на танке"
+		"ru"		"Спасайтесь на танке"
+		"zho"		"乘坦克逃跑"
+		"chi"		"乘坦克逃跑"
+	}
+	"b55ffe28a597cca15e77b83c641d8844"
+	{
+		"en"		"Hold out until the arrival of the red army / продержаться до прибытия красной армии"
+		"ru"		"Продержаться до прибытия красной армии"
+		"zho"		"坚持到红军到来"
+		"chi"		"堅持到紅軍到來"
+	}
+	"9bac6964c9ed838c4963967cf8ef67a5"
+	{
+		"en"		"Box for 22 lr  0"
+		"ru"		"Коробка для 22 lr 0"
+		"zho"		"22 lr 的盒子 0"
+		"chi"		"22 lr 的盒子 0"
+	}
+	"27688744ed4384b1de2b46131897f6eb"
+	{
+		"en"		"Box for 22 lr  1"
+		"ru"		"Коробка для 22 lr 1"
+		"zho"		"22 lr 的盒子 1"
+		"chi"		"22 lr 的盒子 1"
+	}
+	"6ba0261ab45bb893661fae0f158cd9d9"
+	{
+		"en"		"Box for 22 lr  2"
+		"ru"		"Коробка для 22 lr 2"
+		"zho"		"22 lr 的盒子 2"
+		"chi"		"22 lr 的盒子 2"
+	}
+	"2a4bd2d7820f9514cfd4958686f3c5ec"
+	{
+		"en"		"Box for 22 lr  3"
+		"ru"		"Коробка для 22 lr 3"
+		"zho"		"22 lr 的盒子 3"
+		"chi"		"22 lr 的盒子 3"
+	}
+	"f7aa15116623aa35db2a4a61f828fc00"
+	{
+		"en"		"Box for 22 lr  4"
+		"ru"		"Коробка для 22 lr 4"
+		"zho"		"22 lr 的盒子 4"
+		"chi"		"22 lr 的盒子 4"
+	}
+	"4c385f6400638436d05e20c056675746"
+	{
+		"en"		"Box for 22 lr  5"
+		"ru"		"Коробка для 22 lr 5"
+		"zho"		"22 lr 的盒子 5"
+		"chi"		"22 lr 的盒子 5"
+	}
+	"40a5ab163f5c90583d7aed0978e4c3b9"
+	{
+		"en"		"Box for 22 lr  6"
+		"ru"		"Коробка для 22 lr 6"
+		"zho"		"22 lr 的盒子 6"
+		"chi"		"22 lr 的盒子 6"
+	}
+	"7e6fd2e0a337c2307f2ed0554340622e"
+	{
+		"en"		"Box for 22 lr  7"
+		"ru"		"Коробка для 22 lr 7"
+		"zho"		"22 lr 的盒子 7"
+		"chi"		"22 lr 的盒子 7"
+	}
+	"daa28b691dfb7d4b6002178722a21f12"
+	{
+		"en"		"Box for 22 lr  8"
+		"ru"		"Коробка для 22 lr 8"
+		"zho"		"22 lr 的盒子 8"
+		"chi"		"22 lr 的盒子 8"
+	}
+	"091d5fd3a67ff53bef2da08178b00272"
+	{
+		"en"		"Box for 22 lr  9"
+		"ru"		"Коробка для 22 lr 9"
+		"zho"		"22 lr 的盒子 9"
+		"chi"		"22 lr 的盒子 9"
+	}
+	"52099b5f0b91201f2cec5af0ddffc49c"
+	{
+		"en"		"Box for 45 acp  0"
+		"ru"		"Коробка для 45 acp 0"
+		"zho"		"45 acp 的盒子 0"
+		"chi"		"45 acp 的盒子 0"
+	}
+	"7feb6624c44b1d75f3f1ea41fcc24e68"
+	{
+		"en"		"Box for 45 acp  1"
+		"ru"		"Коробка для 45 acp 1"
+		"zho"		"45 acp 的盒子 1"
+		"chi"		"45 acp 的盒子 1"
+	}
+	"7b6032b42d6b8969aa1df36711e1c0e9"
+	{
+		"en"		"Box for 45 acp  2"
+		"ru"		"Коробка для 45 acp 2"
+		"zho"		"45 acp 的盒子 2"
+		"chi"		"45 acp 的盒子 2"
+	}
+	"e9d844ce97ae22061e0251dcdf9b18c1"
+	{
+		"en"		"Box for 45 acp  3"
+		"ru"		"Коробка для 45 acp 3"
+		"zho"		"45 acp 的盒子 3"
+		"chi"		"45 acp 的盒子 3"
+	}
+	"803bf68b1b74c9b7e58c2e9ff0600f17"
+	{
+		"en"		"Box for 45 acp  4"
+		"ru"		"Коробка для 45 acp 4"
+		"zho"		"45 acp 的盒子 4"
+		"chi"		"45 acp 的盒子 4"
+	}
+	"a0399360379b8e44cf0f4caa53665f8d"
+	{
+		"en"		"Box for 45 acp  5"
+		"ru"		"Коробка для 45 acp 5"
+		"zho"		"45 acp 的盒子 5"
+		"chi"		"45 acp 的盒子 5"
+	}
+	"fa050288b230daad2aac10b01c5af0c9"
+	{
+		"en"		"Box for 45 acp  6"
+		"ru"		"Коробка для 45 acp 6"
+		"zho"		"45 acp 的盒子 6"
+		"chi"		"45 acp 的盒子 6"
+	}
+	"4836a63193623b334d70f5b2bd0a184b"
+	{
+		"en"		"Box for 45 acp  7"
+		"ru"		"Коробка для 45 acp 7"
+		"zho"		"45 acp 的盒子 7"
+		"chi"		"45 acp 的盒子 7"
+	}
+	"aa4aa495e96fefcf7bad16239bba40e7"
+	{
+		"en"		"Box for 45 acp  8"
+		"ru"		"Коробка для 45 acp 8"
+		"zho"		"45 acp 的盒子 8"
+		"chi"		"45 acp 的盒子 8"
+	}
+	"93fd5e31d2a45e697b21229a356e11ae"
+	{
+		"en"		"Box for 45 acp  9"
+		"ru"		"Коробка для 45 acp 9"
+		"zho"		"45 acp 的盒子 9"
+		"chi"		"45 acp 的盒子 9"
+	}
+	"90695c8a01b8aa9f0dcae8a1e11c6e1e"
+	{
+		"en"		"Box for 357  0"
+		"ru"		"Коробка для 357 0"
+		"zho"		"357 的盒子 0"
+		"chi"		"357 的盒子 0"
+	}
+	"b83496ccb0a2e4d322c86f59630088b9"
+	{
+		"en"		"Box for 357  1"
+		"ru"		"Коробка для 357 1"
+		"zho"		"357 的盒子 1"
+		"chi"		"357 的盒子 1"
+	}
+	"8013d5f42b1ed0b4fd5606263651aff3"
+	{
+		"en"		"Box for 357  2"
+		"ru"		"Коробка для 357 2"
+		"zho"		"357 的盒子 2"
+		"chi"		"357 的盒子 2"
+	}
+	"a70570e7e72e857c509e2f80cb951670"
+	{
+		"en"		"Box for 357  3"
+		"ru"		"Коробка для 357 3"
+		"zho"		"357 的盒子 3"
+		"chi"		"357 的盒子 3"
+	}
+	"6319526fc234b93ec5285e1b404ede54"
+	{
+		"en"		"Box for 357  4"
+		"ru"		"Коробка для 357 4"
+		"zho"		"357 的盒子 4"
+		"chi"		"357 的盒子 4"
+	}
+	"a3be720cb8f47024c8eb8fdeb82c7ab2"
+	{
+		"en"		"Box for 357  5"
+		"ru"		"Коробка для 357 5"
+		"zho"		"357 的盒子 5"
+		"chi"		"357 的盒子 5"
+	}
+	"73f304af664ebd5dd03317461942ba34"
+	{
+		"en"		"Box for 357  6"
+		"ru"		"Коробка для 357 6"
+		"zho"		"357 的盒子 6"
+		"chi"		"357 的盒子 6"
+	}
+	"77b7ed4b72b42307240e9e487d5a6aa1"
+	{
+		"en"		"Box for 357  7"
+		"ru"		"Коробка для 357 7"
+		"zho"		"357 的盒子 7"
+		"chi"		"357 的盒子 7"
+	}
+	"f50227f282fa2dfe5088452c5ea34b92"
+	{
+		"en"		"Box for 357  8"
+		"ru"		"Коробка для 357 8"
+		"zho"		"357 的盒子 8"
+		"chi"		"357 的盒子 8"
+	}
+	"b9ce17b361d17652ce901df37959996f"
+	{
+		"en"		"Box for 357  9"
+		"ru"		"Коробка для 357 9"
+		"zho"		"357 的盒子 9"
+		"chi"		"357 的盒子 9"
+	}
+	"53daed8d5a92da7913b1853875084516"
+	{
+		"en"		"Box for drobi  0"
+		"ru"		"Коробка для drobi 0"
+		"zho"		"drobi 的盒子 0"
+		"chi"		"drobi 的盒子 0"
+	}
+	"3466b459631843cde58e359b4c6e9e0c"
+	{
+		"en"		"Box for drobi  1"
+		"ru"		"Коробка для drobi 1"
+		"zho"		"drobi 的盒子 1"
+		"chi"		"drobi 的盒子 1"
+	}
+	"598b4bdf98cb7a761435bba449c6295d"
+	{
+		"en"		"Box for drobi  2"
+		"ru"		"Коробка для drobi 2"
+		"zho"		"drobi 的盒子 2"
+		"chi"		"drobi 的盒子 2"
+	}
+	"c5e3459785919453bbddf35a4ca7ce3c"
+	{
+		"en"		"Box for drobi  3"
+		"ru"		"Коробка для drobi 3"
+		"zho"		"drobi 的盒子 3"
+		"chi"		"drobi 的盒子 3"
+	}
+	"cfe6f4f9f4978a1f03648abb6c61810e"
+	{
+		"en"		"Box for drobi  4"
+		"ru"		"Коробка для drobi 4"
+		"zho"		"drobi 的盒子 4"
+		"chi"		"drobi 的盒子 4"
+	}
+	"be3bd2a3833042291bed3f22ffca055c"
+	{
+		"en"		"Box for drobi  5"
+		"ru"		"Коробка для drobi 5"
+		"zho"		"drobi 的盒子 5"
+		"chi"		"drobi 的盒子 5"
+	}
+	"68d927f8f9e0fca7397837e627a22fe6"
+	{
+		"en"		"Box for drobi  6"
+		"ru"		"Коробка для drobi 6"
+		"zho"		"drobi 的盒子 6"
+		"chi"		"drobi 的盒子 6"
+	}
+	"76203add43e46d2ecdf82c6455cd0227"
+	{
+		"en"		"Box for drobi  7"
+		"ru"		"Коробка для drobi 7"
+		"zho"		"drobi 的盒子 7"
+		"chi"		"drobi 的盒子 7"
+	}
+	"90432c111f119132b07ec04c703bae9e"
+	{
+		"en"		"Box for drobi  8"
+		"ru"		"Коробка для drobi 8"
+		"zho"		"drobi 的盒子 8"
+		"chi"		"drobi 的盒子 8"
+	}
+	"14e6400d599b18a860c67c76eb9c343a"
+	{
+		"en"		"Box for drobi  9"
+		"ru"		"Коробка для drobi 9"
+		"zho"		"drobi 的盒子 9"
+		"chi"		"drobi 的盒子 9"
+	}
+	"c28eb4c7014c8ccf780a3fdd1076cfb1"
+	{
+		"en"		"Box for 308  0"
+		"ru"		"Коробка для 308 0"
+		"zho"		"308 的盒子 0"
+		"chi"		"308 的盒子 0"
+	}
+	"48bfcf900098bbb3902b19c7380fb5d7"
+	{
+		"en"		"Box for 308  1"
+		"ru"		"Коробка для 308 1"
+		"zho"		"308 的盒子 1"
+		"chi"		"308 的盒子 1"
+	}
+	"a2598e7539235d08c72faed1e44c5c9f"
+	{
+		"en"		"Box for 308  2"
+		"ru"		"Коробка для 308 2"
+		"zho"		"308 的盒子 2"
+		"chi"		"308 的盒子 2"
+	}
+	"b3b014242bc080a1930371708c3b92fb"
+	{
+		"en"		"Box for 308  3"
+		"ru"		"Коробка для 308 3"
+		"zho"		"308 的盒子 3"
+		"chi"		"308 的盒子 3"
+	}
+	"953b241306fed73d307eb913bc8c7a65"
+	{
+		"en"		"Box for 308  4"
+		"ru"		"Коробка для 308 4"
+		"zho"		"308 的盒子 4"
+		"chi"		"308 的盒子 4"
+	}
+	"2aae3d37b495001024a30bbe4f18a8cf"
+	{
+		"en"		"Box for 308  5"
+		"ru"		"Коробка для 308 5"
+		"zho"		"308 的盒子 5"
+		"chi"		"308 的盒子 5"
+	}
+	"42f56cff65fc06c2c6e0b0f3176140f7"
+	{
+		"en"		"Box for 308  6"
+		"ru"		"Коробка для 308 6"
+		"zho"		"308 的盒子 6"
+		"chi"		"308 的盒子 6"
+	}
+	"240c7f82ee66e230b359f927e38cd83d"
+	{
+		"en"		"Box for 308  7"
+		"ru"		"Коробка для 308 7"
+		"zho"		"308 的盒子 7"
+		"chi"		"308 的盒子 7"
+	}
+	"783b104e5a6ce135d11ea11fa2196ae1"
+	{
+		"en"		"Box for 308  8"
+		"ru"		"Коробка для 308 8"
+		"zho"		"308 的盒子 8"
+		"chi"		"308 的盒子 8"
+	}
+	"4a6f5fb0f328847102f9b517e2c7036d"
+	{
+		"en"		"Box for 308  9"
+		"ru"		"Коробка для 308 9"
+		"zho"		"308 的盒子 9"
+		"chi"		"308 的盒子 9"
+	}
+	"bef647388f2e341167ee7959f6486a0c"
+	{
+		"en"		"Box for sks  0"
+		"ru"		"Коробка для sks 0"
+		"zho"		"sks 的盒子 0"
+		"chi"		"sks 的盒子 0"
+	}
+	"1088b3b6ac68833dccc86aa45eb3cb80"
+	{
+		"en"		"Box for sks  1"
+		"ru"		"Коробка для sks 1"
+		"zho"		"sks 的盒子 1"
+		"chi"		"sks 的盒子 1"
+	}
+	"5449d9f5d2fe304fc6de08f61f4fdb54"
+	{
+		"en"		"Box for sks  2"
+		"ru"		"Коробка для sks 2"
+		"zho"		"sks 的盒子 2"
+		"chi"		"sks 的盒子 2"
+	}
+	"69848215042371786ea6b61894fd621b"
+	{
+		"en"		"Box for sks  3"
+		"ru"		"Коробка для sks 3"
+		"zho"		"sks 的盒子 3"
+		"chi"		"sks 的盒子 3"
+	}
+	"68b04ae6e3b9235a15a7f65c8c43868e"
+	{
+		"en"		"Box for sks  4"
+		"ru"		"Коробка для sks 4"
+		"zho"		"sks 的盒子 4"
+		"chi"		"sks 的盒子 4"
+	}
+	"864e1dccf5d6d5b2202581528bff6a30"
+	{
+		"en"		"Box for sks  5"
+		"ru"		"Коробка для sks 5"
+		"zho"		"sks 的盒子 5"
+		"chi"		"sks 的盒子 5"
+	}
+	"556d20ec9a53d4e657aedc541d35c5fc"
+	{
+		"en"		"Box for sks  6"
+		"ru"		"Коробка для sks 6"
+		"zho"		"sks 的盒子 6"
+		"chi"		"sks 的盒子 6"
+	}
+	"d9cd14acd252b9cbf0f9a0ebecaa39f7"
+	{
+		"en"		"Box for sks  7"
+		"ru"		"Коробка для sks 7"
+		"zho"		"sks 的盒子 7"
+		"chi"		"sks 的盒子 7"
+	}
+	"c4a9a89d308b4c20edc7c89c3c7e4e34"
+	{
+		"en"		"Box for sks  8"
+		"ru"		"Коробка для sks 8"
+		"zho"		"sks 的盒子 8"
+		"chi"		"sks 的盒子 8"
+	}
+	"f2c67353a1c53aec40a35297027ae465"
+	{
+		"en"		"Box for sks  9"
+		"ru"		"Коробка для sks 9"
+		"zho"		"sks 的盒子 9"
+		"chi"		"sks 的盒子 9"
+	}
+	"c332a22ab82df5d37b4e105ab474a7fc"
+	{
+		"en"		"Drobi part  0"
+		"ru"		"Часть drobi 0"
+		"zho"		"drobi 部分 0"
+		"chi"		"drobi 部分 0"
+	}
+	"266fa72f8e254246e9fff6635090407b"
+	{
+		"en"		"Drobi part  1"
+		"ru"		"Часть drobi 1"
+		"zho"		"drobi 部分 1"
+		"chi"		"drobi 部分 1"
+	}
+	"581d250ad76db0815b470be38fe2f942"
+	{
+		"en"		"Drobi part  2"
+		"ru"		"Часть drobi 2"
+		"zho"		"drobi 部分 2"
+		"chi"		"drobi 部分 2"
+	}
+	"9f094c95ed942acaf1b92ac51d168688"
+	{
+		"en"		"Drobi part  3"
+		"ru"		"Часть drobi 3"
+		"zho"		"drobi 部分 3"
+		"chi"		"drobi 部分 3"
+	}
+	"c01e84138fcd0c8f58cb6b767d570501"
+	{
+		"en"		"Drobi part  4"
+		"ru"		"Часть drobi 4"
+		"zho"		"drobi 部分 4"
+		"chi"		"drobi 部分 4"
+	}
+	"4d8601ce406359d5f0d9834a3f39175c"
+	{
+		"en"		"Drobi part  5"
+		"ru"		"Часть drobi 5"
+		"zho"		"drobi 部分 5"
+		"chi"		"drobi 部分 5"
+	}
+	"cf7a1c222d6093337dcd623c44f42482"
+	{
+		"en"		"Drobi part  6"
+		"ru"		"Часть drobi 6"
+		"zho"		"drobi 部分 6"
+		"chi"		"drobi 部分 6"
+	}
+	"5b762ab431e7a1bf9a3f5f11bd0c2404"
+	{
+		"en"		"Drobi part  7"
+		"ru"		"Часть drobi 7"
+		"zho"		"drobi 部分 7"
+		"chi"		"drobi 部分 7"
+	}
+	"0bab8f55d8a68e5a2700e98d501a83fe"
+	{
+		"en"		"Drobi part  8"
+		"ru"		"Часть drobi 8"
+		"zho"		"drobi 部分 8"
+		"chi"		"drobi 部分 8"
+	}
+	"3ac4952ade4b34610f233d8e72615c4e"
+	{
+		"en"		"Drobi part  9"
+		"ru"		"Часть drobi 9"
+		"zho"		"drobi 部分 9"
+		"chi"		"drobi 部分 9"
+	}
+	"300ad8ca9efde42974159ca911eb9130"
+	{
+		"en"		"Pistol bullet part  0"
+		"ru"		"Часть пистолетного патрона 0"
+		"zho"		"手枪子弹部分 0"
+		"chi"		"手槍子彈部分 0"
+	}
+	"75dce39e87bf580b4641c55c0d01532d"
+	{
+		"en"		"Pistol bullet part  1"
+		"ru"		"Часть пистолетного патрона 1"
+		"zho"		"手枪子弹部分 1"
+		"chi"		"手槍子彈部分 1"
+	}
+	"7c3f64e3f63eaed8c0e8db82df688aad"
+	{
+		"en"		"Pistol bullet part  2"
+		"ru"		"Часть пистолетного патрона 2"
+		"zho"		"手枪子弹部分 2"
+		"chi"		"手槍子彈部分 2"
+	}
+	"b4cd599e50b189b771defcca3614baed"
+	{
+		"en"		"Pistol bullet part  3"
+		"ru"		"Часть пистолетного патрона 3"
+		"zho"		"手枪子弹部分 3"
+		"chi"		"手槍子彈部分 3"
+	}
+	"55d62e718530aadfd9980e4a2fc4986b"
+	{
+		"en"		"Pistol bullet part  4"
+		"ru"		"Часть пистолетного патрона 4"
+		"zho"		"手枪子弹部分 4"
+		"chi"		"手槍子彈部分 4"
+	}
+	"10e8ebe5222494f0043ffe7c4386f47a"
+	{
+		"en"		"Pistol bullet part  5"
+		"ru"		"Часть пистолетного патрона 5"
+		"zho"		"手枪子弹部分 5"
+		"chi"		"手槍子彈部分 5"
+	}
+	"a61ee5df886bd6bc4f4de0d39181fffd"
+	{
+		"en"		"Pistol bullet part  6"
+		"ru"		"Часть пистолетного патрона 6"
+		"zho"		"手枪子弹部分 6"
+		"chi"		"手槍子彈部分 6"
+	}
+	"b3ad0bbbca4733b6f2f02b0597518ce3"
+	{
+		"en"		"Pistol bullet part  7"
+		"ru"		"Часть пистолетного патрона 7"
+		"zho"		"手枪子弹部分 7"
+		"chi"		"手槍子彈部分 7"
+	}
+	"56e21edba383cb612d1bd34321991487"
+	{
+		"en"		"Pistol bullet part  8"
+		"ru"		"Часть пистолетного патрона 8"
+		"zho"		"手枪子弹部分 8"
+		"chi"		"手槍子彈部分 8"
+	}
+	"58245ffa0861e3813a23ca4ede063a91"
+	{
+		"en"		"Pistol bullet part  9"
+		"ru"		"Часть пистолетного патрона 9"
+		"zho"		"手枪子弹部分 9"
+		"chi"		"手槍子彈部分 9"
+	}
+	"1f690fe2807e8db1a237c22486fb6dba"
+	{
+		"en"		"Rifle bullet part  0"
+		"ru"		"Часть винтовочного патрона 0"
+		"zho"		"步枪子弹部分 0"
+		"chi"		"步槍子彈部分 0"
+	}
+	"3bb73b108407ef859d0dbfc81c80562f"
+	{
+		"en"		"Rifle bullet part  1"
+		"ru"		"Часть винтовочного патрона 1"
+		"zho"		"步枪子弹部分 1"
+		"chi"		"步槍子彈部分 1"
+	}
+	"cf613811a2d62ce7e7e942d477b96c08"
+	{
+		"en"		"Rifle bullet part  2"
+		"ru"		"Часть винтовочного патрона 2"
+		"zho"		"步枪子弹部分 2"
+		"chi"		"步槍子彈部分 2"
+	}
+	"cea3d6e9759dacf2b6d5fef6c46f44f0"
+	{
+		"en"		"Rifle bullet part  3"
+		"ru"		"Часть винтовочного патрона 3"
+		"zho"		"步枪子弹部分 3"
+		"chi"		"步槍子彈部分 3"
+	}
+	"7679d11184b72dbdf3846d94d8362b7a"
+	{
+		"en"		"Rifle bullet part  4"
+		"ru"		"Часть винтовочного патрона 4"
+		"zho"		"步枪子弹部分 4"
+		"chi"		"步槍子彈部分 4"
+	}
+	"bf5b603904594dc6e5ffcb4920b2bb76"
+	{
+		"en"		"Rifle bullet part  5"
+		"ru"		"Часть винтовочного патрона 5"
+		"zho"		"步枪子弹部分 5"
+		"chi"		"步槍子彈部分 5"
+	}
+	"4695a2256f4eba512ff42d1123c789fb"
+	{
+		"en"		"Rifle bullet part  6"
+		"ru"		"Часть винтовочного патрона 6"
+		"zho"		"步枪子弹部分 6"
+		"chi"		"步槍子彈部分 6"
+	}
+	"97ce52fb6410e0f2d3b7adaf2e6959c1"
+	{
+		"en"		"Rifle bullet part  7"
+		"ru"		"Часть винтовочного патрона 7"
+		"zho"		"步枪子弹部分 7"
+		"chi"		"步槍子彈部分 7"
+	}
+	"90d2f565c03a9130fc9fb4fa406e18e5"
+	{
+		"en"		"Rifle bullet part  8"
+		"ru"		"Часть винтовочного патрона 8"
+		"zho"		"步枪子弹部分 8"
+		"chi"		"步槍子彈部分 8"
+	}
+	"2f6394ef88cbdbee88fd1e44a5af9dd2"
+	{
+		"en"		"Rifle bullet part  9"
+		"ru"		"Часть винтовочного патрона 9"
+		"zho"		"步枪子弹部分 9"
+		"chi"		"步槍子彈部分 9"
+	}
+	"967c7809be7cd531da9e0fd6eaea7508"
+	{
+		"en"		"The necessary boxes for ammo and shells can be knocked out of zombies or found left on the map after the battle"
+		"ru"		"Необходимые коробки с патронами и снарядами можно выбить из зомби или найти оставленными на карте после боя"
+		"zho"		"必要的弹药和炮弹盒可以从僵尸身上击倒或在战斗后地图上找到"
+		"chi"		"必要的彈藥和炮彈盒可以從殭屍身上擊倒或在戰鬥後地圖上找到"
+	}
+	"cafb755ee2d4ea9dff900511aa1b64c9"
+	{
+		"en"		"Here you can craft ammo, you need one box of the right kind and 5 shells"
+		"ru"		"Здесь вы можете создать патроны, вам понадобится одна коробка нужного типа и 5 снарядов"
+		"zho"		"在这里你可以制作弹药，你需要一盒正确种类的弹药和5个炮弹"
+		"chi"		"在這裡你可以製作彈藥，你需要一盒正確種類的彈藥和5個炮彈"
+	}
+	"b1e018193b8974a91cb04df84ebc1416"
+	{
+		"en"		"Stuka destroyed the plane with supplies, maybe next time you will have time to destroy stuka earlier"
+		"ru"		"Stuka уничтожил самолет с припасами, возможно, в следующий раз у вас будет время уничтожить Stuka раньше"
+		"zho"		"斯图卡摧毁了装有补给的飞机，也许下次你会有时间提前摧毁斯图卡"
+		"chi"		"斯圖卡摧毀了裝有補給的飛機，也許下次你會有時間提前摧毀斯圖卡"
+	}
+	"6cc1ce15944d1efb462c032a560d516f"
+	{
+		"en"		"STUKA inbound"
+		"ru"		"STUKA на подходе"
+		"zho"		"斯图卡来袭"
+		"chi"		"斯圖卡來襲"
+	}
+	"a24220a9253d0c96a83f98fdd0fc56ce"
+	{
+		"en"		"You can destroy the engine so that the plane does not return again"
+		"ru"		"Вы можете уничтожить двигатель, чтобы самолет не вернулся снова"
+		"zho"		"你可以摧毁引擎，这样飞机就不会再返回了"
+		"chi"		"你可以摧毀引擎，這樣飛機就不會再返回了"
+	}
+	"4a393eec351e57ec9f2e5089d074a1af"
+	{
+		"en"		"Supply drop is coming"
+		"ru"		"Приближается сброс припасов"
+		"zho"		"补给空投即将到来"
+		"chi"		"補給空投即將到來"
+	}
+	"6b5760606e41e93702a11e671f0b11e8"
+	{
+		"en"		"Map by Flippy"
+		"ru"		"Карта от Flippy"
+		"zho"		"由 Flippy 制作的地图"
+		"chi"		"由 Flippy 製作的地圖"
+	}
+}

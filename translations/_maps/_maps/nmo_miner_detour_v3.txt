@@ -1,0 +1,199 @@
+"Phrases"
+{
+	"9d7199eec4d936d8bf54e1cbd8c2298a"
+	{
+		"en"		"The chopper will be here in 5 minutes! Survive!"
+		"ru"		"Вертолёт будет здесь через 5 минут! Выживайте!"
+		"zho"		"直升机将在5分钟内到达！生存下去！"
+		"chi"		"直升機將在5分鐘內到達！生存下去！"
+	}
+	"f4fc8899c2ed07a55ec804952f1de471"
+	{
+		"en"		"Launch a firework to signal your position"
+		"ru"		"Запустите фейерверк, чтобы указать своё местоположение"
+		"zho"		"发射烟花以标示你的位置"
+		"chi"		"發射煙花以標示你的位置"
+	}
+	"735f100a6572a0be44a906667abed99c"
+	{
+		"en"		"Find a radio to call for help"
+		"ru"		"Найдите радио, чтобы вызвать помощь"
+		"zho"		"找到无线电呼救"
+		"chi"		"找到無線電呼救"
+	}
+	"7f4141068a9044f8eec0ec89923bf3c8"
+	{
+		"en"		"Make your way to the other side of the mine"
+		"ru"		"Доберитесь до другой стороны шахты"
+		"zho"		"前往矿井的另一边"
+		"chi"		"前往礦井的另一邊"
+	}
+	"2140b2e87455d76886dccf227350940c"
+	{
+		"en"		"The brakes are working again, wait for the train to stop."
+		"ru"		"Тормоза снова работают, подождите, пока поезд остановится."
+		"zho"		"刹车又工作了，等火车停下来。"
+		"chi"		"煞車又工作了，等火車停下來。"
+	}
+	"7edbcd5f76a5ca805c5dda0650dcaa97"
+	{
+		"en"		"The brakes have broken, repair them."
+		"ru"		"Тормоза сломаны, почините их."
+		"zho"		"刹车坏了，修理它们。"
+		"chi"		"煞車壞了，修理它們。"
+	}
+	"d229e779cc4913334ebd607f426e94cd"
+	{
+		"en"		"Use the brakes to stop the train."
+		"ru"		"Используйте тормоза, чтобы остановить поезд."
+		"zho"		"用刹车让火车停下来。"
+		"chi"		"用煞車讓火車停下來。"
+	}
+	"0d184aa93b4196ec042395f25511adab"
+	{
+		"en"		"Reach the locomotive to stop the train."
+		"ru"		"Доберитесь до локомотива, чтобы остановить поезд."
+		"zho"		"到达机车停车。"
+		"chi"		"到達機車停車。"
+	}
+	"dbf56a2bd8f9c385141a25cae7e6f2ca"
+	{
+		"en"		"The fire is blocking the way, find a way around."
+		"ru"		"Пожар блокирует путь, найдите обходной путь."
+		"zho"		"火焰挡住了路，找到绕过它的方法。"
+		"chi"		"火焰擋住了路，找到繞過它的方法。"
+	}
+	"2691e68a61a4c06dc4d3544cf77840cd"
+	{
+		"en"		"The tesla gun have been recharged and got 50 charges."
+		"ru"		"Тесла-пушка перезаряжена и имеет 50 зарядов."
+		"zho"		"特斯拉枪已充电，有50发子弹。"
+		"chi"		"特斯拉槍已充電，有50發子彈。"
+	}
+	"1c9c23a84e0057fc7d65ed1fa54d1903"
+	{
+		"en"		"This cog seems to be welded, i need to find a way to break it."
+		"ru"		"Эта шестерня, кажется, приварена, мне нужно найти способ сломать её."
+		"zho"		"这个齿轮似乎被焊接住了，我需要找到一种方法打破它。"
+		"chi"		"這個齒輪似乎被焊接住了，我需要找到一種方法打破它。"
+	}
+	"ac2eb81d893a1fafc8bc00dd3169ca32"
+	{
+		"en"		"The tesla gun got 10 charges."
+		"ru"		"Тесла-пушка имеет 10 зарядов."
+		"zho"		"特斯拉枪有10发子弹。"
+		"chi"		"特斯拉槍有10發子彈。"
+	}
+	"88fc3918af310bde6460a4f14d75007e"
+	{
+		"en"		"The tesla gun got 20 charges."
+		"ru"		"Тесла-пушка имеет 20 зарядов."
+		"zho"		"特斯拉枪有20发子弹。"
+		"chi"		"特斯拉槍有20發子彈。"
+	}
+	"f56ae9761592ddb01181a0f8cba8f5fd"
+	{
+		"en"		"The tesla gun got 30 charges."
+		"ru"		"Тесла-пушка имеет 30 зарядов."
+		"zho"		"特斯拉枪有30发子弹。"
+		"chi"		"特斯拉槍有30發子彈。"
+	}
+	"db45f8f9bf53d27b62bfe8a5129e0565"
+	{
+		"en"		"The tesla gun got 40 charges."
+		"ru"		"Тесла-пушка имеет 40 зарядов."
+		"zho"		"特斯拉枪有40发子弹。"
+		"chi"		"特斯拉槍有40發子彈。"
+	}
+	"017207444b2f785788533e6c3a744335"
+	{
+		"en"		"You got 50 charges. Wield a pistol to have the best view."
+		"ru"		"У вас есть 50 зарядов. Используйте пистолет, чтобы получить лучший обзор."
+		"zho"		"你有50发子弹。挥动手枪以获得最佳视野。"
+		"chi"		"你有50發子彈。揮動手槍以獲得最佳視野。"
+	}
+	"51e2ea8e12835beafe1e22f4cdce1eda"
+	{
+		"en"		"Kill all the zombies before moving to the next coach!"
+		"ru"		"Убейте всех зомби, прежде чем переходить к следующему вагону!"
+		"zho"		"在移动到下一个车厢之前杀死所有僵尸！"
+		"chi"		"在移動到下一個車廂之前殺死所有殭屍！"
+	}
+	"658c7b12814ab5030bbf34f4f274062b"
+	{
+		"en"		"Maybe if i get the minecart to hit this door i can break it open."
+		"ru"		"Может быть, если я заставлю вагонетку ударить эту дверь, я смогу её открыть."
+		"zho"		"也许如果我让矿车撞这扇门，我就能把它打开。"
+		"chi"		"也許如果我讓礦車撞這扇門，我就能把它打開。"
+	}
+	"e7cff04ec1a61b01f2160deda13d191a"
+	{
+		"en"		"Keep the use key (E) pressed on the wheels to make them rotate."
+		"ru"		"Удерживайте клавишу использования (E) на колёсах, чтобы заставить их вращаться."
+		"zho"		"按住使用键 (E) 在轮子上使其旋转。"
+		"chi"		"按住使用鍵 (E) 在輪子上使其旋轉。"
+	}
+	"6c1b7bf887f604b9dd605c53c6edb93c"
+	{
+		"en"		"You got 30 more seconds of fuel."
+		"ru"		"У вас осталось 30 секунд топлива."
+		"zho"		"你还有30秒的燃料。"
+		"chi"		"你還有30秒的燃料。"
+	}
+	"26b462e8e039d89e35f8fbb033a01290"
+	{
+		"en"		"You got 1 more minute of fuel."
+		"ru"		"У вас осталось 1 минута топлива."
+		"zho"		"你还有1分钟的燃料。"
+		"chi"		"你還有1分鐘的燃料。"
+	}
+	"b41e52d995dd4bdab4fe1c644027a1d4"
+	{
+		"en"		"Lets burn some zombies! The fuel will last 2 minutes. Wield a pistol of some kind to have the best view."
+		"ru"		"Давайте поджарим зомби! Топлива хватит на 2 минуты. Используйте пистолет, чтобы получить лучший обзор."
+		"zho"		"让我们烧一些僵尸！燃料会持续2分钟。挥动手枪以获得最佳视野。"
+		"chi"		"讓我們燒一些殭屍！燃料會持續2分鐘。揮動手槍以獲得最佳視野。"
+	}
+	"c973b3649f53422959dca7b8b8ae204a"
+	{
+		"en"		"Eating bread did give you full HP!"
+		"ru"		"Еда хлеба восстановила ваше здоровье полностью!"
+		"zho"		"吃面包确实让你满血复活！"
+		"chi"		"吃麵包確實讓你滿血復活！"
+	}
+	"87054d816bcf3d34b8d35bf351581bba"
+	{
+		"en"		"Radio: Allright, i've seen the firework, we will be there in 5 minutes!"
+		"ru"		"Радио: Хорошо, я видел фейерверк, мы будем там через 5 минут!"
+		"zho"		"无线电：好的，我看到了烟花，我们5分钟后到达！"
+		"chi"		"無線電：好的，我看到了煙花，我們5分鐘後到達！"
+	}
+	"60ffa3bd0b55cf8ac9a3be60cbe0616d"
+	{
+		"en"		"Radio: Some survivors? Nice! Signal your position and we will pick you up!"
+		"ru"		"Радио: Есть выжившие? Отлично! Сигнальте своё местоположение, и мы вас заберём!"
+		"zho"		"无线电：有幸存者？太好了！发出你的位置信号，我们会来接你！"
+		"chi"		"無線電：有倖存者？太好了！發出你的位置信號，我們會來接你！"
+	}
+	"f2d7a3313e7f4fd839efd49f44713862"
+	{
+		"en"		"This trapdoor is too high."
+		"ru"		"Этот люк слишком высоко."
+		"zho"		"这个活板门太高了。"
+		"chi"		"這個活板門太高了。"
+	}
+	"5d6c032339dd6b91ea5c4d42fa37634b"
+	{
+		"en"		"This door seems locked from the other side."
+		"ru"		"Эта дверь кажется заперта с другой стороны."
+		"zho"		"这扇门似乎从另一边锁上了。"
+		"chi"		"這扇門似乎從另一邊鎖上了。"
+	}
+	"807b3996e4172a564c7e0364cc2a9148"
+	{
+		"en"		"This chest is too heavy to be moved."
+		"ru"		"Этот сундук слишком тяжёлый, чтобы его двигать."
+		"zho"		"这个箱子太重了，无法移动。"
+		"chi"		"這個箱子太重了，無法移動。"
+	}
+}

@@ -1,0 +1,80 @@
+"Phrases"
+{
+	"fb33c9c5deaa730107fa2800cfa3d7d4"
+	{
+		"en"		"#nmo_broadway_objI"
+		"ru"		"#nmo_broadway_objI"
+		"zho"		"#nmo_broadway_objI"
+		"chi"		"#nmo_broadway_objI"
+	}
+	"544d9b82c8331c260b32db2d481886fd"
+	{
+		"en"		"#nmo_broadway_objD_1"
+		"ru"		"#nmo_broadway_objD_1"
+		"zho"		"#nmo_broadway_objD_1"
+		"chi"		"#nmo_broadway_objD_1"
+	}
+	"a587d5725c51e2b2b28f096f748b529b"
+	{
+		"en"		"#nmo_broadway_objH"
+		"ru"		"#nmo_broadway_objH"
+		"zho"		"#nmo_broadway_objH"
+		"chi"		"#nmo_broadway_objH"
+	}
+	"fb41ccd5c19036ddfaac530d46d5837f"
+	{
+		"en"		"#nmo_broadway_objG1"
+		"ru"		"#nmo_broadway_objG1"
+		"zho"		"#nmo_broadway_objG1"
+		"chi"		"#nmo_broadway_objG1"
+	}
+	"c6890e2dd98f5c3772a8c0b60d549f44"
+	{
+		"en"		"#nmo_broadway_objF"
+		"ru"		"#nmo_broadway_objF"
+		"zho"		"#nmo_broadway_objF"
+		"chi"		"#nmo_broadway_objF"
+	}
+	"e311ff7a1918e0d783e8a2137d48ac8f"
+	{
+		"en"		"#nmo_broadway_objE"
+		"ru"		"#nmo_broadway_objE"
+		"zho"		"#nmo_broadway_objE"
+		"chi"		"#nmo_broadway_objE"
+	}
+	"df4b5b5f7f57f7581020787fe62e84db"
+	{
+		"en"		"#nmo_broadway_objD"
+		"ru"		"#nmo_broadway_objD"
+		"zho"		"#nmo_broadway_objD"
+		"chi"		"#nmo_broadway_objD"
+	}
+	"401f61c2d8df850210670130b7118af4"
+	{
+		"en"		"#nmo_broadway_objC"
+		"ru"		"#nmo_broadway_objC"
+		"zho"		"#nmo_broadway_objC"
+		"chi"		"#nmo_broadway_objC"
+	}
+	"4969a7a2a9b8fe00dd06c1ffe2ae0ef2"
+	{
+		"en"		"#nmo_broadway_objB_1"
+		"ru"		"#nmo_broadway_objB_1"
+		"zho"		"#nmo_broadway_objB_1"
+		"chi"		"#nmo_broadway_objB_1"
+	}
+	"4489c52c22913ed0309ac8f2718a9bd4"
+	{
+		"en"		"#nmo_broadway_objB1"
+		"ru"		"#nmo_broadway_objB1"
+		"zho"		"#nmo_broadway_objB1"
+		"chi"		"#nmo_broadway_objB1"
+	}
+	"5f1bbc74b7098ad995b68507f1b40863"
+	{
+		"en"		"#nmo_broadway_objA"
+		"ru"		"#nmo_broadway_objA"
+		"zho"		"#nmo_broadway_objA"
+		"chi"		"#nmo_broadway_objA"
+	}
+}

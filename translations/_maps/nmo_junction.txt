@@ -1,0 +1,80 @@
+"Phrases"
+{
+	"2278e414f0260ede7dfd18dc22a6a28e"
+	{
+		"en"		"#nmo_junction_Finale_tnt"
+		"ru"		"#nmo_junction_Finale_tnt"
+		"zho"		"#nmo_junction_Finale_tnt"
+		"chi"		"#nmo_junction_Finale_tnt"
+	}
+	"6e3a7b991e32f6b382915110f78b6c4e"
+	{
+		"en"		"#nmo_junction_Find_sewer_key"
+		"ru"		"#nmo_junction_Find_sewer_key"
+		"zho"		"#nmo_junction_Find_sewer_key"
+		"chi"		"#nmo_junction_Find_sewer_key"
+	}
+	"4bf4b89d823c0c7cf4f9ac693132228e"
+	{
+		"en"		"#nmo_junction_Office_progress"
+		"ru"		"#nmo_junction_Office_progress"
+		"zho"		"#nmo_junction_Office_progress"
+		"chi"		"#nmo_junction_Office_progress"
+	}
+	"99bc4b2b48d99d839d327818b941a1a9"
+	{
+		"en"		"#nmo_junction_pawnshop_door_code"
+		"ru"		"#nmo_junction_pawnshop_door_code"
+		"zho"		"#nmo_junction_pawnshop_door_code"
+		"chi"		"#nmo_junction_pawnshop_door_code"
+	}
+	"6e949db3b5dfe1eed53c15c54d9afb8c"
+	{
+		"en"		"#nmo_junction_Pawnshop_fense_door"
+		"ru"		"#nmo_junction_Pawnshop_fense_door"
+		"zho"		"#nmo_junction_Pawnshop_fense_door"
+		"chi"		"#nmo_junction_Pawnshop_fense_door"
+	}
+	"1521509259392bc4eb5647bf3d0b7221"
+	{
+		"en"		"#nmo_junction_Weld_door"
+		"ru"		"#nmo_junction_Weld_door"
+		"zho"		"#nmo_junction_Weld_door"
+		"chi"		"#nmo_junction_Weld_door"
+	}
+	"fa7c159d6632118f3c52b13b7f882a84"
+	{
+		"en"		"#nmo_junction_Use_radio"
+		"ru"		"#nmo_junction_Use_radio"
+		"zho"		"#nmo_junction_Use_radio"
+		"chi"		"#nmo_junction_Use_radio"
+	}
+	"c3965095e46335e0eecf3d64db290a9c"
+	{
+		"en"		"#nmo_junction_Exploding_door"
+		"ru"		"#nmo_junction_Exploding_door"
+		"zho"		"#nmo_junction_Exploding_door"
+		"chi"		"#nmo_junction_Exploding_door"
+	}
+	"25e2fa7e04ee2e9dd6a77b0c909128f4"
+	{
+		"en"		"#nmo_junction_Turn_off_alarm"
+		"ru"		"#nmo_junction_Turn_off_alarm"
+		"zho"		"#nmo_junction_Turn_off_alarm"
+		"chi"		"#nmo_junction_Turn_off_alarm"
+	}
+	"1d187f96e20e8659d012cb9f304f4712"
+	{
+		"en"		"#nmo_junction_Break_front"
+		"ru"		"#nmo_junction_Break_front"
+		"zho"		"#nmo_junction_Break_front"
+		"chi"		"#nmo_junction_Break_front"
+	}
+	"43e58d2cab569b224c39c0e5fc75489f"
+	{
+		"en"		"#nmo_junction_Street_door"
+		"ru"		"#nmo_junction_Street_door"
+		"zho"		"#nmo_junction_Street_door"
+		"chi"		"#nmo_junction_Street_door"
+	}
+}

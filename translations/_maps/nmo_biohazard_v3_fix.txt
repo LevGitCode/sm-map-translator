@@ -1,0 +1,157 @@
+"Phrases"
+{
+	"ba6d7f9596b72f5c8bb38e0447aa5a22"
+	{
+		"en"		"Escape Raccoon Police Department"
+		"ru"		"Сбегите из полицейского участка Раккун-Сити"
+		"zho"		"逃离浣熊市警察局"
+		"chi"		"逃離浣熊市警察局"
+	}
+	"2a085e6152cc062f9cb7286cb88896f6"
+	{
+		"en"		"Use Keycard on Computer"
+		"ru"		"Используйте ключ-карту на компьютере"
+		"zho"		"在电脑上使用钥匙卡"
+		"chi"		"在電腦上使用鑰匙卡"
+	}
+	"9e94fb197226d6267fef5444f7447204"
+	{
+		"en"		"You have acquired the Club Key."
+		"ru"		"Вы получили ключ от треф"
+		"zho"		"你获得了梅花钥匙"
+		"chi"		"你獲得了梅花鑰匙"
+	}
+	"d333015493ad42692f10b0fc069ad6df"
+	{
+		"en"		"A strong smell of fuel is coming from the wood."
+		"ru"		"От леса исходит сильный запах топлива"
+		"zho"		"木头上传来浓烈的燃油味"
+		"chi"		"木頭上傳來濃烈的燃油味"
+	}
+	"f0b13b3a6bab79068cf2f2b05d41bd72"
+	{
+		"en"		"You have acquired the Bishop Plug."
+		"ru"		"Вы получили штекер слона"
+		"zho"		"你获得了象棋插头"
+		"chi"		"你獲得了象棋插頭"
+	}
+	"d338f92da3d13776e15e17daaa1e709f"
+	{
+		"en"		"You have acquired the Knight Plug."
+		"ru"		"Вы получили штекер коня"
+		"zho"		"你获得了骑士插头"
+		"chi"		"你獲得了騎士插頭"
+	}
+	"bca83d441fa90c2544acbe694e5aa03a"
+	{
+		"en"		"You have acquired the King Plug."
+		"ru"		"Вы получили штекер короля"
+		"zho"		"你获得了国王插头"
+		"chi"		"你獲得了國王插頭"
+	}
+	"093aa7b183f9609766350570bdaa6c9d"
+	{
+		"en"		"You have acquired the Rook Plug."
+		"ru"		"Вы получили штекер ладьи"
+		"zho"		"你获得了城堡插头"
+		"chi"		"你獲得了城堡插頭"
+	}
+	"d069c025abec325f0f2845a7c1a6cf33"
+	{
+		"en"		"You have acquired the Heart Key."
+		"ru"		"Вы получили ключ от червей"
+		"zho"		"你获得了红心钥匙"
+		"chi"		"你獲得了紅心鑰匙"
+	}
+	"74d60c9c9aa4eb33d5b5f6a846ab2d53"
+	{
+		"en"		"You have acquired the Diamond Key."
+		"ru"		"Вы получили ключ от бубен"
+		"zho"		"你获得了钻石钥匙"
+		"chi"		"你獲得了鑽石鑰匙"
+	}
+	"e39e900c52ba9bcdfa8e49ee5ee7a71d"
+	{
+		"en"		"It won't budge...I might be able to melt the lock."
+		"ru"		"Это не сдвигается... возможно, я смогу расплавить замок"
+		"zho"		"它纹丝不动……我可能可以融化锁"
+		"chi"		"它紋絲不動……我可能可以融化鎖"
+	}
+	"13a142ff8ed8316b213e98eeb00bfb82"
+	{
+		"en"		"It looks like a panel to release the lock."
+		"ru"		"Похоже, это панель для отпирания замка"
+		"zho"		"看起来像是释放锁的面板"
+		"chi"		"看起來像是釋放鎖的面板"
+	}
+	"7cbf818f0f6ab524dbe7bbd9342e90c6"
+	{
+		"en"		"Four slots to insert plugs is exposed."
+		"ru"		"Открыты четыре слота для вставки штекеров"
+		"zho"		"暴露了四个插头插槽"
+		"chi"		"暴露了四個插頭插槽"
+	}
+	"b7f9ce896e4c7a72c333577c1e408973"
+	{
+		"en"		"Something unlocked..."
+		"ru"		"Что-то разблокировалось..."
+		"zho"		"什么东西解锁了……"
+		"chi"		"什麼東西解鎖了……"
+	}
+	"55c90e7cc503d13f1a460971d4b04f3b"
+	{
+		"en"		"A latch release must be close by."
+		"ru"		"Рядом должен быть рычаг отпирания"
+		"zho"		"附近一定有释放门栓"
+		"chi"		"附近一定有釋放門栓"
+	}
+	"6347d4749228b6d5a345b806e7e78087"
+	{
+		"en"		"It's locked from the other side."
+		"ru"		"Закрыто с другой стороны"
+		"zho"		"它从另一边锁上了"
+		"chi"		"它從另一邊鎖上了"
+	}
+	"a6df09f0fa8bf1b2817a392b1646b868"
+	{
+		"en"		"A Diamond is etched on the door."
+		"ru"		"На двери выгравирован ромб"
+		"zho"		"门上刻有钻石"
+		"chi"		"門上刻有鑽石"
+	}
+	"5e3d0c4a8fcf2a3acb3e465884d1f005"
+	{
+		"en"		"A Spade is etched on the door."
+		"ru"		"На двери выгравирована пика"
+		"zho"		"门上刻有黑桃"
+		"chi"		"門上刻有黑桃"
+	}
+	"15efc6d47bce3396e642818d39638bb4"
+	{
+		"en"		"A Club is etched on the door."
+		"ru"		"На двери выгравирована трефа"
+		"zho"		"门上刻有梅花"
+		"chi"		"門上刻有梅花"
+	}
+	"13ac5083210e10f40ed9c45ffe6dcc05"
+	{
+		"en"		"A Heart is etched on the door."
+		"ru"		"На двери выгравировано сердце"
+		"zho"		"门上刻有红心"
+		"chi"		"門上刻有紅心"
+	}
+	"5277ec3ab570055277173859c66969f5"
+	{
+		"en"		"It's locked..."
+		"ru"		"Заперто..."
+		"zho"		"锁住了……"
+		"chi"		"鎖住了……"
+	}
+	"1ceee06927c3814ddd3d2ec52821588c"
+	{
+		"en"		"It's electronically locked."
+		"ru"		"Заперто электронным замком"
+		"zho"		"电子锁锁住了"
+		"chi"		"電子鎖鎖住了"
+	}
+}

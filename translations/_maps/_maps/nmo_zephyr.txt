@@ -1,0 +1,115 @@
+"Phrases"
+{
+	"8ffd57a94366698f4958feaf4980338d"
+	{
+		"en"		"#nmo_zephyr_objective10_allaboard"
+		"ru"		"#nmo_zephyr_objective10_allaboard"
+		"zho"		"#nmo_zephyr_objective10_allaboard"
+		"chi"		"#nmo_zephyr_objective10_allaboard"
+	}
+	"24e25cc38c29bc9b99d82e15cb637a0e"
+	{
+		"en"		"#nmo_zephyr_objective9_brakes"
+		"ru"		"#nmo_zephyr_objective9_brakes"
+		"zho"		"#nmo_zephyr_objective9_brakes"
+		"chi"		"#nmo_zephyr_objective9_brakes"
+	}
+	"0f1307d7ff91b9d6064c18f82a236b55"
+	{
+		"en"		"#nmo_zephyr_objective8_switchdasequel"
+		"ru"		"#nmo_zephyr_objective8_switchdasequel"
+		"zho"		"#nmo_zephyr_objective8_switchdasequel"
+		"chi"		"#nmo_zephyr_objective8_switchdasequel"
+	}
+	"78e17990a4a7a529d8ed7b6f89f3e951"
+	{
+		"en"		"#nmo_zephyr_objective7_switch1"
+		"ru"		"#nmo_zephyr_objective7_switch1"
+		"zho"		"#nmo_zephyr_objective7_switch1"
+		"chi"		"#nmo_zephyr_objective7_switch1"
+	}
+	"8a09c8660acdfab700c05ae7c67e5c84"
+	{
+		"en"		"#nmo_zephyr_objective6a_unclog"
+		"ru"		"#nmo_zephyr_objective6a_unclog"
+		"zho"		"#nmo_zephyr_objective6a_unclog"
+		"chi"		"#nmo_zephyr_objective6a_unclog"
+	}
+	"704c51a6599f975873f31a93a4003933"
+	{
+		"en"		"#nmo_zephyr_objective6_activate"
+		"ru"		"#nmo_zephyr_objective6_activate"
+		"zho"		"#nmo_zephyr_objective6_activate"
+		"chi"		"#nmo_zephyr_objective6_activate"
+	}
+	"bd1565277d87e6905642357625c61635"
+	{
+		"en"		"#nmo_zephyr_Objective5c_1901"
+		"ru"		"#nmo_zephyr_Objective5c_1901"
+		"zho"		"#nmo_zephyr_Objective5c_1901"
+		"chi"		"#nmo_zephyr_Objective5c_1901"
+	}
+	"1ae6128caa7986d1829d5bc758ee9114"
+	{
+		"en"		"#nmo_zephyr_Objective5b_2606"
+		"ru"		"#nmo_zephyr_Objective5b_2606"
+		"zho"		"#nmo_zephyr_Objective5b_2606"
+		"chi"		"#nmo_zephyr_Objective5b_2606"
+	}
+	"17ffb38fd1331325bb9feeb3495e59fb"
+	{
+		"en"		"#nmo_zephyr_objective5d_powerup"
+		"ru"		"#nmo_zephyr_objective5d_powerup"
+		"zho"		"#nmo_zephyr_objective5d_powerup"
+		"chi"		"#nmo_zephyr_objective5d_powerup"
+	}
+	"e14715dc6c0bff103173bd5d52e44b9e"
+	{
+		"en"		"#nmo_zephyr_objective5a_2710"
+		"ru"		"#nmo_zephyr_objective5a_2710"
+		"zho"		"#nmo_zephyr_objective5a_2710"
+		"chi"		"#nmo_zephyr_objective5a_2710"
+	}
+	"283b7fe6dab9ee6c145b6f31bdb914e9"
+	{
+		"en"		"#nmo_zephyr_objective4_pickupwalkie"
+		"ru"		"#nmo_zephyr_objective4_pickupwalkie"
+		"zho"		"#nmo_zephyr_objective4_pickupwalkie"
+		"chi"		"#nmo_zephyr_objective4_pickupwalkie"
+	}
+	"d432cf24d39fee57fb12b328721ca2ad"
+	{
+		"en"		"#nmo_zephyr_objective3_warehouseelevator"
+		"ru"		"#nmo_zephyr_objective3_warehouseelevator"
+		"zho"		"#nmo_zephyr_objective3_warehouseelevator"
+		"chi"		"#nmo_zephyr_objective3_warehouseelevator"
+	}
+	"a17ec5981e443fe9b885d12972256178"
+	{
+		"en"		"#nmo_zephyr_objective2b_blowtorchsewer"
+		"ru"		"#nmo_zephyr_objective2b_blowtorchsewer"
+		"zho"		"#nmo_zephyr_objective2b_blowtorchsewer"
+		"chi"		"#nmo_zephyr_objective2b_blowtorchsewer"
+	}
+	"fe6fe5f198ec565d11438825d942ad00"
+	{
+		"en"		"#nmo_zephyr_objective2a_sewertime"
+		"ru"		"#nmo_zephyr_objective2a_sewertime"
+		"zho"		"#nmo_zephyr_objective2a_sewertime"
+		"chi"		"#nmo_zephyr_objective2a_sewertime"
+	}
+	"e26a92ad5d4e61e733de4f0cfbed1772"
+	{
+		"en"		"#nmo_zephyr_objective2_blowwarehouse"
+		"ru"		"#nmo_zephyr_objective2_blowwarehouse"
+		"zho"		"#nmo_zephyr_objective2_blowwarehouse"
+		"chi"		"#nmo_zephyr_objective2_blowwarehouse"
+	}
+	"70e56bad62e6551996d28bee328b7060"
+	{
+		"en"		"#nmo_zephyr_objective1_leavebuilding"
+		"ru"		"#nmo_zephyr_objective1_leavebuilding"
+		"zho"		"#nmo_zephyr_objective1_leavebuilding"
+		"chi"		"#nmo_zephyr_objective1_leavebuilding"
+	}
+}

@@ -1,0 +1,150 @@
+"Phrases"
+{
+	"46eaae82c854e24c07c2e4e42a334285"
+	{
+		"en"		"Kill the zombie boss!"
+		"ru"		"Убейте босса зомби!"
+		"zho"		"杀死僵尸首领！"
+		"chi"		"殺死殭屍首領！"
+	}
+	"52a10443df889a4ff6cf36f98bcd9dbd"
+	{
+		"en"		"Keep going to the deep of the city"
+		"ru"		"Продолжайте идти вглубь города"
+		"zho"		"继续深入城市"
+		"chi"		"繼續深入城市"
+	}
+	"3d0842b5bda1103f17deee69965944af"
+	{
+		"en"		"Repair the gas trap by using backup tools"
+		"ru"		"Отремонтируйте газовую ловушку с помощью запасных инструментов"
+		"zho"		"用备用工具修理毒气陷阱"
+		"chi"		"用備用工具修理毒氣陷阱"
+	}
+	"1cb16bd61a94617386159ae1f8f38921"
+	{
+		"en"		"Repair the propeller trap by using backup tools"
+		"ru"		"Отремонтируйте пропеллерную ловушку с помощью запасных инструментов"
+		"zho"		"用备用工具修理螺旋桨陷阱"
+		"chi"		"用備用工具修理螺旋槳陷阱"
+	}
+	"200474ab88298e7b9dae521c5364416c"
+	{
+		"en"		"Repair the electric trap by using backup tools"
+		"ru"		"Отремонтируйте электрическую ловушку с помощью запасных инструментов"
+		"zho"		"用备用工具修理电击陷阱"
+		"chi"		"用備用工具修理電擊陷阱"
+	}
+	"9ab8d97b1c388a2aec1452fd9c7cc8ff"
+	{
+		"en"		"Keep going to the center of the city"
+		"ru"		"Продолжайте идти к центру города"
+		"zho"		"继续前往市中心"
+		"chi"		"繼續前往市中心"
+	}
+	"7d390221652026ea8c83154bfe098340"
+	{
+		"en"		"Turn off the electricity to open the door"
+		"ru"		"Отключите электричество, чтобы открыть дверь"
+		"zho"		"关闭电源以打开门"
+		"chi"		"關閉電源以打開門"
+	}
+	"ea0efe6a77acfbb4aaceb085ffe6a9d9"
+	{
+		"en"		"Find a way to blow up the passage"
+		"ru"		"Найдите способ взорвать проход"
+		"zho"		"找到炸毁通道的方法"
+		"chi"		"找到炸毀通道的方法"
+	}
+	"6b14ab78a11a8028ae88eae83af95b87"
+	{
+		"en"		"Find a way to the surface"
+		"ru"		"Найдите путь к поверхности"
+		"zho"		"找到通往地面的路"
+		"chi"		"找到通往地面的路"
+	}
+	"8d720a7edb7b5b5cfc867c0d9e4c44bf"
+	{
+		"en"		"Pick up a key and open the door to escape!"
+		"ru"		"Возьмите ключ и откройте дверь, чтобы сбежать!"
+		"zho"		"拿起钥匙并打开门逃生！"
+		"chi"		"拿起鑰匙並打開門逃生！"
+	}
+	"90fc6d0e4ed930c84bf03dd1cb24707d"
+	{
+		"en"		"Saw off the pole"
+		"ru"		"Спилите столб"
+		"zho"		"锯掉杆子"
+		"chi"		"鋸掉杆子"
+	}
+	"b12f525c036333db57d4e1974b24fd5a"
+	{
+		"en"		"nmo_ravenholm - ported in to NMRIH by Extragamer, Drunk Steep and Atheist"
+		"ru"		"nmo_ravenholm - перенесено в NMRIH Extragamer, Drunk Steep и Atheist"
+		"zho"		"nmo_ravenholm - 由 Extragamer, Drunk Steep 和 Atheist 移植到 NMRIH"
+		"chi"		"nmo_ravenholm - 由 Extragamer, Drunk Steep 和 Atheist 移植到 NMRIH"
+	}
+	"bdc878d0b72aa55b3c7a4de16d68a3ca"
+	{
+		"en"		"I will let you through now. Go. We will meet again."
+		"ru"		"Я пропущу вас. Идите. Мы ещё встретимся."
+		"zho"		"我现在让你通过。走吧。我们会再见面的。"
+		"chi"		"我現在讓你通過。走吧。我們會再見面的。"
+	}
+	"0a1ba5f9a8930998db5f93403eaf9080"
+	{
+		"en"		"Make haste, brothers! Restore them to working condition!"
+		"ru"		"Поторопитесь, братья! Восстановите их работоспособность!"
+		"zho"		"快点，兄弟们！恢复它们的工作状态！"
+		"chi"		"快點，兄弟們！恢復它們的工作狀態！"
+	}
+	"cb764bf97d7819ccdd5ad3cc82876283"
+	{
+		"en"		"But first you must help me mend my traps. You will need to procure some spare parts."
+		"ru"		"Но сначала вы должны помочь мне починить мои ловушки. Вам нужно будет достать некоторые запасные части."
+		"zho"		"但首先你必须帮我修理我的陷阱。你需要找到一些备件。"
+		"chi"		"但首先你必須幫我修理我的陷阱。你需要找到一些備件。"
+	}
+	"5c4f28ef504c1fc21bb5825e18c709b8"
+	{
+		"en"		"I suspect you have little wish to remain in Ravenholm, so I will show you the way out."
+		"ru"		"Я подозреваю, что вы не очень хотите оставаться в Рейвенхольме, так что я покажу вам выход."
+		"zho"		"我怀疑你不想留在瑞文霍姆，所以我会告诉你出路。"
+		"chi"		"我懷疑你不想留在瑞文霍姆，所以我會告訴你出路。"
+	}
+	"eff8a8d0c7cc9a922b1b83292d7cf463"
+	{
+		"en"		"Greetings, brothers. I am father Grigori. You have already met my congregation."
+		"ru"		"Приветствую вас, братья. Я отец Григорий. Вы уже познакомились с моей паствой."
+		"zho"		"问候，兄弟们。我是格里高利神父。你已经见过我的会众了。"
+		"chi"		"問候，兄弟們。我是格里高利神父。你已經見過我的會眾了。"
+	}
+	"d52fb400f96ff0eae6eedf6f3f6906ef"
+	{
+		"en"		"Guard yourself well, for dangers may lie within."
+		"ru"		"Берегите себя, опасности могут быть внутри."
+		"zho"		"保重，里面可能有危险。"
+		"chi"		"保重，裡面可能有危險。"
+	}
+	"27ef8761beb7d0874acc72cdd770d3d9"
+	{
+		"en"		"There is hope for you if you can reach the large building with a tower."
+		"ru"		"Есть надежда для вас, если вы сможете добраться до большого здания с башней."
+		"zho"		"如果你能到达有塔的大楼，你就有希望了。"
+		"chi"		"如果你能到達有塔的大樓，你就有希望了。"
+	}
+	"dcefe6f2c91bf729252efbc2e2ed1baf"
+	{
+		"en"		"Well done, brothers. The traps will prevent my flock from getting unruly."
+		"ru"		"Молодцы, братья. Ловушки не дадут моей пастве разойтись."
+		"zho"		"干得好，兄弟们。陷阱会阻止我的羊群变得暴躁。"
+		"chi"		"幹得好，兄弟們。陷阱會阻止我的羊群變得暴躁。"
+	}
+	"c4856dc8af52d1a138abcf6447ce00cb"
+	{
+		"en"		"Activate a trap"
+		"ru"		"Активировать ловушку"
+		"zho"		"启动陷阱"
+		"chi"		"啟動陷阱"
+	}
+}

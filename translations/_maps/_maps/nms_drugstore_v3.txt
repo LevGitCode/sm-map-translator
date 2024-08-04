@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"b7e293734f8ba334b7f849bcc6f182d4"
+	{
+		"en"		"All survivors in the area, gather in front of the drugstore!"
+		"ru"		"Все выжившие в этом районе, собирайтесь перед аптекой!"
+		"zho"		"所有在该地区的幸存者，请聚集在药店前面！"
+		"chi"		"所有在該地區的幸存者，請聚集在藥店前面！"
+	}
+	"c8bda640e07db97908410e86fc2fc2d0"
+	{
+		"en"		"15 seconds left!"
+		"ru"		"Осталось 15 секунд!"
+		"zho"		"还剩15秒！"
+		"chi"		"還剩15秒！"
+	}
+	"99deebbcfbe1fd752945b187642ddb59"
+	{
+		"en"		"60 seconds left!"
+		"ru"		"Осталась 1 минута!"
+		"zho"		"还剩60秒！"
+		"chi"		"還剩60秒！"
+	}
+	"9f8b07ce8202150630d658fcb27993c3"
+	{
+		"en"		"The horde has arrived!"
+		"ru"		"Орда прибыла!"
+		"zho"		"群已经到了！"
+		"chi"		"群已經到了！"
+	}
+	"840c65138cfd489090c1286ea8f08d03"
+	{
+		"en"		"You have a few minutes to gather whatever supplies are left in the city."
+		"ru"		"У вас есть несколько минут, чтобы собрать оставшиеся в городе припасы."
+		"zho"		"你有几分钟时间收集城市里剩下的物资。"
+		"chi"		"你有幾分鐘時間收集城市裡剩下的物資。"
+	}
+	"90172997dd7f35aec6625388a05def11"
+	{
+		"en"		"A huge horde is approaching the drugstore!"
+		"ru"		"Огромная орда приближается к аптеке!"
+		"zho"		"一大群人正在接近药店！"
+		"chi"		"一大群人正在接近藥店！"
+	}
+	"e1839470430b202faeeb0fa8b5c8b46b"
+	{
+		"en"		"You can now use the barricade hammer on the ruined window."
+		"ru"		"Теперь вы можете использовать молоток для баррикад на разрушенном окне."
+		"zho"		"你现在可以用挡板锤修复破损的窗户了。"
+		"chi"		"你現在可以用擋板錘修復破損的窗戶了。"
+	}
+	"6b1536204b9055c096cedd711a2dbc81"
+	{
+		"en"		"Find 2 sheets of plywood near red glowsticks to barricade this window."
+		"ru"		"Найдите 2 листа фанеры возле красных светящихся палочек, чтобы забаррикадировать это окно."
+		"zho"		"在红色荧光棒附近找到2块胶合板来挡住这个窗户。"
+		"chi"		"在紅色熒光棒附近找到2塊膠合板來擋住這個窗戶。"
+	}
+}

@@ -1,0 +1,17 @@
+"Phrases"
+{
+	"8517106c70ed63fc22f27cab3f9c623f"
+	{
+		"en"		"Chopper leaves in 50 seconds!"
+		"ru"		"Chopper leaves in 50 seconds!"
+		"zho"		"Chopper leaves in 50 seconds!"
+		"chi"		"Chopper leaves in 50 seconds!"
+	}
+	"33aafe38adcdab169b5ac78c113d612b"
+	{
+		"en"		"Map created by Ulreth"
+		"ru"		"Map created by Ulreth"
+		"zho"		"Map created by Ulreth"
+		"chi"		"Map created by Ulreth"
+	}
+}

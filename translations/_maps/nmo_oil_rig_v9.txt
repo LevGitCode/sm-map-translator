@@ -1,0 +1,248 @@
+"Phrases"
+{
+	"026b005ae8686c9fd5278da6fb5bca32"
+	{
+		"en"		"Hacking failed! Find a welder inside any of the supply boxes"
+		"ru"		"Взлом не удался! Найдите сварочный аппарат в одной из коробок с припасами"
+		"zho"		"黑客攻击失败！在任何一个供应箱内找到焊接机"
+		"chi"		"黑客攻擊失敗！在任何一個供應箱內找到焊接機"
+	}
+	"db8f6904bea2849b1e312d2591774416"
+	{
+		"en"		"Hack PC and get welder to break main cabin padlock"
+		"ru"		"Взломайте ПК и возьмите сварочный аппарат, чтобы взломать замок главной каюты"
+		"zho"		"黑入PC并获取焊接机以打破主舱的挂锁"
+		"chi"		"黑入PC並獲取焊接機以打破主艙的掛鎖"
+	}
+	"3c10f31ae6e8a616bd7ab8b1e3bb186e"
+	{
+		"en"		"Enter engine room using back door"
+		"ru"		"Войдите в машинное отделение через заднюю дверь"
+		"zho"		"通过后门进入发动机室"
+		"chi"		"通過後門進入發動機室"
+	}
+	"b20c6f58d4d467c0ef85eaffd9e32d61"
+	{
+		"en"		"Extinguish the fire coming from the machines"
+		"ru"		"Потушите огонь, исходящий от машин"
+		"zho"		"扑灭来自机器的火灾"
+		"chi"		"撲滅來自機器的火災"
+	}
+	"ce2e03d6e4889dd0dd484d9acef07a70"
+	{
+		"en"		"Use a crowbar to get inside the building"
+		"ru"		"Используйте лом, чтобы попасть внутрь здания"
+		"zho"		"使用撬棍进入建筑物"
+		"chi"		"使用撬棍進入建築物"
+	}
+	"07a373cb65d82ca641f5198c32e0ed2d"
+	{
+		"en"		"Repair faulty generator and escape!"
+		"ru"		"Отремонтируйте неисправный генератор и бегите!"
+		"zho"		"修理故障的发电机并逃跑！"
+		"chi"		"修理故障的發電機並逃跑！"
+	}
+	"76ad7a367ec62a97e9f5086d5f4b9b0b"
+	{
+		"en"		"Call for help"
+		"ru"		"Позовите на помощь"
+		"zho"		"呼救"
+		"chi"		"呼救"
+	}
+	"c6b2888c593c698e2e4006cb595a7d32"
+	{
+		"en"		"Enter engine room through an open vent"
+		"ru"		"Войдите в машинное отделение через открытый вентиляционный люк"
+		"zho"		"通过打开的通风口进入发动机室"
+		"chi"		"通過打開的通風口進入發動機室"
+	}
+	"810006dddc0a086dec15d3a077ff6d09"
+	{
+		"en"		"Resist until elevator reaches the main platform"
+		"ru"		"Держитесь, пока лифт не достигнет главной платформы"
+		"zho"		"坚持到电梯到达主平台"
+		"chi"		"堅持到電梯到達主平台"
+	}
+	"9ed6117e7f17a91d9bbaa7ffac0d7784"
+	{
+		"en"		"Search for fuel to power up main cargo lift"
+		"ru"		"Ищите топливо, чтобы запустить главный грузовой лифт"
+		"zho"		"寻找燃料以启动主要货梯"
+		"chi"		"尋找燃料以啟動主要貨梯"
+	}
+	"045c3c285b843a9c79bd354fb907df1a"
+	{
+		"en"		"Find a way to escape from bunks area"
+		"ru"		"Найдите способ выбраться из зоны кают"
+		"zho"		"找到逃离船舱区的方法"
+		"chi"		"找到逃離船艙區的方法"
+	}
+	"c205673012f317b5536a9a1629f55c68"
+	{
+		"en"		"Find the main key to exit bunks area"
+		"ru"		"Найдите главный ключ, чтобы выйти из зоны кают"
+		"zho"		"找到主钥匙以退出船舱区"
+		"chi"		"找到主鑰匙以退出船艙區"
+	}
+	"de2808f439f37b35a8b705a1b3851e72"
+	{
+		"en"		"Clear the area and resist until chopper arrival"
+		"ru"		"Очистите территорию и держитесь до прибытия вертолета"
+		"zho"		"清理区域并坚持到直升机到来"
+		"chi"		"清理區域並堅持到直升機到來"
+	}
+	"62b2fd7fd27902f89afcb4c35693785b"
+	{
+		"en"		"Find the access code of the helipad"
+		"ru"		"Найдите код доступа к вертолетной площадке"
+		"zho"		"找到直升机停机坪的访问代码"
+		"chi"		"找到直升機停機坪的訪問代碼"
+	}
+	"9876ae538744f8f7788538e482ce41fb"
+	{
+		"en"		"Look for the missing fuse box and fix electrical systems"
+		"ru"		"Ищите отсутствующий предохранительный блок и исправьте электрические системы"
+		"zho"		"寻找缺失的保险丝盒并修复电气系统"
+		"chi"		"尋找缺失的保險絲盒並修復電氣系統"
+	}
+	"836fc7a12ec0d4561b3fb2e07f3eb3a6"
+	{
+		"en"		"Use a gas tank to destroy the main door of the engine room"
+		"ru"		"Используйте газовый баллон, чтобы разрушить главную дверь машинного отделения"
+		"zho"		"使用油罐摧毁发动机室的主门"
+		"chi"		"使用油罐摧毀發動機室的主門"
+	}
+	"0001bbed733efa5aff0405698a86e90b"
+	{
+		"en"		"Access code 2465"
+		"ru"		"Код доступа 2465"
+		"zho"		"访问代码 2465"
+		"chi"		"訪問代碼 2465"
+	}
+	"36bde7bf594f0da22939d8b0cd5b1276"
+	{
+		"en"		"Access code 4868"
+		"ru"		"Код доступа 4868"
+		"zho"		"访问代码 4868"
+		"chi"		"訪問代碼 4868"
+	}
+	"97628b429f3b5d383f6afe34d757a8e3"
+	{
+		"en"		"Access code 3934"
+		"ru"		"Код доступа 3934"
+		"zho"		"访问代码 3934"
+		"chi"		"訪問代碼 3934"
+	}
+	"2b07a069d1296ed4406d7a3d80fac7ba"
+	{
+		"en"		"Access code 9582"
+		"ru"		"Код доступа 9582"
+		"zho"		"访问代码 9582"
+		"chi"		"訪問代碼 9582"
+	}
+	"f8c52d6a0ff21cb91691e5f1cffa5f78"
+	{
+		"en"		"Access code 6631"
+		"ru"		"Код доступа 6631"
+		"zho"		"访问代码 6631"
+		"chi"		"訪問代碼 6631"
+	}
+	"5228183b2acb80b8a2d3353b2f3ded45"
+	{
+		"en"		"Access code 1523"
+		"ru"		"Код доступа 1523"
+		"zho"		"访问代码 1523"
+		"chi"		"訪問代碼 1523"
+	}
+	"de69711bd7fc5a1cfdba342a8a95a427"
+	{
+		"en"		"Access code 9814"
+		"ru"		"Код доступа 9814"
+		"zho"		"访问代码 9814"
+		"chi"		"訪問代碼 9814"
+	}
+	"2e180c69fe299cfa67370b99e58bcf62"
+	{
+		"en"		"Access code 8134"
+		"ru"		"Код доступа 8134"
+		"zho"		"访问代码 8134"
+		"chi"		"訪問代碼 8134"
+	}
+	"326a86ab1d0dbcdd6df11f6e84216276"
+	{
+		"en"		"Access code 7486"
+		"ru"		"Код доступа 7486"
+		"zho"		"访问代码 7486"
+		"chi"		"訪問代碼 7486"
+	}
+	"5b0c9f6ddf453f18f4b4f74b072c6f5e"
+	{
+		"en"		"Access code 6017"
+		"ru"		"Код доступа 6017"
+		"zho"		"访问代码 6017"
+		"chi"		"訪問代碼 6017"
+	}
+	"ae818a24e926f323ecbae60eb7bb31ec"
+	{
+		"en"		"Access code 5320"
+		"ru"		"Код доступа 5320"
+		"zho"		"访问代码 5320"
+		"chi"		"訪問代碼 5320"
+	}
+	"e545ae43600ad8a4c2633df6da46ac60"
+	{
+		"en"		"Access code 4125"
+		"ru"		"Код доступа 4125"
+		"zho"		"访问代码 4125"
+		"chi"		"訪問代碼 4125"
+	}
+	"70455dc467e4a20141b09edaaba41ad5"
+	{
+		"en"		"Access code 3048"
+		"ru"		"Код доступа 3048"
+		"zho"		"访问代码 3048"
+		"chi"		"訪問代碼 3048"
+	}
+	"31a2919b1432e932d61208eb695dc2fb"
+	{
+		"en"		"Access code 2681"
+		"ru"		"Код доступа 2681"
+		"zho"		"访问代码 2681"
+		"chi"		"訪問代碼 2681"
+	}
+	"3fe79eaf8f5ae4ef9edbb6906c84a55b"
+	{
+		"en"		"Access code 1283"
+		"ru"		"Код доступа 1283"
+		"zho"		"访问代码 1283"
+		"chi"		"訪問代碼 1283"
+	}
+	"215099b96a9391323e4e017a2886daf0"
+	{
+		"en"		"Access code 0672"
+		"ru"		"Код доступа 0672"
+		"zho"		"访问代码 0672"
+		"chi"		"訪問代碼 0672"
+	}
+	"43d5668492d4e6bfe51089fa29247084"
+	{
+		"en"		"Access code:"
+		"ru"		"Код доступа:"
+		"zho"		"访问代码:"
+		"chi"		"訪問代碼:"
+	}
+	"33aafe38adcdab169b5ac78c113d612b"
+	{
+		"en"		"Map created by Ulreth"
+		"ru"		"Карта создана Ulreth"
+		"zho"		"地图由 Ulreth 创建"
+		"chi"		"地圖由 Ulreth 創建"
+	}
+	"75e8e74ee3d3b6b093aaea2896df78af"
+	{
+		"en"		"Chopper leaves in 40 seconds!"
+		"ru"		"Вертолет улетает через 40 секунд!"
+		"zho"		"直升机在40秒内离开！"
+		"chi"		"直升機在40秒內離開！"
+	}
+}

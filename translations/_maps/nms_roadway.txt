@@ -1,0 +1,10 @@
+"Phrases"
+{
+	"d75263a4952fa39268d9040642812230"
+	{
+		"en"		"Leave zone C!!!"
+		"ru"		"Leave zone C!!!"
+		"zho"		"Leave zone C!!!"
+		"chi"		"Leave zone C!!!"
+	}
+}

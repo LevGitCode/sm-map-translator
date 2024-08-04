@@ -1,0 +1,248 @@
+"Phrases"
+{
+	"29ec7e659dd09037aa27410e5f6b6466"
+	{
+		"en"		"Survive for 2 minutes until rescue arrives."
+		"ru"		"Выживайте 2 минуты до прибытия спасателей."
+		"zho"		"坚持2分钟直到救援到达。"
+		"chi"		"堅持2分鐘直到救援到達。"
+	}
+	"f44d9ee91f4f070e7582c9b833dbad9c"
+	{
+		"en"		"Use the phone to call for extraction."
+		"ru"		"Используйте телефон, чтобы вызвать эвакуацию."
+		"zho"		"用电话呼叫撤离。"
+		"chi"		"用電話呼叫撤離。"
+	}
+	"ea6d66c2ccb20b9d8ca4db14791a0bc8"
+	{
+		"en"		"Return back to the streets."
+		"ru"		"Вернитесь на улицы."
+		"zho"		"回到街上。"
+		"chi"		"回到街上。"
+	}
+	"8f5d34c29c91629331720309dbb60eab"
+	{
+		"en"		"Run back to the elevator."
+		"ru"		"Бегите обратно к лифту."
+		"zho"		"跑回电梯。"
+		"chi"		"跑回電梯。"
+	}
+	"47723562f04068a1c7643eaca305a785"
+	{
+		"en"		"Close all 4 valves."
+		"ru"		"Закройте все 4 клапана."
+		"zho"		"关闭所有4个阀门。"
+		"chi"		"關閉所有4個閥門。"
+	}
+	"110da59cb0d984dca8861577eb61fe2c"
+	{
+		"en"		"Find the source of the infection."
+		"ru"		"Найдите источник инфекции."
+		"zho"		"找到感染源。"
+		"chi"		"找到感染源。"
+	}
+	"c23fbdc40d03adf893e28708294f563c"
+	{
+		"en"		"Get to the underground."
+		"ru"		"Идите под землю."
+		"zho"		"前往地下。"
+		"chi"		"前往地下。"
+	}
+	"a5dade61bdecc03b6c9e8bbe8bc2a9ea"
+	{
+		"en"		"Find the blowtorch in train and weld the door."
+		"ru"		"Найдите горелку в поезде и заварите дверь."
+		"zho"		"找到火车上的吹焊器并焊接门。"
+		"chi"		"找到火車上的吹焊器並焊接門。"
+	}
+	"33d63e11c46d3016957350174b9617d7"
+	{
+		"en"		"Find the elevator."
+		"ru"		"Найдите лифт."
+		"zho"		"找到电梯。"
+		"chi"		"找到電梯。"
+	}
+	"61c54dd363af053c1c86c418406bd2a0"
+	{
+		"en"		"Proceed down into subway."
+		"ru"		"Спускайтесь в метро."
+		"zho"		"继续下到地铁。"
+		"chi"		"繼續下到地鐵。"
+	}
+	"cf8473688c1d391c5ef953712f2f735d"
+	{
+		"en"		"The doors are locked, hack the PC inside control room."
+		"ru"		"Двери заперты, взломайте компьютер в комнате управления."
+		"zho"		"门被锁住了，破解控制室内的电脑。"
+		"chi"		"門被鎖住了，破解控制室內的電腦。"
+	}
+	"507b9249aad8dc2340b904781291080e"
+	{
+		"en"		"Enter the subway."
+		"ru"		"Войдите в метро."
+		"zho"		"进入地铁。"
+		"chi"		"進入地鐵。"
+	}
+	"bcf546d3c48ac8bade309be0e54ad5ec"
+	{
+		"en"		"Wait until the gate is opened."
+		"ru"		"Ждите, пока ворота не откроются."
+		"zho"		"等到大门打开。"
+		"chi"		"等到大門打開。"
+	}
+	"9099def211b9379a7e82d519d0c66d92"
+	{
+		"en"		"Use the phone to call for some help."
+		"ru"		"Используйте телефон, чтобы позвать на помощь."
+		"zho"		"用电话呼叫一些帮助。"
+		"chi"		"用電話呼叫一些幫助。"
+	}
+	"dded001f9a06fb26e8fbea9276cacd58"
+	{
+		"en"		"Go to the subway."
+		"ru"		"Идите в метро."
+		"zho"		"去地铁。"
+		"chi"		"去地鐵。"
+	}
+	"fcb992d3cdf88edd39fb286ffce754c6"
+	{
+		"en"		"Gear up before heading to subway."
+		"ru"		"Подготовьтесь перед походом в метро."
+		"zho"		"在前往地铁之前装备好。"
+		"chi"		"在前往地鐵之前裝備好。"
+	}
+	"6481d1dba09025961fe7140a198f69af"
+	{
+		"en"		"All players need to be back at the pay phone in 90 seconds"
+		"ru"		"Все игроки должны вернуться к таксофону за 90 секунд"
+		"zho"		"所有玩家需要在90秒内回到付费电话旁"
+		"chi"		"所有玩家需要在90秒內回到付費電話旁"
+	}
+	"e698bc0f15ed0f37843e007db2f29c7a"
+	{
+		"en"		"I must wait for help to come."
+		"ru"		"Я должен ждать, пока придет помощь."
+		"zho"		"我必须等待帮助到来。"
+		"chi"		"我必須等待幫助到來。"
+	}
+	"c37d439fb23799fed1fe9ba5612a99e3"
+	{
+		"en"		"I shouldn't go there. I must head for the subway."
+		"ru"		"Мне не следует туда идти. Я должен направиться в метро."
+		"zho"		"我不应该去那里。我必须前往地铁。"
+		"chi"		"我不應該去那裡。我必須前往地鐵。"
+	}
+	"74bef4110de7e964d14d50f3a853c8f1"
+	{
+		"en"		"Map by JohnSmith."
+		"ru"		"Карта от JohnSmith."
+		"zho"		"JohnSmith制作的地图。"
+		"chi"		"JohnSmith製作的地圖。"
+	}
+	"9033383161de5c7a5d2cf66ad18bb270"
+	{
+		"en"		"Ported by Miza."
+		"ru"		"Портировано Miza."
+		"zho"		"由Miza移植。"
+		"chi"		"由Miza移植。"
+	}
+	"1a788089be635148ffc348f968d0a433"
+	{
+		"en"		"Find the Blowtorch."
+		"ru"		"Найдите горелку."
+		"zho"		"找到吹焊器。"
+		"chi"		"找到吹焊器。"
+	}
+	"57258144eb933d7fc2dfc4cdc18adf3c"
+	{
+		"en"		"Elevator is behind, but this door wont open."
+		"ru"		"Лифт сзади, но эта дверь не открывается."
+		"zho"		"电梯在后面，但这扇门打不开。"
+		"chi"		"電梯在後面，但這扇門打不開。"
+	}
+	"11438181b1f3461bcb99abb8a097b004"
+	{
+		"en"		"Runners Incoming!!!"
+		"ru"		"Бегуны приближаются!!!"
+		"zho"		"跑者来袭！！！"
+		"chi"		"跑者來襲！！！"
+	}
+	"8977e0200b1288f255f83e681bb6f2b6"
+	{
+		"en"		"Blowtorch found, use it on the door."
+		"ru"		"Горелка найдена, используйте ее на двери."
+		"zho"		"找到吹焊器，用它焊接门。"
+		"chi"		"找到吹焊器，用它焊接門。"
+	}
+	"538fde13e0b76f5457ca03d9b38ef18e"
+	{
+		"en"		"Destroy it! Close all the valves to increase its pressure."
+		"ru"		"Уничтожьте это! Закройте все клапаны, чтобы увеличить давление."
+		"zho"		"摧毁它！关闭所有阀门以增加压力。"
+		"chi"		"摧毀它！關閉所有閥門以增加壓力。"
+	}
+	"e96c36592e1ddb5d8b242efd68a9264e"
+	{
+		"en"		"No doubt, this machine is infecting the water.."
+		"ru"		"Без сомнения, эта машина заражает воду."
+		"zho"		"毫无疑问，这台机器正在污染水源。"
+		"chi"		"毫無疑問，這台機器正在污染水源。"
+	}
+	"a0d43685f83b210cc5000ce256e3313e"
+	{
+		"en"		"Go back to the elevator!!"
+		"ru"		"Вернитесь к лифту!!"
+		"zho"		"回到电梯！！"
+		"chi"		"回到電梯！！"
+	}
+	"fb300ceba08f6796ac4313eaa90874f6"
+	{
+		"en"		"All valves are closed..."
+		"ru"		"Все клапаны закрыты..."
+		"zho"		"所有阀门都关闭了..."
+		"chi"		"所有閥門都關閉了..."
+	}
+	"31719e0c2c9b9fdb5a3a00915e719222"
+	{
+		"en"		"Hacking Subway's gate...This gonna take about 2 minutes"
+		"ru"		"Взлом ворот метро... Это займет около 2 минут"
+		"zho"		"正在破解地铁的门……这需要大约2分钟"
+		"chi"		"正在破解地鐵的門……這需要大約2分鐘"
+	}
+	"6959d7e06a9d911b0f566f0efb27e98c"
+	{
+		"en"		"Almost done...1 minute remaining.."
+		"ru"		"Почти готово... Осталась 1 минута.."
+		"zho"		"快完成了……还剩1分钟.."
+		"chi"		"快完成了……還剩1分鐘.."
+	}
+	"27f547fdc8c00c4a7e0cb0547aec6107"
+	{
+		"en"		"30 seconds remaining.."
+		"ru"		"Осталось 30 секунд.."
+		"zho"		"还剩30秒.."
+		"chi"		"還剩30秒.."
+	}
+	"c18acd7fb3eb47d77695bd60bf126ee7"
+	{
+		"en"		"10 seconds.."
+		"ru"		"10 секунд.."
+		"zho"		"10秒.."
+		"chi"		"10秒.."
+	}
+	"2efd758c7c97e670a3d22c6247b9ff7a"
+	{
+		"en"		"It's open, get in!"
+		"ru"		"Открыто, заходите!"
+		"zho"		"门开了，进去吧！"
+		"chi"		"門開了，進去吧！"
+	}
+	"e0a3f91f43f825fbab5ccea1a2c881c3"
+	{
+		"en"		"Fire gates are unlocked!"
+		"ru"		"Противопожарные ворота разблокированы!"
+		"zho"		"防火门已解锁！"
+		"chi"		"防火門已解鎖！"
+	}
+}

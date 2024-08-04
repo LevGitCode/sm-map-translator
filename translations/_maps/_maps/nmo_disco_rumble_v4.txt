@@ -1,0 +1,241 @@
+"Phrases"
+{
+	"62f8febe78a5fa29642303768b8a20df"
+	{
+		"en"		"Find a FUBAR tool to unlock sewer's hatch, then look for an alternative entrance that leads to disco basement"
+		"ru"		"Найдите инструмент FUBAR, чтобы открыть люк канализации, затем ищите альтернативный вход, ведущий в подвал дискотеки"
+		"zho"		"找到FUBAR工具以解锁下水道舱口，然后寻找通往迪斯科地下室的替代入口"
+		"chi"		"找到FUBAR工具以解锁下水道舱口，然后寻找通往迪斯科地下室的替代入口"
+	}
+	"3e249ab8a081b4de77095644b48dd894"
+	{
+		"en"		"Extinguish the fire upstairs and use the key to exit this building"
+		"ru"		"Потушите пожар наверху и используйте ключ, чтобы выйти из здания"
+		"zho"		"扑灭楼上的火并用钥匙离开这栋楼"
+		"chi"		"扑灭楼上的火并用钥匙离开这栋楼"
+	}
+	"433376f16dfca5af5156696e870be224"
+	{
+		"en"		"Survive until rescue arrives!"
+		"ru"		"Выживайте, пока не прибудет помощь!"
+		"zho"		"坚持到救援到来！"
+		"chi"		"坚持到救援到来！"
+	}
+	"45599e83e8a6c3c546ec3272211c996a"
+	{
+		"en"		"There is a gas leak in the basement and you need something from there, look for another way to enter"
+		"ru"		"В подвале утечка газа, и вам нужно что-то оттуда, ищите другой способ попасть внутрь"
+		"zho"		"地下室有煤气泄漏，你需要从那里拿些东西，寻找其他进入方式"
+		"chi"		"地下室有煤气泄漏，你需要从那里拿些东西，寻找其他进入方式"
+	}
+	"e4bcef0fd7719146bdcaf1f7ff3edd0a"
+	{
+		"en"		"Find the code to unlock sewer door"
+		"ru"		"Найдите код для открытия двери канализации"
+		"zho"		"找到解锁下水道门的代码"
+		"chi"		"找到解锁下水道门的代码"
+	}
+	"a6259ac982f2b4cc3a7fa78e20a3f912"
+	{
+		"en"		"Fix all 4 external spotlights with a welder, spare gascan and fuse"
+		"ru"		"Почините все 4 внешних прожектора с помощью сварочного аппарата, запасной канистры и предохранителя"
+		"zho"		"用焊接机、备用油罐和保险丝修理所有4个外部探照灯"
+		"chi"		"用焊接机、备用油罐和保险丝修理所有4个外部探照灯"
+	}
+	"3d9a51af944a7d3d63a6671f9438abe1"
+	{
+		"en"		"National Guard asks for exact coordinates, use DJ laptop to send them"
+		"ru"		"Национальная гвардия запрашивает точные координаты, используйте ноутбук DJ, чтобы отправить их"
+		"zho"		"国民警卫队要求提供准确的坐标，使用DJ笔记本发送"
+		"chi"		"国民警卫队要求提供准确的坐标，使用DJ笔记本发送"
+	}
+	"169a8b4c84d4b9049a473a0a8547d332"
+	{
+		"en"		"Finish the S.O.S call"
+		"ru"		"Завершите вызов S.O.S"
+		"zho"		"完成求救呼叫"
+		"chi"		"完成求救呼叫"
+	}
+	"52f69a18439a778a439bd269908296a7"
+	{
+		"en"		"Signal is too weak, use a welder to fix the antenna on the rooftop"
+		"ru"		"Сигнал слишком слабый, используйте сварочный аппарат, чтобы починить антенну на крыше"
+		"zho"		"信号太弱，使用焊接机修复屋顶上的天线"
+		"chi"		"信号太弱，使用焊接机修复屋顶上的天线"
+	}
+	"76ad7a367ec62a97e9f5086d5f4b9b0b"
+	{
+		"en"		"Call for help"
+		"ru"		"Позовите на помощь"
+		"zho"		"呼救"
+		"chi"		"呼救"
+	}
+	"d431453b0505f6905a29092d5fa30c60"
+	{
+		"en"		"Find an old radio and place it in manager's office"
+		"ru"		"Найдите старое радио и поместите его в офис менеджера"
+		"zho"		"找到旧收音机并将其放在经理办公室"
+		"chi"		"找到旧收音机并将其放在经理办公室"
+	}
+	"564177d71066d0938ee95a4271e02763"
+	{
+		"en"		"Emergency exits are blocked from outside, use a gas tank to destroy them"
+		"ru"		"Запасные выходы заблокированы снаружи, используйте газовый баллон, чтобы разрушить их"
+		"zho"		"紧急出口被外部封锁，使用油罐摧毁它们"
+		"chi"		"紧急出口被外部封锁，使用油罐摧毁它们"
+	}
+	"db795f3d946c6652649a479ec8d69250"
+	{
+		"en"		"You need a radio, recycle one from the back alley trash can"
+		"ru"		"Вам нужно радио, найдите его в мусорном баке в переулке"
+		"zho"		"你需要一个收音机，从后巷的垃圾桶里找一个"
+		"chi"		"你需要一个收音机，从后巷的垃圾桶里找一个"
+	}
+	"b0a5d1019c635096e07bbab367572dd0"
+	{
+		"en"		"Search for the missing keycard to access manager's office"
+		"ru"		"Ищите пропавшую карту-ключ для доступа в офис менеджера"
+		"zho"		"寻找丢失的钥匙卡以进入经理办公室"
+		"chi"		"寻找丢失的钥匙卡以进入经理办公室"
+	}
+	"2a44f5ab616ac7fee9ba9d9e80bf7a7c"
+	{
+		"en"		"Use the spare fuse to restore power"
+		"ru"		"Используйте запасной предохранитель для восстановления питания"
+		"zho"		"使用备用保险丝恢复电力"
+		"chi"		"使用备用保险丝恢复电力"
+	}
+	"91fe61d8c7f9af323fa777f42c692ec6"
+	{
+		"en"		"Cut down the fence with a welder to check fuse box status"
+		"ru"		"Срежьте забор сварочным аппаратом, чтобы проверить состояние распределительной коробки"
+		"zho"		"用焊接机切断围栏以检查保险丝盒状态"
+		"chi"		"用焊接机切断围栏以检查保险丝盒状态"
+	}
+	"a873d0e068492a4505427b624a4f3eed"
+	{
+		"en"		"Figure out which key unlocks the club's main entrance"
+		"ru"		"Узнайте, какой ключ открывает главный вход клуба"
+		"zho"		"找出哪把钥匙能打开俱乐部的主入口"
+		"chi"		"找出哪把钥匙能打开俱乐部的主入口"
+	}
+	"44c12bdec19fecb309163d68b2715d2a"
+	{
+		"en"		"Access code 7836"
+		"ru"		"Код доступа 7836"
+		"zho"		"访问代码7836"
+		"chi"		"访问代码7836"
+	}
+	"41b26f1c85675aa7a61d84cb2f685c0d"
+	{
+		"en"		"Access code 6679"
+		"ru"		"Код доступа 6679"
+		"zho"		"访问代码6679"
+		"chi"		"访问代码6679"
+	}
+	"1d89d950c5c65fee003e22ade3b99831"
+	{
+		"en"		"Access code 4720"
+		"ru"		"Код доступа 4720"
+		"zho"		"访问代码4720"
+		"chi"		"访问代码4720"
+	}
+	"8852345a1291d3816172ce5dd42b0b2d"
+	{
+		"en"		"Access code 3961"
+		"ru"		"Код доступа 3961"
+		"zho"		"访问代码3961"
+		"chi"		"访问代码3961"
+	}
+	"11be4a5b1b8ce1a178166aa3bcf313be"
+	{
+		"en"		"Access code 0236"
+		"ru"		"Код доступа 0236"
+		"zho"		"访问代码0236"
+		"chi"		"访问代码0236"
+	}
+	"a6e81add5035b651cf7489de3f501a7a"
+	{
+		"en"		"Access code 2283"
+		"ru"		"Код доступа 2283"
+		"zho"		"访问代码2283"
+		"chi"		"访问代码2283"
+	}
+	"e6e2e70ec97564140596b7910241ba0b"
+	{
+		"en"		"Access code 7791"
+		"ru"		"Код доступа 7791"
+		"zho"		"访问代码7791"
+		"chi"		"访问代码7791"
+	}
+	"c6a344f5d1fb4a17416c92aeee83dad4"
+	{
+		"en"		"Access code 2849"
+		"ru"		"Код доступа 2849"
+		"zho"		"访问代码2849"
+		"chi"		"访问代码2849"
+	}
+	"046b7b5d3d845db576a645f9acb0683a"
+	{
+		"en"		"Access code 6194"
+		"ru"		"Код доступа 6194"
+		"zho"		"访问代码6194"
+		"chi"		"访问代码6194"
+	}
+	"a5574f5792ae27af9a1b81c60fff0ccb"
+	{
+		"en"		"Access code 3001"
+		"ru"		"Код доступа 3001"
+		"zho"		"访问代码3001"
+		"chi"		"访问代码3001"
+	}
+	"2dfc208899edc89547eed6d4eba4bbc2"
+	{
+		"en"		"Access code 5910"
+		"ru"		"Код доступа 5910"
+		"zho"		"访问代码5910"
+		"chi"		"访问代码5910"
+	}
+	"7d923f77ab85a17e7ebe80a09104c17c"
+	{
+		"en"		"Access code 5487"
+		"ru"		"Код доступа 5487"
+		"zho"		"访问代码5487"
+		"chi"		"访问代码5487"
+	}
+	"24edc04cf63adab263087ed74504090b"
+	{
+		"en"		"Chopper leaves in 60 seconds!"
+		"ru"		"Вертолет улетает через 60 секунд!"
+		"zho"		"直升机将在60秒内离开！"
+		"chi"		"直升机将在60秒内离开！"
+	}
+	"43d5668492d4e6bfe51089fa29247084"
+	{
+		"en"		"Access code:"
+		"ru"		"Код доступа:"
+		"zho"		"访问代码:"
+		"chi"		"访问代码:"
+	}
+	"ba4980936101bbd98afc12bf87a62b18"
+	{
+		"en"		"National Guard armored tank leaves in 60 seconds!"
+		"ru"		"Бронетранспортер Национальной гвардии уезжает через 60 секунд!"
+		"zho"		"国民警卫队装甲坦克将在60秒内离开！"
+		"chi"		"国民警卫队装甲坦克将在60秒内离开！"
+	}
+	"d1d9666317d4cc93385986407dd151c0"
+	{
+		"en"		"DJ sequence accidentally started while sending coordinates..."
+		"ru"		"Последовательность DJ случайно запущена при отправке координат..."
+		"zho"		"发送坐标时意外启动了DJ序列..."
+		"chi"		"发送坐标时意外启动了DJ序列..."
+	}
+	"33aafe38adcdab169b5ac78c113d612b"
+	{
+		"en"		"Map created by Ulreth"
+		"ru"		"Карта создана Ulreth"
+		"zho"		"地图由Ulreth创建"
+		"chi"		"地图由Ulreth创建"
+	}
+}

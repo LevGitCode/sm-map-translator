@@ -1,0 +1,185 @@
+"Phrases"
+{
+	"a794c9a3efe61d8c81944c8584359ca7"
+	{
+		"en"		"Go to the trainstation"
+		"ru"		"Идите на вокзал"
+		"zho"		"去火车站"
+		"chi"		"去火車站"
+	}
+	"1bfbbc2614e6cee10b82e73ad441a1c4"
+	{
+		"en"		"Wait for the train to arrive!"
+		"ru"		"Ждите прибытия поезда!"
+		"zho"		"等火车到站！"
+		"chi"		"等火車到站！"
+	}
+	"a3075fb8fae833182eea4656ab2bff0f"
+	{
+		"en"		"Press 3 buttons to open door 32"
+		"ru"		"Нажмите 3 кнопки, чтобы открыть дверь 32"
+		"zho"		"按下3个按钮打开32号门"
+		"chi"		"按下3個按鈕打開32號門"
+	}
+	"69f8af1077c55e2899e8bccf990dadd8"
+	{
+		"en"		"Wait for doors 7 and 8 to open"
+		"ru"		"Ждите открытия дверей 7 и 8"
+		"zho"		"等待7号和8号门打开"
+		"chi"		"等待7號和8號門打開"
+	}
+	"f741c3c0405e48e43216e4a65dfe8b99"
+	{
+		"en"		"Find console boxes to open door 17"
+		"ru"		"Найдите консольные коробки, чтобы открыть дверь 17"
+		"zho"		"找到控制箱打开17号门"
+		"chi"		"找到控制箱打開17號門"
+	}
+	"0ee59f6d92663b5bada6993b4604d49c"
+	{
+		"en"		"Get in the elevator!"
+		"ru"		"Зайдите в лифт!"
+		"zho"		"进入电梯！"
+		"chi"		"進入電梯！"
+	}
+	"544cbaecb18a404797df27c8b2603a70"
+	{
+		"en"		"Difficulty chosen: Hard"
+		"ru"		"Выбрана сложность: Трудно"
+		"zho"		"选择的难度：困难"
+		"chi"		"選擇的難度：困難"
+	}
+	"a5d5b8c4f28f95d27e46d79b0e612333"
+	{
+		"en"		"Difficulty chosen: Easy"
+		"ru"		"Выбрана сложность: Легко"
+		"zho"		"选择的难度：简单"
+		"chi"		"選擇的難度：簡單"
+	}
+	"ba12612694c88d3a15b62815eba4c04c"
+	{
+		"en"		"All buttons are pressed, door 32 is opened"
+		"ru"		"Все кнопки нажаты, дверь 32 открыта"
+		"zho"		"所有按钮都已按下，32号门已打开"
+		"chi"		"所有按鈕都已按下，32號門已打開"
+	}
+	"d792982df66c3fb9899532983dea2ee2"
+	{
+		"en"		"buttons pressed 2/3 (they open door 32)"
+		"ru"		"нажаты кнопки 2/3 (они открывают дверь 32)"
+		"zho"		"按钮按下2/3（它们打开32号门）"
+		"chi"		"按鈕按下2/3（它們打開32號門）"
+	}
+	"5a9de62108964ff1290e8cefa1f20493"
+	{
+		"en"		"buttons pressed 1/3 (they open door 32)"
+		"ru"		"нажаты кнопки 1/3 (они открывают дверь 32)"
+		"zho"		"按钮按下1/3（它们打开32号门）"
+		"chi"		"按鈕按下1/3（它們打開32號門）"
+	}
+	"8389db740330785ec90a5e6ef26eec96"
+	{
+		"en"		"buttons pressed 0/3 (they open door 32)"
+		"ru"		"нажаты кнопки 0/3 (они открывают дверь 32)"
+		"zho"		"按钮按下0/3（它们打开32号门）"
+		"chi"		"按鈕按下0/3（它們打開32號門）"
+	}
+	"6fbf31f277d9f5bc5a0e68755cd8c4e2"
+	{
+		"en"		"all console boxes found, get to the door 17"
+		"ru"		"все консольные коробки найдены, идите к двери 17"
+		"zho"		"所有控制箱找到，前往17号门"
+		"chi"		"所有控制箱找到，前往17號門"
+	}
+	"5d2bb8d5717128c6cecf9936ef57dd38"
+	{
+		"en"		"console boxes 2/3 (should be brought to door 17)"
+		"ru"		"консольные коробки 2/3 (должны быть принесены к двери 17)"
+		"zho"		"控制箱2/3（应带到17号门）"
+		"chi"		"控制箱2/3（應帶到17號門）"
+	}
+	"6f738a653b86be8b1b610bd939de1b5e"
+	{
+		"en"		"console boxes 1/3 (should be brought to door 17)"
+		"ru"		"консольные коробки 1/3 (должны быть принесены к двери 17)"
+		"zho"		"控制箱1/3（应带到17号门）"
+		"chi"		"控制箱1/3（應帶到17號門）"
+	}
+	"72cd69210aebdc36e85dc1bc509289e1"
+	{
+		"en"		"console boxes 0/3 (should be brought to door 17)"
+		"ru"		"консольные коробки 0/3 (должны быть принесены к двери 17)"
+		"zho"		"控制箱0/3（应带到17号门）"
+		"chi"		"控制箱0/3（應帶到17號門）"
+	}
+	"e607d483dd4b290c4c28f3246907c503"
+	{
+		"en"		"you found a console box. Bring it to the door17"
+		"ru"		"вы нашли консольную коробку. Принесите ее к двери 17"
+		"zho"		"你找到了一个控制箱。把它带到17号门"
+		"chi"		"你找到了一個控制箱。把它帶到17號門"
+	}
+	"2b895ba9bfd3560d108db1f44847ae3d"
+	{
+		"en"		"the rescue train has arrived! Escape"
+		"ru"		"поезд спасения прибыл! Спасайтесь"
+		"zho"		"救援列车已到达！逃跑"
+		"chi"		"救援列車已到達！逃跑"
+	}
+	"91686126ebf645be5d952121cb9f792e"
+	{
+		"en"		"wait 30 seconds until doors 7 and 8 open"
+		"ru"		"ждите 30 секунд до открытия дверей 7 и 8"
+		"zho"		"等30秒直到7号和8号门打开"
+		"chi"		"等30秒直到7號和8號門打開"
+	}
+	"dd619037d757ed779835a13cdf608775"
+	{
+		"en"		"when water completely fills the tunnels door17 opens"
+		"ru"		"когда вода полностью заполнит туннели, дверь 17 откроется"
+		"zho"		"当水完全填满隧道时，17号门打开"
+		"chi"		"當水完全填滿隧道時，17號門打開"
+	}
+	"c72397dd201f3426f443286a1ba2e2c2"
+	{
+		"en"		"console boxes are placed. Go back to the door17"
+		"ru"		"консольные коробки размещены. Возвращайтесь к двери 17"
+		"zho"		"控制箱已放置。回到17号门"
+		"chi"		"控制箱已放置。回到17號門"
+	}
+	"d52b3d470fd9761f0c9efba8d5c4b3a9"
+	{
+		"en"		"press 3 buttons to open door 32"
+		"ru"		"нажмите 3 кнопки, чтобы открыть дверь 32"
+		"zho"		"按下3个按钮打开32号门"
+		"chi"		"按下3個按鈕打開32號門"
+	}
+	"8b8b6f5a4b7f9c3fe30a807f1ea088ca"
+	{
+		"en"		"A button has been pressed"
+		"ru"		"Кнопка нажата"
+		"zho"		"按钮已按下"
+		"chi"		"按鈕已按下"
+	}
+	"ebf4764f1c3a4191058945db1026eee7"
+	{
+		"en"		"the rescue train has almost arrived, prepare to get in!"
+		"ru"		"поезд спасения почти прибыл, готовьтесь садиться!"
+		"zho"		"救援列车快到了，准备上车！"
+		"chi"		"救援列車快到了，準備上車！"
+	}
+	"43832e3285faa69f405a6770949679d8"
+	{
+		"en"		"hold on! the rescue train will arrive in 2 minutes!"
+		"ru"		"держитесь! поезд спасения прибудет через 2 минуты!"
+		"zho"		"坚持住！救援列车将在2分钟内到达！"
+		"chi"		"堅持住！救援列車將在2分鐘內到達！"
+	}
+	"84b9b0a5ae26cd82d1fdc35b0248c695"
+	{
+		"en"		"All buttons are pressed. Opening door32"
+		"ru"		"Все кнопки нажаты. Открываем дверь 32"
+		"zho"		"所有按钮都按下了。打开32号门"
+		"chi"		"所有按鈕都按下了。打開32號門"
+	}
+}

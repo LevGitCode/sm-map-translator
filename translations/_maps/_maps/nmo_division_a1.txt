@@ -1,0 +1,248 @@
+"Phrases"
+{
+	"0f6ef8d490f07d376b2f21c1c46b6110"
+	{
+		"en"		"Use the building materials to create some kind of a bridge"
+		"ru"		"Используйте строительные материалы, чтобы создать нечто вроде моста"
+		"zho"		"使用建筑材料搭建一种桥梁"
+		"chi"		"使用建築材料搭建一種橋梁"
+	}
+	"7fc0c4aa9819a5bf684eaf0ad72c362e"
+	{
+		"en"		"Find an exit"
+		"ru"		"Найдите выход"
+		"zho"		"找到出口"
+		"chi"		"找到出口"
+	}
+	"a08d67d176a8d1f054faf59f7ed1ea3d"
+	{
+		"en"		"The helicopter is on the way, hang in there"
+		"ru"		"Вертолет уже в пути, держитесь"
+		"zho"		"直升机正在赶来，坚持住"
+		"chi"		"直升機正在趕來，堅持住"
+	}
+	"76f7f0d83b5a35c657dacc89881ef656"
+	{
+		"en"		"The outpost is here! Use the microphone to call for help"
+		"ru"		"Форпост здесь! Используйте микрофон, чтобы позвать на помощь"
+		"zho"		"前哨站在这里！使用麦克风呼救"
+		"chi"		"前哨站在這裡！使用麥克風呼救"
+	}
+	"dfc774f7b9a4de9fafe9dc9b6c3363d2"
+	{
+		"en"		"Make your way to the warehouse"
+		"ru"		"Направляйтесь к складу"
+		"zho"		"前往仓库"
+		"chi"		"前往倉庫"
+	}
+	"0b755430644b4d34fd4dd9a074c3c428"
+	{
+		"en"		"The radio is missing some parts! Find a satellite dish and a battery at the Qwikfuel station, then call for help again"
+		"ru"		"В радио не хватает некоторых частей! Найдите спутниковую тарелку и батарею на станции Qwikfuel, затем снова позовите на помощь"
+		"zho"		"无线电缺少一些部件！在Qwikfuel站找到卫星天线和电池，然后再次呼救"
+		"chi"		"無線電缺少一些部件！在Qwikfuel站找到衛星天線和電池，然後再次呼救"
+	}
+	"18bb7d5dbcade00e682e225877fdeb41"
+	{
+		"en"		"The radio is missing some parts! Find a satellite dish and a battery at the foodwall restaurant, then call for help again"
+		"ru"		"В радио не хватает некоторых частей! Найдите спутниковую тарелку и батарею в ресторане foodwall, затем снова позовите на помощь"
+		"zho"		"无线电缺少一些部件！在foodwall餐厅找到卫星天线和电池，然后再次呼救"
+		"chi"		"無線電缺少一些部件！在foodwall餐廳找到衛星天線和電池，然後再次呼救"
+	}
+	"4785f27b13fee29293d059c8bed9d5b2"
+	{
+		"en"		"Use the hand reader to finally unlock the front doors"
+		"ru"		"Используйте считыватель отпечатков, чтобы наконец-то открыть входные двери"
+		"zho"		"使用手掌识别器最终解锁前门"
+		"chi"		"使用手掌識別器最終解鎖前門"
+	}
+	"31d9f89c3bd4c73a7b5079e42987387b"
+	{
+		"en"		"Find 2 canisters to have enough fuel for the generator, overload it so it will explode creating a path"
+		"ru"		"Найдите 2 канистры, чтобы хватило топлива для генератора, перегрузите его, чтобы он взорвался и создал проход"
+		"zho"		"找到2个罐子以提供足够的燃料给发电机，使其过载爆炸以开辟一条路"
+		"chi"		"找到2個罐子以提供足夠的燃料給發電機，使其過載爆炸以開闢一條路"
+	}
+	"fe83ac882f39260ec173b81835ea2734"
+	{
+		"en"		"Find 3 batteries to overload the generator, it will blow up the wall behind it"
+		"ru"		"Найдите 3 батареи, чтобы перегрузить генератор, он взорвет стену позади него"
+		"zho"		"找到3块电池以过载发电机，它会炸掉后面的墙"
+		"chi"		"找到3塊電池以過載發電機，它會炸掉後面的牆"
+	}
+	"4d461752d8e2fce16d1537a85d704fe9"
+	{
+		"en"		"Enter the Qwikfuel station and find an exit towards the other side"
+		"ru"		"Войдите на станцию Qwikfuel и найдите выход на другую сторону"
+		"zho"		"进入Qwikfuel站并找到另一边的出口"
+		"chi"		"進入Qwikfuel站並找到另一邊的出口"
+	}
+	"75050e3ce391cd910cdbeea6ed554083"
+	{
+		"en"		"Get the shopkeeper what he wants from the main store area"
+		"ru"		"Достаньте для владельца магазина то, что он хочет из основной зоны магазина"
+		"zho"		"从主要商店区域给店主他想要的东西"
+		"chi"		"從主要商店區域給店主他想要的東西"
+	}
+	"daa1dba91009c50c7e03649991142e3d"
+	{
+		"en"		"Find a way to get over the brick wall"
+		"ru"		"Найдите способ перебраться через кирпичную стену"
+		"zho"		"找到越过砖墙的方法"
+		"chi"		"找到越過磚牆的方法"
+	}
+	"5967b5710c5b89488282fc4efa437bae"
+	{
+		"en"		"Find a ladder to get over another military blockade"
+		"ru"		"Найдите лестницу, чтобы перебраться через еще одну военную блокаду"
+		"zho"		"找到梯子以越过另一道军事封锁"
+		"chi"		"找到梯子以越過另一道軍事封鎖"
+	}
+	"7e6a093cf1d943a551c985f6b20e528d"
+	{
+		"en"		"Enter the sewers, then continue"
+		"ru"		"Войдите в канализацию, затем продолжайте"
+		"zho"		"进入下水道，然后继续"
+		"chi"		"進入下水道，然後繼續"
+	}
+	"3a0c670b85a098afa9c007ec55a876a5"
+	{
+		"en"		"Push away the car that is blocking the way"
+		"ru"		"Отодвиньте машину, которая блокирует путь"
+		"zho"		"推开挡路的车"
+		"chi"		"推開擋路的車"
+	}
+	"0acea015fcb4c785d11c9946c863f63c"
+	{
+		"en"		"Go through the parking lot"
+		"ru"		"Пройдите через парковку"
+		"zho"		"穿过停车场"
+		"chi"		"穿過停車場"
+	}
+	"87505e57f18af741b26dc18464227040"
+	{
+		"en"		"Need to find a working keyboard and a mouse, hack the security controls to open up the sewer gate"
+		"ru"		"Нужно найти рабочую клавиатуру и мышь, взломать систему безопасности, чтобы открыть ворота канализации"
+		"zho"		"需要找到一个工作键盘和鼠标，黑入安全控制系统打开下水道门"
+		"chi"		"需要找到一個工作鍵盤和鼠標，黑入安全控制系統打開下水道門"
+	}
+	"6782676677fffe949ecb921896e52d41"
+	{
+		"en"		"Enter the victory garage and find an exit on the other side (You'll need a welder)"
+		"ru"		"Войдите в гараж победы и найдите выход с другой стороны (Вам понадобится сварочный аппарат)"
+		"zho"		"进入胜利车库并找到另一边的出口（你需要一个焊工）"
+		"chi"		"進入勝利車庫並找到另一邊的出口（你需要一個焊工）"
+	}
+	"4bae00684aeeae4afdb828b9cf409b73"
+	{
+		"en"		"There's too much rubble to go through! Enter the victory garage and find an exit on the other side (Find a welder!)"
+		"ru"		"Слишком много обломков, чтобы пройти! Войдите в гараж победы и найдите выход с другой стороны (Найдите сварочный аппарат!)"
+		"zho"		"废墟太多无法通过！进入胜利车库并找到另一边的出口（找一个焊工！）"
+		"chi"		"廢墟太多無法通過！進入勝利車庫並找到另一邊的出口（找一個焊工！）"
+	}
+	"8a4a2a4b43101fda01d33261f4debe7f"
+	{
+		"en"		"The rubble is blocking the path! Enter the victory garage and find a way to the roof (Find a welder!)"
+		"ru"		"Обломки блокируют путь! Войдите в гараж победы и найдите путь на крышу (Найдите сварочный аппарат!)"
+		"zho"		"废墟阻塞了道路！进入胜利车库并找到通往屋顶的路（找一个焊工！）"
+		"chi"		"廢墟阻塞了道路！進入勝利車庫並找到通往屋頂的路（找一個焊工！）"
+	}
+	"93df3ef6a2dc1b64281a84086a4c5a6d"
+	{
+		"en"		"The fire is blocking the path, find an extinguisher"
+		"ru"		"Огонь блокирует путь, найдите огнетушитель"
+		"zho"		"火焰阻挡了道路，找到灭火器"
+		"chi"		"火焰阻擋了道路，找到滅火器"
+	}
+	"51ba39a55166347a4a8c3ca1d3071fb2"
+	{
+		"en"		"Find a way out of the warehouse"
+		"ru"		"Найдите выход со склада"
+		"zho"		"找到离开仓库的路"
+		"chi"		"找到離開倉庫的路"
+	}
+	"60a0ac2f0b516d6a2786a867c29b0ecf"
+	{
+		"en"		"Go down the road"
+		"ru"		"Идите по дороге"
+		"zho"		"沿着这条路走"
+		"chi"		"沿著這條路走"
+	}
+	"c9bfff965e0c4b7886c118eb1bdeea96"
+	{
+		"en"		"Keep going down the street"
+		"ru"		"Продолжайте идти по улице"
+		"zho"		"继续沿着街道走"
+		"chi"		"繼續沿著街道走"
+	}
+	"f815459cd710dae540f53585ec45fd7a"
+	{
+		"en"		"Destroy the barricade built by the military"
+		"ru"		"Уничтожьте баррикаду, построенную военными"
+		"zho"		"摧毁军队建造的路障"
+		"chi"		"摧毀軍隊建造的路障"
+	}
+	"bd081102d3abf7b9dc5b62efb8e51cd4"
+	{
+		"en"		"One of the soldiers has a key, use it to unlock the back door of the warehouse"
+		"ru"		"У одного из солдат есть ключ, используйте его, чтобы открыть заднюю дверь склада"
+		"zho"		"一个士兵有钥匙，用它解锁仓库的后门"
+		"chi"		"一個士兵有鑰匙，用它解鎖倉庫的後門"
+	}
+	"0729ad9681880e65d259c59b10e605f0"
+	{
+		"en"		"Construct a bridge over the destroyed road using planks"
+		"ru"		"Постройте мост через разрушенную дорогу, используя доски"
+		"zho"		"用木板在被毁的路上建造一座桥"
+		"chi"		"用木板在被毀的路上建造一座橋"
+	}
+	"d2b23fb8d196c4caff201bd3d5d95335"
+	{
+		"en"		"Find a microphone and then use the radio to call for help"
+		"ru"		"Найдите микрофон и затем используйте радио, чтобы позвать на помощь"
+		"zho"		"找到麦克风，然后用无线电呼救"
+		"chi"		"找到麥克風，然後用無線電呼救"
+	}
+	"e5f8d250040984afaf928a260a1e0190"
+	{
+		"en"		"Go downstairs and find a way to the front area of the tenement"
+		"ru"		"Спуститесь вниз и найдите путь к передней части здания"
+		"zho"		"下楼找到通往房屋前区的路"
+		"chi"		"下樓找到通往房屋前區的路"
+	}
+	"1742b54c73365e54f46e9dd2e5c332fd"
+	{
+		"en"		"Go upstairs and reach the front area of the tenement"
+		"ru"		"Поднимитесь наверх и достигните передней части здания"
+		"zho"		"上楼到达房屋前区"
+		"chi"		"上樓到達房屋前區"
+	}
+	"a4156a848d051565218a530cf79ff607"
+	{
+		"en"		"Use explosives to blow up the wall, the front door is blocked"
+		"ru"		"Используйте взрывчатку, чтобы взорвать стену, входная дверь заблокирована"
+		"zho"		"使用炸药炸毁墙壁，前门被堵住了"
+		"chi"		"使用炸藥炸毀牆壁，前門被堵住了"
+	}
+	"f68cfcaf6327b2ab0857aeef116b3143"
+	{
+		"en"		"Exit the building, hit or shoot the first door"
+		"ru"		"Выйдите из здания, ударьте или выстрелите в первую дверь"
+		"zho"		"离开建筑，敲击或射击第一扇门"
+		"chi"		"離開建築，敲擊或射擊第一扇門"
+	}
+	"e109286dc4dd9f8aa9a5a2403f18668f"
+	{
+		"en"		"Find a key to unlock the 2nd floor door"
+		"ru"		"Найдите ключ, чтобы открыть дверь на втором этаже"
+		"zho"		"找到钥匙解锁二楼的门"
+		"chi"		"找到鑰匙解鎖二樓的門"
+	}
+	"ff8f589762f6b15323b4528ce122387a"
+	{
+		"en"		"Restore the power to the basement to unlock the electronic door. Use the hammer to hit the buzzer"
+		"ru"		"Восстановите электропитание в подвале, чтобы открыть электронную дверь. Используйте молоток, чтобы ударить по звонку"
+		"zho"		"恢复地下室的电源以解锁电子门。用锤子敲击蜂鸣器"
+		"chi"		"恢復地下室的電源以解鎖電子門。用錘子敲擊蜂鳴器"
+	}
+}

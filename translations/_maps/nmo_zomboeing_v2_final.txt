@@ -1,0 +1,178 @@
+"Phrases"
+{
+	"15281217a5aa63a3cdbc282eef5bfc48"
+	{
+		"en"		"Look around for a keycard and use it on the scanner to gain access Air Traffic Control Tower!"
+		"ru"		"Осмотрите окрестности в поисках ключ-карты и используйте ее на сканере, чтобы получить доступ к башне управления воздушным движением!"
+		"zho"		"环顾四周寻找钥匙卡，并在扫描仪上使用它以进入空中交通控制塔！"
+		"chi"		"環顧四周尋找鑰匙卡，並在掃描儀上使用它以進入空中交通控制塔！"
+	}
+	"856baa13fb489fba260ee01197196975"
+	{
+		"en"		"The plane is warming up. Survive until the plane is ready to be lift off!!"
+		"ru"		"Самолет прогревается. Выживайте, пока самолет не будет готов к взлету!!"
+		"zho"		"飞机正在预热。坚持到飞机准备起飞！！"
+		"chi"		"飛機正在預熱。堅持到飛機準備起飛！！"
+	}
+	"f42feb8de9221a3c5833ef35f85edcc6"
+	{
+		"en"		"Flip the switch on the aircraft to enable pilot mode."
+		"ru"		"Переключите тумблер на самолете, чтобы включить режим пилота."
+		"zho"		"翻转飞机上的开关以启用飞行模式。"
+		"chi"		"翻轉飛機上的開關以啟用飛行模式。"
+	}
+	"a39424571990b2a1e97054bc24aa7c6c"
+	{
+		"en"		"Grab the battery and place it in its engine."
+		"ru"		"Возьмите аккумулятор и установите его в двигатель."
+		"zho"		"抓住电池并将其放入引擎中。"
+		"chi"		"抓住電池並將其放入引擎中。"
+	}
+	"4b5df52438609d12f2d8f5817d71032d"
+	{
+		"en"		"Place the supplies on the conveyor belt."
+		"ru"		"Положите припасы на конвейер."
+		"zho"		"将物资放在传送带上。"
+		"chi"		"將物資放在傳送帶上。"
+	}
+	"64d328f37bc9f538c84d984c0c671ec1"
+	{
+		"en"		"Let the truck continue till it arrives at the destination."
+		"ru"		"Пусть грузовик едет, пока не прибудет в пункт назначения."
+		"zho"		"让卡车继续行驶直到到达目的地。"
+		"chi"		"讓卡車繼續行駛直到到達目的地。"
+	}
+	"219cb97efe44359cfc632f2c2987df09"
+	{
+		"en"		"Gate is closed. Find a set of keys to unlock the guard gate."
+		"ru"		"Ворота закрыты. Найдите ключи, чтобы открыть ворота охраны."
+		"zho"		"大门关闭了。找到一套钥匙解锁警卫门。"
+		"chi"		"大門關閉了。找到一套鑰匙解鎖警衛門。"
+	}
+	"974c8afe71542629702e252c67a73520"
+	{
+		"en"		"Start the truck and have it drive to its destination."
+		"ru"		"Запустите грузовик и отправьте его в пункт назначения."
+		"zho"		"启动卡车，让它开到目的地。"
+		"chi"		"啟動卡車，讓它開到目的地。"
+	}
+	"31b5944d440464df458a9b15b3e6544e"
+	{
+		"en"		"Gather the supplies for the truck."
+		"ru"		"Соберите припасы для грузовика."
+		"zho"		"收集卡车的物资。"
+		"chi"		"收集卡車的物資。"
+	}
+	"d1682375286f24c803049cd11e6014f2"
+	{
+		"en"		"Hack into the system to open the shutters."
+		"ru"		"Взломайте систему, чтобы открыть ставни."
+		"zho"		"入侵系统以打开百叶窗。"
+		"chi"		"入侵系統以打開百葉窗。"
+	}
+	"188187f84aa002cd382981f23ed0d1a9"
+	{
+		"en"		"Use a tool to pry open the doors to gain access to the tower."
+		"ru"		"Используйте инструмент, чтобы взломать двери и получить доступ к башне."
+		"zho"		"使用工具撬开门以进入塔楼。"
+		"chi"		"使用工具撬開門以進入塔樓。"
+	}
+	"9fd9f02401ab5dc70d4205b491502e11"
+	{
+		"en"		"Locate the supplies and place them on the conveyor belt."
+		"ru"		"Найдите припасы и положите их на конвейер."
+		"zho"		"找到物资并将其放在传送带上。"
+		"chi"		"找到物資並將其放在傳送帶上。"
+	}
+	"db33b2abcd9107ab3f0eb0b4a989deb2"
+	{
+		"en"		"Interact with the switch to open the lockdown gates."
+		"ru"		"Взаимодействуйте с переключателем, чтобы открыть ворота блокировки."
+		"zho"		"与开关互动以打开封锁门。"
+		"chi"		"與開關互動以打開封鎖門。"
+	}
+	"ea254a2d1abefaadad6fb0d1d500ed6f"
+	{
+		"en"		"Use the welder to cut the doors open."
+		"ru"		"Используйте сварочный аппарат, чтобы разрезать двери."
+		"zho"		"使用焊机切开门。"
+		"chi"		"使用焊機切開門。"
+	}
+	"e8a41eb686622570335c9b066ff82df7"
+	{
+		"en"		"Gather food first!"
+		"ru"		"Сначала соберите еду!"
+		"zho"		"先收集食物！"
+		"chi"		"先收集食物！"
+	}
+	"a66ad0e560887a08f784afbeb75dd002"
+	{
+		"en"		"Last: Battery."
+		"ru"		"Последнее: аккумулятор."
+		"zho"		"最后：电池。"
+		"chi"		"最後：電池。"
+	}
+	"7de9da86e4fec49210d895b0aad4c3cf"
+	{
+		"en"		"Zombie clip removed!"
+		"ru"		"Клип зомби удален!"
+		"zho"		"僵尸片段已删除！"
+		"chi"		"殭屍片段已刪除！"
+	}
+	"6ae1b43db3ad0eb7bc006fa9802c02d7"
+	{
+		"en"		"Just 1 more supply!"
+		"ru"		"Еще один припас!"
+		"zho"		"只差一个物资！"
+		"chi"		"只差一個物資！"
+	}
+	"fe38be28e7e43dc0fb4c4d7ca1d60f90"
+	{
+		"en"		"Deactivating..."
+		"ru"		"Деактивация..."
+		"zho"		"正在停用..."
+		"chi"		"正在停用..."
+	}
+	"cdc38cec6256e5c94cb793a8a1c0fd44"
+	{
+		"en"		"Grab all the supplies first before using this door."
+		"ru"		"Сначала соберите все припасы, прежде чем использовать эту дверь."
+		"zho"		"先收集所有物资再使用此门。"
+		"chi"		"先收集所有物資再使用此門。"
+	}
+	"84294b98afa374a58477aa9077cfcaf0"
+	{
+		"en"		"Next: water cooler!"
+		"ru"		"Следующее: кулер с водой!"
+		"zho"		"下一个：饮水机！"
+		"chi"		"下一個：飲水機！"
+	}
+	"b1658a5523268c159e26e138394f4362"
+	{
+		"en"		"Kill all zombies in the cabin."
+		"ru"		"Убейте всех зомби в кабине."
+		"zho"		"杀死机舱内的所有僵尸。"
+		"chi"		"殺死機艙內的所有殭屍。"
+	}
+	"8f83cd14c8b9de40d344cbe2439c324d"
+	{
+		"en"		"Map created by: Ratboy."
+		"ru"		"Карта создана: Ratboy."
+		"zho"		"地图创建者：Ratboy。"
+		"chi"		"地圖創建者：Ratboy。"
+	}
+	"f46bf9981a10b6dcbbac584e53680575"
+	{
+		"en"		"NMRIH Ported/Edited by: Y#shieon"
+		"ru"		"NMRIH портировано/отредактировано: Y#shieon"
+		"zho"		"NMRIH 移植/编辑：Y#shieon"
+		"chi"		"NMRIH 移植/編輯：Y#shieon"
+	}
+	"c2aa33444cd58ea4b3446bd453ef333d"
+	{
+		"en"		"Zomboeing."
+		"ru"		"Zomboeing."
+		"zho"		"Zomboeing."
+		"chi"		"Zomboeing."
+	}
+}

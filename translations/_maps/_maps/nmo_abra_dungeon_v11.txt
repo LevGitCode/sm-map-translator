@@ -1,0 +1,80 @@
+"Phrases"
+{
+	"a49f1029c0bf300817bd2b5d5ed37067"
+	{
+		"en"		"Hold out for arrival of rescuers."
+		"ru"		"Держитесь до прибытия спасателей."
+		"zho"		"坚持等待救援人员到达。"
+		"chi"		"堅持等待救援人員到達。"
+	}
+	"3335117ff4dbb3dbb80626827c2913cd"
+	{
+		"en"		"Escape from the dungeon."
+		"ru"		"Сбегите из подземелья."
+		"zho"		"逃离地牢。"
+		"chi"		"逃離地牢。"
+	}
+	"4ce4778022ddbcccf22a2663c3ee4d07"
+	{
+		"en"		"Avoid traps and grab idol."
+		"ru"		"Избегайте ловушек и хватайте идола."
+		"zho"		"避开陷阱并抓住神像。"
+		"chi"		"避開陷阱並抓住神像。"
+	}
+	"d89593ee4bd71f12e286683fe80b85eb"
+	{
+		"en"		"Hold on until the door opens."
+		"ru"		"Держитесь, пока дверь не откроется."
+		"zho"		"坚持到门打开。"
+		"chi"		"堅持到門打開。"
+	}
+	"4f432908fc45de8c532299cf5c9be46c"
+	{
+		"en"		"There is no turning back, only forward."
+		"ru"		"Назад пути нет, только вперед."
+		"zho"		"没有回头路，只有向前。"
+		"chi"		"沒有回頭路，只有向前。"
+	}
+	"203612c35d926758a53188878be322c8"
+	{
+		"en"		"Find out whats ahead."
+		"ru"		"Узнайте, что впереди."
+		"zho"		"找出前方有什么。"
+		"chi"		"找出前方有什麼。"
+	}
+	"7eaefabfe9a44a64d43a8b5de4632ef2"
+	{
+		"en"		"Find another aztec skull."
+		"ru"		"Найдите еще один ацтекский череп."
+		"zho"		"找到另一个阿兹特克头骨。"
+		"chi"		"找到另一個阿茲特克頭骨。"
+	}
+	"65a0ad0c44f27d00c22600288bc7a63a"
+	{
+		"en"		"Find an aztec skull."
+		"ru"		"Найдите ацтекский череп."
+		"zho"		"找到一个阿兹特克头骨。"
+		"chi"		"找到一個阿茲特克頭骨。"
+	}
+	"66ba3ea8d678448e16ed0eb993f9fd04"
+	{
+		"en"		"Enter the dungeon."
+		"ru"		"Войдите в подземелье."
+		"zho"		"进入地牢。"
+		"chi"		"進入地牢。"
+	}
+	"d4f277299dd446f1ecf0326d53fef346"
+	{
+		"en"		"NEED ALL PLAYERS"
+		"ru"		"НЕОБХОДИМЫ ВСЕ ИГРОКИ"
+		"zho"		"需要所有玩家"
+		"chi"		"需要所有玩家"
+	}
+	"d4228c0087ec8d625ab9140474918c9a"
+	{
+		"en"		"You need to get out of the dungeon as soon as possible.."
+		"ru"		"Вам нужно как можно скорее выбраться из подземелья."
+		"zho"		"你需要尽快离开地牢。"
+		"chi"		"你需要盡快離開地牢。"
+	}
+}

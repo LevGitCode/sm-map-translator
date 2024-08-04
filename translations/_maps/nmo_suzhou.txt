@@ -1,0 +1,178 @@
+"Phrases"
+{
+	"97d2a50e524e2b23111ec7a67a1e9a48"
+	{
+		"en"		"#nmo_suzhou_Objective23_holdout"
+		"ru"		"#nmo_suzhou_Objective23_holdout"
+		"zho"		"#nmo_suzhou_Objective23_holdout"
+		"chi"		"#nmo_suzhou_Objective23_holdout"
+	}
+	"6dd001adba2ddf80829f51e87df0aeb6"
+	{
+		"en"		"#nmo_suzhou_Objecitve22_burnbabehburn_ignite"
+		"ru"		"#nmo_suzhou_Objecitve22_burnbabehburn_ignite"
+		"zho"		"#nmo_suzhou_Objecitve22_burnbabehburn_ignite"
+		"chi"		"#nmo_suzhou_Objecitve22_burnbabehburn_ignite"
+	}
+	"616d7e91899afcc61573e23523e407f3"
+	{
+		"en"		"#nmo_suzhou_Objective21_burnbabehburn"
+		"ru"		"#nmo_suzhou_Objective21_burnbabehburn"
+		"zho"		"#nmo_suzhou_Objective21_burnbabehburn"
+		"chi"		"#nmo_suzhou_Objective21_burnbabehburn"
+	}
+	"0c3fbe257f156e1dca99426bdf9acd3b"
+	{
+		"en"		"#nmo_suzhou_Objective20_flarelauncher"
+		"ru"		"#nmo_suzhou_Objective20_flarelauncher"
+		"zho"		"#nmo_suzhou_Objective20_flarelauncher"
+		"chi"		"#nmo_suzhou_Objective20_flarelauncher"
+	}
+	"3e66e78d605684914932e6b83f0a6fa4"
+	{
+		"en"		"#nmo_suzhou_Objective19_batteryforradio"
+		"ru"		"#nmo_suzhou_Objective19_batteryforradio"
+		"zho"		"#nmo_suzhou_Objective19_batteryforradio"
+		"chi"		"#nmo_suzhou_Objective19_batteryforradio"
+	}
+	"1ffc4ec81df55ab6c6be696b2c981996"
+	{
+		"en"		"#nmo_suzhou_Objective18_horrifyingrealization"
+		"ru"		"#nmo_suzhou_Objective18_horrifyingrealization"
+		"zho"		"#nmo_suzhou_Objective18_horrifyingrealization"
+		"chi"		"#nmo_suzhou_Objective18_horrifyingrealization"
+	}
+	"0f7be822d033ab474b265b65293566c1"
+	{
+		"en"		"#nmo_suzhou_Objective17_findevac"
+		"ru"		"#nmo_suzhou_Objective17_findevac"
+		"zho"		"#nmo_suzhou_Objective17_findevac"
+		"chi"		"#nmo_suzhou_Objective17_findevac"
+	}
+	"92f5dbbb54d9db8d583bffa23848a92c"
+	{
+		"en"		"#nmo_suzhou_Objective16b_recrosscanal"
+		"ru"		"#nmo_suzhou_Objective16b_recrosscanal"
+		"zho"		"#nmo_suzhou_Objective16b_recrosscanal"
+		"chi"		"#nmo_suzhou_Objective16b_recrosscanal"
+	}
+	"1f10c3fd632a241bdbb1e7d1a3d3d2e6"
+	{
+		"en"		"#nmo_suzhou_Objective16_truckpuzzle"
+		"ru"		"#nmo_suzhou_Objective16_truckpuzzle"
+		"zho"		"#nmo_suzhou_Objective16_truckpuzzle"
+		"chi"		"#nmo_suzhou_Objective16_truckpuzzle"
+	}
+	"c93b12fc74faa760b3d44d8d8d08b72a"
+	{
+		"en"		"#nmo_suzhou_Objective15_batterybarricade"
+		"ru"		"#nmo_suzhou_Objective15_batterybarricade"
+		"zho"		"#nmo_suzhou_Objective15_batterybarricade"
+		"chi"		"#nmo_suzhou_Objective15_batterybarricade"
+	}
+	"8d4b57b73b16c8b246f696b404cca7f6"
+	{
+		"en"		"#nmo_suzhou_Objective14_detourtires"
+		"ru"		"#nmo_suzhou_Objective14_detourtires"
+		"zho"		"#nmo_suzhou_Objective14_detourtires"
+		"chi"		"#nmo_suzhou_Objective14_detourtires"
+	}
+	"29a6d4a27ddab16543adc90a448d2a8d"
+	{
+		"en"		"#nmo_suzhou_Objective13_extinguishtires"
+		"ru"		"#nmo_suzhou_Objective13_extinguishtires"
+		"zho"		"#nmo_suzhou_Objective13_extinguishtires"
+		"chi"		"#nmo_suzhou_Objective13_extinguishtires"
+	}
+	"2aeae02ceae8e7d341a7d2e93e68b04e"
+	{
+		"en"		"#nmo_suzhou_Objective12_IEDtires"
+		"ru"		"#nmo_suzhou_Objective12_IEDtires"
+		"zho"		"#nmo_suzhou_Objective12_IEDtires"
+		"chi"		"#nmo_suzhou_Objective12_IEDtires"
+	}
+	"76ffa489f6ec56d99db32548c092b36e"
+	{
+		"en"		"#nmo_suzhou_Objectivemidpoint_intermediate"
+		"ru"		"#nmo_suzhou_Objectivemidpoint_intermediate"
+		"zho"		"#nmo_suzhou_Objectivemidpoint_intermediate"
+		"chi"		"#nmo_suzhou_Objectivemidpoint_intermediate"
+	}
+	"a5e115d89708e2499ee02fbd63125079"
+	{
+		"en"		"#nmo_suzhou_Objective11_welderalley"
+		"ru"		"#nmo_suzhou_Objective11_welderalley"
+		"zho"		"#nmo_suzhou_Objective11_welderalley"
+		"chi"		"#nmo_suzhou_Objective11_welderalley"
+	}
+	"eef02923fc8ae22bca6315fa6b26c94d"
+	{
+		"en"		"#nmo_suzhou_Objective10_IEDalley"
+		"ru"		"#nmo_suzhou_Objective10_IEDalley"
+		"zho"		"#nmo_suzhou_Objective10_IEDalley"
+		"chi"		"#nmo_suzhou_Objective10_IEDalley"
+	}
+	"cd74a4661436101d0ed87f7d6d54da1e"
+	{
+		"en"		"#nmo_suzhou_Objective09_crosscanal"
+		"ru"		"#nmo_suzhou_Objective09_crosscanal"
+		"zho"		"#nmo_suzhou_Objective09_crosscanal"
+		"chi"		"#nmo_suzhou_Objective09_crosscanal"
+	}
+	"0564882579420175a57fbfe6fd13116f"
+	{
+		"en"		"#nmo_suzhou_Objective08_extinguishgas"
+		"ru"		"#nmo_suzhou_Objective08_extinguishgas"
+		"zho"		"#nmo_suzhou_Objective08_extinguishgas"
+		"chi"		"#nmo_suzhou_Objective08_extinguishgas"
+	}
+	"90331e57e0d0ca0e2de8647d4540bd63"
+	{
+		"en"		"#nmo_suzhou_Objective07_burngas"
+		"ru"		"#nmo_suzhou_Objective07_burngas"
+		"zho"		"#nmo_suzhou_Objective07_burngas"
+		"chi"		"#nmo_suzhou_Objective07_burngas"
+	}
+	"d4feaabe54601bfa944f08543437e14d"
+	{
+		"en"		"#nmo_suzhou_Objective06_findgas"
+		"ru"		"#nmo_suzhou_Objective06_findgas"
+		"zho"		"#nmo_suzhou_Objective06_findgas"
+		"chi"		"#nmo_suzhou_Objective06_findgas"
+	}
+	"6da995b05a18ef7a45d817b1b86b1686"
+	{
+		"en"		"#nmo_suzhou_Objective05_oldtown"
+		"ru"		"#nmo_suzhou_Objective05_oldtown"
+		"zho"		"#nmo_suzhou_Objective05_oldtown"
+		"chi"		"#nmo_suzhou_Objective05_oldtown"
+	}
+	"dacd9a53168fbe60f9291270fdfdadd2"
+	{
+		"en"		"#nmo_suzhou_Objective04_headout"
+		"ru"		"#nmo_suzhou_Objective04_headout"
+		"zho"		"#nmo_suzhou_Objective04_headout"
+		"chi"		"#nmo_suzhou_Objective04_headout"
+	}
+	"d009519df151a5bad9d62d4b6ee92c39"
+	{
+		"en"		"#nmo_suzhou_Objective03_tolindun"
+		"ru"		"#nmo_suzhou_Objective03_tolindun"
+		"zho"		"#nmo_suzhou_Objective03_tolindun"
+		"chi"		"#nmo_suzhou_Objective03_tolindun"
+	}
+	"389a1c662f134323c0abc916d4537e31"
+	{
+		"en"		"#nmo_suzhou_Objective02_maintenancedetour"
+		"ru"		"#nmo_suzhou_Objective02_maintenancedetour"
+		"zho"		"#nmo_suzhou_Objective02_maintenancedetour"
+		"chi"		"#nmo_suzhou_Objective02_maintenancedetour"
+	}
+	"1f50a87714cc2c2ffb596cdbc2416f0b"
+	{
+		"en"		"#nmo_suzhou_Objective01_leavestation"
+		"ru"		"#nmo_suzhou_Objective01_leavestation"
+		"zho"		"#nmo_suzhou_Objective01_leavestation"
+		"chi"		"#nmo_suzhou_Objective01_leavestation"
+	}
+}

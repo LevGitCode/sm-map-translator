@@ -1,0 +1,66 @@
+"Phrases"
+{
+	"f03a5e71f99111472b8ba61e71db5e2d"
+	{
+		"en"		"Defend the Gas Station until Rescue comes!"
+		"ru"		"Обороняйте автозаправочную станцию, пока не прибудет помощь!"
+		"zho"		"保卫加油站，直到救援到来！"
+		"chi"		"保衛加油站，直到救援來臨！"
+	}
+	"e47614f08567de572914ed1016d6d465"
+	{
+		"en"		"Navigate the sewers and find the Military"
+		"ru"		"Пройдите через канализацию и найдите военных"
+		"zho"		"穿越下水道，找到军队"
+		"chi"		"穿越下水道，找到軍隊"
+	}
+	"9deb7da1978275e265b78fcf16a19406"
+	{
+		"en"		"Get the Swat Officer supplies from the Fallen Outpost"
+		"ru"		"Получите припасы для спецподразделения от разрушенного поста"
+		"zho"		"从倒塌的哨所获取特警官员的补给"
+		"chi"		"從倒塌的哨所獲取特警官員的補給"
+	}
+	"45fc4dbf35ef4603bb2a822b1c6f5cf7"
+	{
+		"en"		"Open the Armory and Listen to the Radio!"
+		"ru"		"Откройте оружейный склад и послушайте радио!"
+		"zho"		"打开军械库，收听广播！"
+		"chi"		"打開軍械庫，收聽廣播！"
+	}
+	"0417378acabb66e594938db0c730ea53"
+	{
+		"en"		"Get the Swat Officer supplies from the Corner Store"
+		"ru"		"Получите припасы для спецподразделения из магазина на углу"
+		"zho"		"从角落商店获取特警官员的补给"
+		"chi"		"從角落商店獲取特警官員的補給"
+	}
+	"01c68360b45277a5173afa23e8e24a48"
+	{
+		"en"		"So much for Extraction... Search for any Survivors"
+		"ru"		"Так много на Extraction... Ищите выживших"
+		"zho"		"提取任务泡汤了... 搜索幸存者"
+		"chi"		"提取任務泡湯了... 搜尋幸存者"
+	}
+	"2a8ef310c76094795337448333d46497"
+	{
+		"en"		"Fight Your way to The Police Department!"
+		"ru"		"Прорывайтесь к полицейскому управлению!"
+		"zho"		"奋力前往警察局！"
+		"chi"		"奮力前往警察局！"
+	}
+	"209245d8c918b4e44a8f0a47d8b803e1"
+	{
+		"en"		"One of the Barricades is misplaced, Use a Blast Charge to Destroy it!"
+		"ru"		"Одна из баррикад неправильно установлена, используйте заряд для ее уничтожения!"
+		"zho"		"一个障碍物放置不当，使用爆破装置摧毁它！"
+		"chi"		"一個障礙物放置不當，使用爆破裝置摧毀它！"
+	}
+	"5a009bd10384a79cac69451895df4f32"
+	{
+		"en"		"Gather what you can and Head to Local PD"
+		"ru"		"Соберите все, что сможете, и направляйтесь в местное управление полиции"
+		"zho"		"收集你能找到的物品，前往当地警局"
+		"chi"		"收集你能找到的物品，前往當地警局"
+	}
+}

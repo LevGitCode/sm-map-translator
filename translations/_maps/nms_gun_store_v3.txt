@@ -1,0 +1,17 @@
+"Phrases"
+{
+	"00c38f0f7dfa82368f7814ef29e8062d"
+	{
+		"en"		"There's nothing left for us here, get into the back of my semi! I'm gone in 60 seconds!"
+		"ru"		"There's nothing left for us here, get into the back of my semi! I'm gone in 60 seconds!"
+		"zho"		"There's nothing left for us here, get into the back of my semi! I'm gone in 60 seconds!"
+		"chi"		"There's nothing left for us here, get into the back of my semi! I'm gone in 60 seconds!"
+	}
+	"c7f8fc9e2e5a225b4671a9e7da3c974b"
+	{
+		"en"		"Map created by Porkchops4lunch and Saref"
+		"ru"		"Map created by Porkchops4lunch and Saref"
+		"zho"		"Map created by Porkchops4lunch and Saref"
+		"chi"		"Map created by Porkchops4lunch and Saref"
+	}
+}

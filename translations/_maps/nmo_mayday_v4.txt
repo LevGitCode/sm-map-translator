@@ -1,0 +1,129 @@
+"Phrases"
+{
+	"10d4927322b5d287979cffd4499aeec4"
+	{
+		"en"		"The hatch stuck! Release safety locks manually with valves!"
+		"ru"		"Люк застрял! Снимите предохранительные замки вручную с помощью клапанов!"
+		"zho"		"舱口卡住了！用阀门手动释放安全锁！"
+		"chi"		"艙口卡住了！用閥門手動釋放安全鎖！"
+	}
+	"3aedb7b657a2375113ac2f3a3bb83388"
+	{
+		"en"		"Press the button to open hatch"
+		"ru"		"Нажмите кнопку, чтобы открыть люк"
+		"zho"		"按按钮打开舱口"
+		"chi"		"按按鈕打開艙口"
+	}
+	"c5876b0f11abee1b95aa87889a356918"
+	{
+		"en"		"Gain access to cargo area"
+		"ru"		"Получите доступ к грузовому отсеку"
+		"zho"		"进入货舱"
+		"chi"		"進入貨艙"
+	}
+	"22bd03278dd521dedd5ffcaab12bb313"
+	{
+		"en"		"Search for mayday code and use it in pilot's panel before leaving aircraft"
+		"ru"		"Найдите код бедствия и используйте его в панели пилота перед выходом из самолета"
+		"zho"		"在离开飞机前，在飞行员面板中输入求救代码"
+		"chi"		"在離開飛機前，在飛行員面板中輸入求救代碼"
+	}
+	"1bdd4f8543bd3940cd09ebf710772e85"
+	{
+		"en"		"Find the key to unlock maintenance room"
+		"ru"		"Найдите ключ для разблокировки комнаты технического обслуживания"
+		"zho"		"找到钥匙解锁维修室"
+		"chi"		"找到鑰匙解鎖維修室"
+	}
+	"6ac1aa1d280f739724ec5ce3670dcebd"
+	{
+		"en"		"Grab some parachute bags"
+		"ru"		"Возьмите несколько парашютных сумок"
+		"zho"		"拿一些降落伞包"
+		"chi"		"拿一些降落傘包"
+	}
+	"ff39181083c17bd5d9dde9d45959afac"
+	{
+		"en"		"Destroy barricades inside the plane"
+		"ru"		"Уничтожьте баррикады внутри самолета"
+		"zho"		"摧毁飞机内部的路障"
+		"chi"		"摧毀飛機內部的路障"
+	}
+	"33aafe38adcdab169b5ac78c113d612b"
+	{
+		"en"		"Map created by Ulreth"
+		"ru"		"Карта создана Ulreth"
+		"zho"		"地图由 Ulreth 创建"
+		"chi"		"地圖由 Ulreth 創建"
+	}
+	"72da2d7b628c020b3f0ba106f3b3da02"
+	{
+		"en"		"Mayday code: 3911"
+		"ru"		"Код бедствия: 3911"
+		"zho"		"求救代码: 3911"
+		"chi"		"求救代碼: 3911"
+	}
+	"54437bbc824c3a7a3c2d44ddf0fa1797"
+	{
+		"en"		"Mayday code: 6110"
+		"ru"		"Код бедствия: 6110"
+		"zho"		"求救代码: 6110"
+		"chi"		"求救代碼: 6110"
+	}
+	"122c7ca3d0c4416369e0723b0268c992"
+	{
+		"en"		"Mayday code: 4229"
+		"ru"		"Код бедствия: 4229"
+		"zho"		"求救代码: 4229"
+		"chi"		"求救代碼: 4229"
+	}
+	"33d978247a84898d75544cf0f9c2e655"
+	{
+		"en"		"Mayday code: 1190"
+		"ru"		"Код бедствия: 1190"
+		"zho"		"求救代码: 1190"
+		"chi"		"求救代碼: 1190"
+	}
+	"8e3e2753b54e3e79f9ce0c6a3b6ee6b3"
+	{
+		"en"		"Mayday code: 6669"
+		"ru"		"Код бедствия: 6669"
+		"zho"		"求救代码: 6669"
+		"chi"		"求救代碼: 6669"
+	}
+	"cd1b87898c7ef1919282667a15fb283d"
+	{
+		"en"		"Mayday code: 9110"
+		"ru"		"Код бедствия: 9110"
+		"zho"		"求救代码: 9110"
+		"chi"		"求救代碼: 9110"
+	}
+	"be5f681dc00e1f49ae6a0313d75ca10d"
+	{
+		"en"		"Mayday code: 0402"
+		"ru"		"Код бедствия: 0402"
+		"zho"		"求救代码: 0402"
+		"chi"		"求救代碼: 0402"
+	}
+	"ffa630666bd21cff4e86828025078de6"
+	{
+		"en"		"Mayday code: 0107"
+		"ru"		"Код бедствия: 0107"
+		"zho"		"求救代码: 0107"
+		"chi"		"求救代碼: 0107"
+	}
+	"9eb1190825b2aa2335f0a8ee6a9b935a"
+	{
+		"en"		"The hatch will automatically close in 45 seconds!"
+		"ru"		"Люк автоматически закроется через 45 секунд!"
+		"zho"		"舱口将在45秒后自动关闭！"
+		"chi"		"艙口將在45秒後自動關閉！"
+	}
+	"e353df3ae89dd1c3bb3ecce98189093b"
+	{
+		"en"		"Mayday code: 0911"
+		"ru"		"Код бедствия: 0911"
+		"zho"		"求救代码: 0911"
+		"chi"		"求救代碼: 0911"
+	}
+}

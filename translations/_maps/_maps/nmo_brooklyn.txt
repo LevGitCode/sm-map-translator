@@ -1,0 +1,157 @@
+"Phrases"
+{
+	"48248397cad9fc48d36923b817ed5e52"
+	{
+		"en"		"#nmo_brooklyn_objective27"
+		"ru"		"#nmo_brooklyn_objective27"
+		"zho"		"#nmo_brooklyn_objective27"
+		"chi"		"#nmo_brooklyn_objective27"
+	}
+	"3ee479e5ce4e5809f111da0b1c10cdf3"
+	{
+		"en"		"#nmo_brooklyn_objective25"
+		"ru"		"#nmo_brooklyn_objective25"
+		"zho"		"#nmo_brooklyn_objective25"
+		"chi"		"#nmo_brooklyn_objective25"
+	}
+	"3899ec7fdeb00e72554b04bd0e643a59"
+	{
+		"en"		"#nmo_brooklyn_objective24"
+		"ru"		"#nmo_brooklyn_objective24"
+		"zho"		"#nmo_brooklyn_objective24"
+		"chi"		"#nmo_brooklyn_objective24"
+	}
+	"77de8cea4434e3f765b7c443e4ed8ccd"
+	{
+		"en"		"#nmo_brooklyn_objective26"
+		"ru"		"#nmo_brooklyn_objective26"
+		"zho"		"#nmo_brooklyn_objective26"
+		"chi"		"#nmo_brooklyn_objective26"
+	}
+	"622840c44d567649d6c084462b6351f7"
+	{
+		"en"		"#nmo_brooklyn_objective23"
+		"ru"		"#nmo_brooklyn_objective23"
+		"zho"		"#nmo_brooklyn_objective23"
+		"chi"		"#nmo_brooklyn_objective23"
+	}
+	"983687b4ba6ca5c09a0de8b5ba4a6992"
+	{
+		"en"		"#nmo_brooklyn_objective19"
+		"ru"		"#nmo_brooklyn_objective19"
+		"zho"		"#nmo_brooklyn_objective19"
+		"chi"		"#nmo_brooklyn_objective19"
+	}
+	"096411382a27b10028a230228420b04e"
+	{
+		"en"		"#nmo_brooklyn_objective9"
+		"ru"		"#nmo_brooklyn_objective9"
+		"zho"		"#nmo_brooklyn_objective9"
+		"chi"		"#nmo_brooklyn_objective9"
+	}
+	"21c7dd8a1895686f962f97720a1e2694"
+	{
+		"en"		"#nmo_brooklyn_objective18"
+		"ru"		"#nmo_brooklyn_objective18"
+		"zho"		"#nmo_brooklyn_objective18"
+		"chi"		"#nmo_brooklyn_objective18"
+	}
+	"eb0fb15dfdb45bf0a7a1df22a31bac2e"
+	{
+		"en"		"#nmo_brooklyn_Objective1"
+		"ru"		"#nmo_brooklyn_Objective1"
+		"zho"		"#nmo_brooklyn_Objective1"
+		"chi"		"#nmo_brooklyn_Objective1"
+	}
+	"130219f6a9a120c9afde9082966bd51f"
+	{
+		"en"		"#nmo_brooklyn_Objective2"
+		"ru"		"#nmo_brooklyn_Objective2"
+		"zho"		"#nmo_brooklyn_Objective2"
+		"chi"		"#nmo_brooklyn_Objective2"
+	}
+	"4a23dc636f8a9d99075e4b5d691b0aba"
+	{
+		"en"		"#nmo_brooklyn_Objective3"
+		"ru"		"#nmo_brooklyn_Objective3"
+		"zho"		"#nmo_brooklyn_Objective3"
+		"chi"		"#nmo_brooklyn_Objective3"
+	}
+	"c8ab157cf2e8a0c3dd6081e6a0b19fa2"
+	{
+		"en"		"#nmo_brooklyn_Objective4"
+		"ru"		"#nmo_brooklyn_Objective4"
+		"zho"		"#nmo_brooklyn_Objective4"
+		"chi"		"#nmo_brooklyn_Objective4"
+	}
+	"edbc6df92d4c6b6359c195954d1de43a"
+	{
+		"en"		"#nmo_brooklyn_Objective5"
+		"ru"		"#nmo_brooklyn_Objective5"
+		"zho"		"#nmo_brooklyn_Objective5"
+		"chi"		"#nmo_brooklyn_Objective5"
+	}
+	"059a699625a9eef88ec4288d9b7d2bab"
+	{
+		"en"		"#nmo_brooklyn_Objective6"
+		"ru"		"#nmo_brooklyn_Objective6"
+		"zho"		"#nmo_brooklyn_Objective6"
+		"chi"		"#nmo_brooklyn_Objective6"
+	}
+	"fa9cdbfe3b88c0fd6c9b1a247953b179"
+	{
+		"en"		"#nmo_brooklyn_Objective8"
+		"ru"		"#nmo_brooklyn_Objective8"
+		"zho"		"#nmo_brooklyn_Objective8"
+		"chi"		"#nmo_brooklyn_Objective8"
+	}
+	"73697f78b4962b3304bbc38362bbff77"
+	{
+		"en"		"#nmo_brooklyn_Objective13"
+		"ru"		"#nmo_brooklyn_Objective13"
+		"zho"		"#nmo_brooklyn_Objective13"
+		"chi"		"#nmo_brooklyn_Objective13"
+	}
+	"6cd443fdf98726a19a8c4e3434813e3a"
+	{
+		"en"		"#nmo_brooklyn_Objective14"
+		"ru"		"#nmo_brooklyn_Objective14"
+		"zho"		"#nmo_brooklyn_Objective14"
+		"chi"		"#nmo_brooklyn_Objective14"
+	}
+	"d9cf55a638973aaeee850113d1714975"
+	{
+		"en"		"#nmo_brooklyn_Objective16"
+		"ru"		"#nmo_brooklyn_Objective16"
+		"zho"		"#nmo_brooklyn_Objective16"
+		"chi"		"#nmo_brooklyn_Objective16"
+	}
+	"3f4df1daf0d6d5599aea21b0949cfbfb"
+	{
+		"en"		"#nmo_brooklyn_Objective17"
+		"ru"		"#nmo_brooklyn_Objective17"
+		"zho"		"#nmo_brooklyn_Objective17"
+		"chi"		"#nmo_brooklyn_Objective17"
+	}
+	"d900279b92d6f0839150dce0ad0db4a9"
+	{
+		"en"		"#nmo_brooklyn_Objective20"
+		"ru"		"#nmo_brooklyn_Objective20"
+		"zho"		"#nmo_brooklyn_Objective20"
+		"chi"		"#nmo_brooklyn_Objective20"
+	}
+	"7b834b0b9ce84dadf61f6d3e34d191a0"
+	{
+		"en"		"#nmo_brooklyn_Objective21"
+		"ru"		"#nmo_brooklyn_Objective21"
+		"zho"		"#nmo_brooklyn_Objective21"
+		"chi"		"#nmo_brooklyn_Objective21"
+	}
+	"6785e78c1cd7654579afc8c974537ca5"
+	{
+		"en"		"#nmo_brooklyn_objective22"
+		"ru"		"#nmo_brooklyn_objective22"
+		"zho"		"#nmo_brooklyn_objective22"
+		"chi"		"#nmo_brooklyn_objective22"
+	}
+}

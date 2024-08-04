@@ -1,0 +1,171 @@
+"Phrases"
+{
+	"cfaf622f63c76dda966400feb878f2b4"
+	{
+		"en"		"Wait for the chopper."
+		"ru"		"Ждите вертолета."
+		"zho"		"等待直升机。"
+		"chi"		"等待直升機。"
+	}
+	"86a41533e6aa60006f1c5deccd4db4d9"
+	{
+		"en"		"Fix the switch to amplify the signal."
+		"ru"		"Почините переключатель, чтобы усилить сигнал."
+		"zho"		"修理开关以增强信号。"
+		"chi"		"修理開關以增強信號。"
+	}
+	"a3784647afca3c99d7ae15cb8e2787cb"
+	{
+		"en"		"Weak signal. Find a way to increase the signal power."
+		"ru"		"Слабый сигнал. Найдите способ увеличить мощность сигнала."
+		"zho"		"信号弱。找办法增强信号强度。"
+		"chi"		"信號弱。找辦法增強信號強度。"
+	}
+	"3e3418e6a7f0c2caf9edc6ab3fd7da60"
+	{
+		"en"		"Call for help."
+		"ru"		"Вызовите помощь."
+		"zho"		"求救。"
+		"chi"		"求救。"
+	}
+	"4ca3abd34d000624fd160b2f19381ac6"
+	{
+		"en"		"Get to the helicopter fleet."
+		"ru"		"Доберитесь до флота вертолетов."
+		"zho"		"前往直升机机队。"
+		"chi"		"前往直升機機隊。"
+	}
+	"b21755eef01a6ac76ec78055d3c6d649"
+	{
+		"en"		"Wait for the ferry."
+		"ru"		"Ждите парома."
+		"zho"		"等待渡轮。"
+		"chi"		"等待渡輪。"
+	}
+	"313541999a05902b2f2748e0714ce395"
+	{
+		"en"		"Find a way to get to the other side of the river."
+		"ru"		"Найдите способ перебраться на другую сторону реки."
+		"zho"		"找办法到达河的另一边。"
+		"chi"		"找辦法到達河的另一邊。"
+	}
+	"74dc1a8fe5badfaf96182e2ccb26c330"
+	{
+		"en"		"Find a way to get to the ferry station."
+		"ru"		"Найдите способ добраться до паромной станции."
+		"zho"		"找办法到达渡轮站。"
+		"chi"		"找辦法到達渡輪站。"
+	}
+	"04c66d856e6a185a2afe93f0ea37936a"
+	{
+		"en"		"Continue way."
+		"ru"		"Продолжайте путь."
+		"zho"		"继续前进。"
+		"chi"		"繼續前進。"
+	}
+	"0142967a09d31fcca38ad00e0ce47c09"
+	{
+		"en"		"Get on the street."
+		"ru"		"Выйдите на улицу."
+		"zho"		"上街。"
+		"chi"		"上街。"
+	}
+	"a0e2f54847a7bd0886e90756714fcd58"
+	{
+		"en"		"Hit this or use a welder."
+		"ru"		"Ударьте по этому или используйте сварочный аппарат."
+		"zho"		"打这个或用焊机。"
+		"chi"		"打這個或用焊機。"
+	}
+	"c17fa2b1d3206ef4c2a3eee142f18360"
+	{
+		"en"		"Break the box and find the tool box."
+		"ru"		"Разбейте ящик и найдите ящик с инструментами."
+		"zho"		"打破箱子，找到工具箱。"
+		"chi"		"打破箱子，找到工具箱。"
+	}
+	"d9f952c92e2eda135f0a11e474ead8c6"
+	{
+		"en"		"Need welder"
+		"ru"		"Нужен сварщик"
+		"zho"		"需要焊工"
+		"chi"		"需要焊工"
+	}
+	"ea2916007d27708b85512191a6eb9810"
+	{
+		"en"		"GratzZz! The easter egg was unlocked."
+		"ru"		"Поздравляем! Пасхальное яйцо было разблокировано."
+		"zho"		"恭喜！彩蛋已解锁。"
+		"chi"		"恭喜！彩蛋已解鎖。"
+	}
+	"26b17225b626fb9238849fd60eabdf60"
+	{
+		"en"		"+"
+		"ru"		"+"
+		"zho"		"+"
+		"chi"		"+"
+	}
+	"ede670ed92a06c7308ca82cc3dfa9b20"
+	{
+		"en"		"1 minute left."
+		"ru"		"Осталась 1 минута."
+		"zho"		"还剩1分钟。"
+		"chi"		"還剩1分鐘。"
+	}
+	"849d469e2a2a3de7619ce09f1a294076"
+	{
+		"en"		"2 minutes left."
+		"ru"		"Осталось 2 минуты."
+		"zho"		"还剩2分钟。"
+		"chi"		"還剩2分鐘。"
+	}
+	"d1cbbe2ded97b3cfd193304edd25a02f"
+	{
+		"en"		"3 minutes left."
+		"ru"		"Осталось 3 минуты."
+		"zho"		"还剩3分钟。"
+		"chi"		"還剩3分鐘。"
+	}
+	"7105f32280940271293ee00ac97da5a7"
+	{
+		"en"		"Howdy!"
+		"ru"		"Привет!"
+		"zho"		"你好！"
+		"chi"		"你好！"
+	}
+	"0f56d0db1778ce74a58e0c4b2b43669c"
+	{
+		"en"		"We need to check the signal strength."
+		"ru"		"Нам нужно проверить силу сигнала."
+		"zho"		"我们需要检查信号强度。"
+		"chi"		"我們需要檢查信號強度。"
+	}
+	"762c568826aea5535cd94aa3192c172a"
+	{
+		"en"		"Prompt: You can enter all apartments. And also use a switch to turn on the light."
+		"ru"		"Подсказка: Вы можете войти во все квартиры. А также используйте выключатель, чтобы включить свет."
+		"zho"		"提示：你可以进入所有公寓。还可以使用开关打开灯光。"
+		"chi"		"提示：你可以進入所有公寓。還可以使用開關打開燈光。"
+	}
+	"426c049330b9ded11aec84a2b264a73e"
+	{
+		"en"		"On the way. Hold on."
+		"ru"		"В пути. Держитесь."
+		"zho"		"在路上。坚持住。"
+		"chi"		"在路上。堅持住。"
+	}
+	"550af630c5d4daa715a7e1255fc2e093"
+	{
+		"en"		"Runners..."
+		"ru"		"Бегуны..."
+		"zho"		"奔跑者..."
+		"chi"		"奔跑者..."
+	}
+	"79a0f319e75cdc41b05cfd7ca2bef888"
+	{
+		"en"		"The ferry leaves in 25 sec."
+		"ru"		"Паром отплывает через 25 секунд."
+		"zho"		"渡轮在25秒内离开。"
+		"chi"		"渡輪在25秒內離開。"
+	}
+}

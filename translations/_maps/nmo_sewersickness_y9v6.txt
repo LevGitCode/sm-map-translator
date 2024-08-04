@@ -1,0 +1,171 @@
+"Phrases"
+{
+	"c4702701c1968ac5b1cdd6f662fa5547"
+	{
+		"en"		"Destroy the Machine"
+		"ru"		"Уничтожьте машину"
+		"zho"		"摧毁机器"
+		"chi"		"摧毀機器"
+	}
+	"23fe974f999f32e8a4516329cd8c5589"
+	{
+		"en"		"Find the way"
+		"ru"		"Найдите путь"
+		"zho"		"找到路"
+		"chi"		"找到路"
+	}
+	"6a1642fadc6e0376423ecd0ffc17dcb2"
+	{
+		"en"		"Go to the sewer"
+		"ru"		"Идите в канализацию"
+		"zho"		"去下水道"
+		"chi"		"去下水道"
+	}
+	"5c0dff5d68176093caadda87bc9ac380"
+	{
+		"en"		"Find the research center"
+		"ru"		"Найдите исследовательский центр"
+		"zho"		"找到研究中心"
+		"chi"		"找到研究中心"
+	}
+	"4a0dd7d52b1dbb68623f3a96e701cba0"
+	{
+		"en"		"Go ahead"
+		"ru"		"Идите вперед"
+		"zho"		"继续前进"
+		"chi"		"繼續前進"
+	}
+	"d6651892cb8675b8c8b6e8bdb4660d37"
+	{
+		"en"		"Open the water gate"
+		"ru"		"Откройте водяные ворота"
+		"zho"		"打开水闸"
+		"chi"		"打開水閘"
+	}
+	"1175fc7fa8cbd2548a65e3397291b5db"
+	{
+		"en"		"Escape!"
+		"ru"		"Спасайтесь!"
+		"zho"		"逃跑！"
+		"chi"		"逃跑！"
+	}
+	"2e781e46cd473612f108b29a62e711ab"
+	{
+		"en"		"Congratulations"
+		"ru"		"Поздравляем"
+		"zho"		"恭喜"
+		"chi"		"恭喜"
+	}
+	"faf693c8546142844adeb0a0349cfdb8"
+	{
+		"en"		"With your help, we'll be more powerful than the bad company..."
+		"ru"		"С вашей помощью мы будем могущественнее плохой компании..."
+		"zho"		"有了你的帮助，我们将比坏公司更强大..."
+		"chi"		"有了你的幫助，我們將比壞公司更強大..."
+	}
+	"498cd895eb5a102c5aeb977e2b928dee"
+	{
+		"en"		"Thank you!"
+		"ru"		"Спасибо!"
+		"zho"		"谢谢！"
+		"chi"		"謝謝！"
+	}
+	"72fc8754f43c12253e2e10ff70a953b0"
+	{
+		"en"		"It looks like a reservoir for the Machine..."
+		"ru"		"Это похоже на резервуар для машины..."
+		"zho"		"这看起来像是机器的储水池..."
+		"chi"		"這看起來像是機器的儲水池..."
+	}
+	"54aceaebdc59c93a3524bad3e7ee80db"
+	{
+		"en"		"You can try to throw the Power Ball inside..."
+		"ru"		"Вы можете попробовать бросить энергетический шар внутрь..."
+		"zho"		"你可以试着把能量球扔进去..."
+		"chi"		"你可以試著把能量球扔進去..."
+	}
+	"57e2313f8aaa08b2e890e117accc3629"
+	{
+		"en"		"But you need something to break the protector..."
+		"ru"		"Но вам нужно что-то, чтобы сломать защитник..."
+		"zho"		"但你需要一些东西来打破保护器..."
+		"chi"		"但你需要一些東西來打破保護器..."
+	}
+	"7e16e8fcf3876160066837c082dc0ba1"
+	{
+		"en"		"It works, the Machine is overloaded!!"
+		"ru"		"Это работает, машина перегружена!!"
+		"zho"		"它有效，机器超载了！！"
+		"chi"		"它有效，機器超載了！！"
+	}
+	"ae1538772e8238ad07a201808867d007"
+	{
+		"en"		"Escape from here before it explodes!!"
+		"ru"		"Спасайтесь отсюда, пока не взорвалось!!"
+		"zho"		"在它爆炸之前逃离这里！！"
+		"chi"		"在它爆炸之前逃離這裡！！"
+	}
+	"9956f25fb325f295eed1f40c3292d529"
+	{
+		"en"		"Good, but keep searching for the Power Balls..."
+		"ru"		"Хорошо, но продолжайте искать энергетические шары..."
+		"zho"		"很好，但继续寻找能量球..."
+		"chi"		"很好，但繼續尋找能量球..."
+	}
+	"ab36b9a9688401c5d5b371399c5ca2eb"
+	{
+		"en"		"Because you can maybe overload the Machine..."
+		"ru"		"Потому что вы можете перегрузить машину..."
+		"zho"		"因为你可能会使机器超载..."
+		"chi"		"因為你可能會使機器超載..."
+	}
+	"5a7ee3e08506a69b791c81d8a34f8819"
+	{
+		"en"		"Good luck, I will recontact you if needed..."
+		"ru"		"Удачи, я свяжусь с вами при необходимости..."
+		"zho"		"祝你好运，如有需要我会再联系你..."
+		"chi"		"祝你好運，如有需要我會再聯繫你..."
+	}
+	"16c381e629c3542cee2a002e4eb29e62"
+	{
+		"en"		"Your mission is to find it and destroy it..."
+		"ru"		"Ваша миссия - найти и уничтожить его..."
+		"zho"		"你的任务是找到它并摧毁它..."
+		"chi"		"你的任務是找到它並摧毀它..."
+	}
+	"c62ba99e3daa19bfc5066bebbab022c9"
+	{
+		"en"		"And it's hidden somewhere in these Sewers..."
+		"ru"		"И это спрятано где-то в этих канализациях..."
+		"zho"		"它藏在这些下水道中的某个地方..."
+		"chi"		"它藏在這些下水道中的某個地方..."
+	}
+	"fbf44928097958d2c4587aec09eb4ddd"
+	{
+		"en"		"One company owns a Secret Machine which can change the World!!"
+		"ru"		"Одна компания владеет секретной машиной, которая может изменить мир!!"
+		"zho"		"有一家公司拥有一台可以改变世界的秘密机器！！"
+		"chi"		"有一家公司擁有一台可以改變世界的秘密機器！！"
+	}
+	"24bbe4e9aa8e112c28838b0a8a364f51"
+	{
+		"en"		"This Weapon can transform the Citizens into Zombies..."
+		"ru"		"Это оружие может превращать граждан в зомби..."
+		"zho"		"这种武器可以将市民变成僵尸..."
+		"chi"		"這種武器可以將市民變成僵屍..."
+	}
+	"17799c49c0946e572630620a7f7510ee"
+	{
+		"en"		"Our undercover agent has discovered a really important thing..."
+		"ru"		"Наш тайный агент обнаружил очень важную вещь..."
+		"zho"		"我们的卧底特工发现了一件非常重要的事情..."
+		"chi"		"我們的臥底特工發現了一件非常重要的事情..."
+	}
+	"e5a5649609ead6861a6936b30c531566"
+	{
+		"en"		"Welcome to the Sewers"
+		"ru"		"Добро пожаловать в канализацию"
+		"zho"		"欢迎来到下水道"
+		"chi"		"歡迎來到下水道"
+	}
+}

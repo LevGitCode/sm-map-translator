@@ -1,0 +1,94 @@
+"Phrases"
+{
+	"7c3c0f95d23b531b084c6c9bb66f48d7"
+	{
+		"en"		"take the key and find the exit"
+		"ru"		"возьмите ключ и найдите выход"
+		"zho"		"拿钥匙找出口"
+		"chi"		"拿鑰匙找出口"
+	}
+	"6f7896ef3c6ba34619cd592dce214a84"
+	{
+		"en"		"turn on the generator"
+		"ru"		"включите генератор"
+		"zho"		"启动发电机"
+		"chi"		"啟動發電機"
+	}
+	"7a5f0f697b041d5d81bf316ad7867a01"
+	{
+		"en"		"open the door with the rusty key"
+		"ru"		"откройте дверь ржавым ключом"
+		"zho"		"用生锈的钥匙开门"
+		"chi"		"用生鏽的鑰匙開門"
+	}
+	"457609e22e53f9c919e18720db5582f9"
+	{
+		"en"		"open the door 2"
+		"ru"		"откройте дверь 2"
+		"zho"		"打开门2"
+		"chi"		"打開門2"
+	}
+	"d6379289c64c94921e985f63c20e6ec1"
+	{
+		"en"		"open the door with the key"
+		"ru"		"откройте дверь ключом"
+		"zho"		"用钥匙开门"
+		"chi"		"用鑰匙開門"
+	}
+	"bc97c70c00565961a8a2b3e6537988a8"
+	{
+		"en"		"open the door 1"
+		"ru"		"откройте дверь 1"
+		"zho"		"打开门1"
+		"chi"		"打開門1"
+	}
+	"404a52cdbb12314143e00e42397785f7"
+	{
+		"en"		"BOSS 20000 HP"
+		"ru"		"БОСС 20000 HP"
+		"zho"		"首领 20000 生命值"
+		"chi"		"首領 20000 生命值"
+	}
+	"3a74d42b68a3ab4c4e8888c92c3c3ba8"
+	{
+		"en"		"BOSS 30000 HP"
+		"ru"		"БОСС 30000 HP"
+		"zho"		"首领 30000 生命值"
+		"chi"		"首領 30000 生命值"
+	}
+	"584ab63a947dbb0b96d55d22afe0f1f4"
+	{
+		"en"		"REVELATION 2"
+		"ru"		"ОТКРОВЕНИЕ 2"
+		"zho"		"启示录 2"
+		"chi"		"啟示錄 2"
+	}
+	"911be98b353bbded63bc14a80187dee5"
+	{
+		"en"		"RESIDENT EVIL"
+		"ru"		"ОБИТЕЛЬ ЗЛА"
+		"zho"		"生化危机"
+		"chi"		"生化危機"
+	}
+	"faa929c892ae1812389f9de01b5ff531"
+	{
+		"en"		"Map by HAMMERCORE"
+		"ru"		"Карта от HAMMERCORE"
+		"zho"		"地图由 HAMMERCORE 制作"
+		"chi"		"地圖由 HAMMERCORE 製作"
+	}
+	"a1f953e95d9305b812a9c94ee4a850cc"
+	{
+		"en"		"NEED_POWER"
+		"ru"		"НЕОБХОДИМА МОЩНОСТЬ"
+		"zho"		"需要电源"
+		"chi"		"需要電源"
+	}
+	"059e9861e0400dfbe05c98a841f3f96b"
+	{
+		"en"		"WARNING"
+		"ru"		"ПРЕДУПРЕЖДЕНИЕ"
+		"zho"		"警告"
+		"chi"		"警告"
+	}
+}

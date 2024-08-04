@@ -1,0 +1,269 @@
+"Phrases"
+{
+	"c31fcb45671328ebad594f379885d933"
+	{
+		"en"		"Find ladder to go up"
+		"ru"		"Найдите лестницу, чтобы подняться"
+		"zho"		"找到梯子往上爬"
+		"chi"		"找到梯子往上爬"
+	}
+	"7bc90846dbce62e9e279ff47e8cd4f3e"
+	{
+		"en"		"Pickup the bomb then destroy this facility"
+		"ru"		"Возьмите бомбу и уничтожьте это помещение"
+		"zho"		"拿起炸弹，然后摧毁这个设施"
+		"chi"		"拿起炸弹，然后摧毁这个设施"
+	}
+	"b8af86debc38805b3eccc3b956199ef9"
+	{
+		"en"		"Now place all Black Crystals to powerup the facility"
+		"ru"		"Теперь поместите все Черные Кристаллы, чтобы активировать помещение"
+		"zho"		"现在放置所有黑色水晶来给设施供电"
+		"chi"		"现在放置所有黑色水晶来给设施供电"
+	}
+	"010b4d3574e26613dab33849bc0deab9"
+	{
+		"en"		"Pickup fourth Black Crystal"
+		"ru"		"Возьмите четвертый Черный Кристалл"
+		"zho"		"拿起第四块黑色水晶"
+		"chi"		"拿起第四块黑色水晶"
+	}
+	"74a903a8051cacfc7cdd3cfdcd94b488"
+	{
+		"en"		"Pickup third Black Crystal and find a key to access door A"
+		"ru"		"Возьмите третий Черный Кристалл и найдите ключ, чтобы открыть дверь A"
+		"zho"		"拿起第三块黑色水晶并找到打开A门的钥匙"
+		"chi"		"拿起第三块黑色水晶并找到打开A门的钥匙"
+	}
+	"573b77aa3ad7c7ead7ef5fd52d1395d3"
+	{
+		"en"		"Destroy metal wall using TNT"
+		"ru"		"Уничтожьте металлическую стену с помощью тротила"
+		"zho"		"使用TNT摧毁金属墙"
+		"chi"		"使用TNT摧毁金属墙"
+	}
+	"c5f486e53c959da595be8278ec2ddcc3"
+	{
+		"en"		"Pickup second Black Crystal"
+		"ru"		"Возьмите второй Черный Кристалл"
+		"zho"		"拿起第二块黑色水晶"
+		"chi"		"拿起第二块黑色水晶"
+	}
+	"36bd4630813d1839ccaec0ee72a82c3a"
+	{
+		"en"		"Pickup first Black Crystal"
+		"ru"		"Возьмите первый Черный Кристалл"
+		"zho"		"拿起第一块黑色水晶"
+		"chi"		"拿起第一块黑色水晶"
+	}
+	"8b38574512af45e6b293594bab13a293"
+	{
+		"en"		"Find a TNT on warehouse shelf room to blow up the wall"
+		"ru"		"Найдите тротил в складском помещении, чтобы взорвать стену"
+		"zho"		"在仓库架子房找到TNT炸药来炸墙"
+		"chi"		"在仓库架子房找到TNT炸药来炸墙"
+	}
+	"318086de296cabea85a5a2c1341bddd9"
+	{
+		"en"		"Find a powerbox to powerup the lift"
+		"ru"		"Найдите электрощиток, чтобы активировать лифт"
+		"zho"		"找到电源箱来启动电梯"
+		"chi"		"找到电源箱来启动电梯"
+	}
+	"e02ca7966adb4046af776104cd1e1299"
+	{
+		"en"		"Find a key to open sewer gate"
+		"ru"		"Найдите ключ, чтобы открыть канализационные ворота"
+		"zho"		"找到钥匙打开下水道门"
+		"chi"		"找到钥匙打开下水道门"
+	}
+	"91ae8cec91179a49ea01b2009255d17a"
+	{
+		"en"		"Place the C4 to blowup the door"
+		"ru"		"Поместите С4, чтобы взорвать дверь"
+		"zho"		"放置C4炸药来炸门"
+		"chi"		"放置C4炸药来炸门"
+	}
+	"8bca98d6da5085b1be738349fd662d73"
+	{
+		"en"		"Prepare for horde"
+		"ru"		"Приготовьтесь к орде"
+		"zho"		"准备迎接成群的敌人"
+		"chi"		"准备迎接成群的敌人"
+	}
+	"8a7d92213c6b7874e442578737427fa6"
+	{
+		"en"		"that caused this place to be haunted and full of zombies. we must destroy this place to finish it!"
+		"ru"		"Это место стало населенным призраками и полным зомби. Мы должны уничтожить это место, чтобы покончить с этим!"
+		"zho"		"导致这个地方鬼魂出没并充满僵尸。我们必须摧毁这个地方以结束它！"
+		"chi"		"导致这个地方鬼魂出没并充满僵尸。我们必须摧毁这个地方以结束它！"
+	}
+	"38114b9e02b71ae80a7a325537e6b123"
+	{
+		"en"		"We are still trying to find out what is happened in this place"
+		"ru"		"Мы все еще пытаемся выяснить, что произошло в этом месте"
+		"zho"		"我们仍在试图弄清这里发生了什么"
+		"chi"		"我们仍在试图弄清这里发生了什么"
+	}
+	"f6ac92abfbccee3988a5a9e29a2ac923"
+	{
+		"en"		"Episode 2"
+		"ru"		"Эпизод 2"
+		"zho"		"第二集"
+		"chi"		"第二集"
+	}
+	"f3db0afaae0a0bee10c82fe1a748b2d5"
+	{
+		"en"		"Prepare for horde before plant the bomb!"
+		"ru"		"Приготовьтесь к орде перед установкой бомбы!"
+		"zho"		"在安放炸弹之前准备迎接成群的敌人！"
+		"chi"		"在安放炸弹之前准备迎接成群的敌人！"
+	}
+	"38170823e299d05c958f8d24723c3ae6"
+	{
+		"en"		"Find a secret button in this room to open secret door"
+		"ru"		"Найдите секретную кнопку в этой комнате, чтобы открыть секретную дверь"
+		"zho"		"在这个房间找到一个秘密按钮来打开秘密门"
+		"chi"		"在这个房间找到一个秘密按钮来打开秘密门"
+	}
+	"9cf5c4e43c647a97bc3f65b7ba9e0e7f"
+	{
+		"en"		"Bomb has placed, Get out from here!"
+		"ru"		"Бомба установлена, уходите отсюда!"
+		"zho"		"炸弹已放置，快离开这里！"
+		"chi"		"炸弹已放置，快离开这里！"
+	}
+	"ec09b1d7d0a1f6f63bbf9f4dc433def7"
+	{
+		"en"		"Pick up some objects to climb up there!"
+		"ru"		"Подберите несколько предметов, чтобы забраться туда!"
+		"zho"		"捡起一些物体爬上去！"
+		"chi"		"捡起一些物体爬上去！"
+	}
+	"b13aed5137704db207d5c73bf771b738"
+	{
+		"en"		"Someone just pickup fourth Black Crystal"
+		"ru"		"Кто-то только что подобрал четвертый Черный Кристалл"
+		"zho"		"有人刚刚拿起第四块黑色水晶"
+		"chi"		"有人刚刚拿起第四块黑色水晶"
+	}
+	"086f796715e56490c1cb1fb539d28bf7"
+	{
+		"en"		"Please Continue to Episode 3"
+		"ru"		"Пожалуйста, продолжайте с Эпизода 3"
+		"zho"		"请继续观看第三集"
+		"chi"		"请继续观看第三集"
+	}
+	"e1c3639c0e2734ca07baec3c4d9624e8"
+	{
+		"en"		"Alarm control console gate unlocked."
+		"ru"		"Ворота пульта управления тревогой разблокированы."
+		"zho"		"警报控制台门已解锁。"
+		"chi"		"警报控制台门已解锁。"
+	}
+	"e2f6ce28cc6b5c82f31f76b73d9508c4"
+	{
+		"en"		"Map (C) 2013 - by Wolvindra-Vinzuerio edited by dewobedil"
+		"ru"		"Карта (C) 2013 - от Wolvindra-Vinzuerio, редактировал dewobedil"
+		"zho"		"地图 (C) 2013 - 由 Wolvindra-Vinzuerio 制作，由 dewobedil 编辑"
+		"chi"		"地图 (C) 2013 - 由 Wolvindra-Vinzuerio 制作，由 dewobedil 编辑"
+	}
+	"0d14c8844bd1dcfb9eab7698ed352748"
+	{
+		"en"		"Thanks for playing!"
+		"ru"		"Спасибо за игру!"
+		"zho"		"感谢游玩！"
+		"chi"		"感谢游玩！"
+	}
+	"c8df5892e48a3427cb6097db4157fc4f"
+	{
+		"en"		"Episode 2 Completed"
+		"ru"		"Эпизод 2 Завершен"
+		"zho"		"第二集完成"
+		"chi"		"第二集完成"
+	}
+	"623302e49714e013edefd4a19a096403"
+	{
+		"en"		"Bomb has been picked up. Now destroy this place!"
+		"ru"		"Бомба подобрана. Теперь уничтожьте это место!"
+		"zho"		"炸弹已拿起。现在摧毁这个地方！"
+		"chi"		"炸弹已拿起。现在摧毁这个地方！"
+	}
+	"0664bd3ee7d6a01e860067aa4511a3e4"
+	{
+		"en"		"Someone got the key. Now bring the key to access door A"
+		"ru"		"Кто-то получил ключ. Теперь принесите ключ к двери A"
+		"zho"		"有人拿到了钥匙。现在把钥匙带到A门"
+		"chi"		"有人拿到了钥匙。现在把钥匙带到A门"
+	}
+	"2fa0b2220f59112f54ecb142de4e3713"
+	{
+		"en"		"This button requires a Key to unlock."
+		"ru"		"Для разблокировки этой кнопки требуется ключ."
+		"zho"		"此按钮需要钥匙才能解锁。"
+		"chi"		"此按钮需要钥匙才能解锁。"
+	}
+	"24791d453db306b97805d841f25c3b62"
+	{
+		"en"		"Alarm deactivated, gate 5 unlocked and opened."
+		"ru"		"Сигнализация отключена, ворота 5 разблокированы и открыты."
+		"zho"		"警报已解除，5号门已解锁并打开。"
+		"chi"		"警报已解除，5号门已解锁并打开。"
+	}
+	"ac4261334ebfbec3b83c99b0a0d1afde"
+	{
+		"en"		"Main power activated, alarm control activated."
+		"ru"		"Основное питание включено, управление тревогой активировано."
+		"zho"		"主电源已激活，警报控制已激活。"
+		"chi"		"主电源已激活，警报控制已激活。"
+	}
+	"30f6d9822476d2dd600c56cb2040f5b1"
+	{
+		"en"		"Someone just pickup third Black Crystal"
+		"ru"		"Кто-то только что подобрал третий Черный Кристалл"
+		"zho"		"有人刚刚拿起第三块黑色水晶"
+		"chi"		"有人刚刚拿起第三块黑色水晶"
+	}
+	"48a21e9eb029b23a1f165da7b1c1e703"
+	{
+		"en"		"Someone just pickup second Black Crystal"
+		"ru"		"Кто-то только что подобрал второй Черный Кристалл"
+		"zho"		"有人刚刚拿起第二块黑色水晶"
+		"chi"		"有人刚刚拿起第二块黑色水晶"
+	}
+	"8aa8bb4ddf55fb09eebb45421367024f"
+	{
+		"en"		"Someone just pickup first Black Crystal"
+		"ru"		"Кто-то только что подобрал первый Черный Кристалл"
+		"zho"		"有人刚刚拿起第一块黑色水晶"
+		"chi"		"有人刚刚拿起第一块黑色水晶"
+	}
+	"1a78e1163158b632ccdb06428a244110"
+	{
+		"en"		"You need a power box to activate this button."
+		"ru"		"Вам нужен электрощиток, чтобы активировать эту кнопку."
+		"zho"		"您需要一个电源箱来激活此按钮。"
+		"chi"		"您需要一个电源箱来激活此按钮。"
+	}
+	"c45aa607e000d96424d6ba4a3cdae180"
+	{
+		"en"		"Someone got the powerbox. Now bring to the power panel"
+		"ru"		"Кто-то получил электрощиток. Теперь принесите его к панели питания"
+		"zho"		"有人拿到了电源箱。现在把它带到电源面板"
+		"chi"		"有人拿到了电源箱。现在把它带到电源面板"
+	}
+	"4faae4ebcde9bd2b987615f38654974f"
+	{
+		"en"		"To open this door, You must find the key to open it."
+		"ru"		"Чтобы открыть эту дверь, вы должны найти ключ."
+		"zho"		"要打开这扇门，您必须找到钥匙。"
+		"chi"		"要打开这扇门，您必须找到钥匙。"
+	}
+	"a24eb7036f49ab1a737032d1607878e7"
+	{
+		"en"		"Someone got the key. Now open the sewer gate!"
+		"ru"		"Кто-то получил ключ. Теперь откройте канализационные ворота!"
+		"zho"		"有人拿到了钥匙。现在打开下水道门！"
+		"chi"		"有人拿到了钥匙。现在打开下水道门！"
+	}
+}

@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"2a9490ea0dc86f9ed752ba0f285cea6a"
+	{
+		"en"		"Weld through the gate and get"
+		"ru"		"Прорежьте ворота и получите"
+		"zho"		"焊接穿过大门并获取"
+		"chi"		"焊接穿過大門並獲取"
+	}
+	"35ab625ee08f1519485ad7ff2ff560b0"
+	{
+		"en"		"Find a way out of town"
+		"ru"		"Найдите способ выбраться из города"
+		"zho"		"找出离开城镇的方法"
+		"chi"		"找出離開城鎮的方法"
+	}
+	"782135c78f8bfce6af2894d544c3f920"
+	{
+		"en"		"Make it through the woods"
+		"ru"		"Пройдите через лес"
+		"zho"		"穿过树林"
+		"chi"		"穿過樹林"
+	}
+	"fd42038fb64846f5d588caa73621e27d"
+	{
+		"en"		"Enter the underground military bunker"
+		"ru"		"Войдите в подземный военный бункер"
+		"zho"		"进入地下军事掩体"
+		"chi"		"進入地下軍事掩體"
+	}
+	"ba5a1b9a0c092a10cdfb3336b4565af8"
+	{
+		"en"		"Find the armory"
+		"ru"		"Найдите оружейную"
+		"zho"		"找到军械库"
+		"chi"		"找到軍械庫"
+	}
+	"fc644f3bf4e24c1205b9c79a2d6cd5fb"
+	{
+		"en"		"Unlock the armory with a keycard"
+		"ru"		"Откройте оружейную с помощью ключ-карты"
+		"zho"		"用钥匙卡解锁军械库"
+		"chi"		"用鑰匙卡解鎖軍械庫"
+	}
+	"98456e708898dd4e325c72a19fd351db"
+	{
+		"en"		"Power up the rest of the bunker with a fuse"
+		"ru"		"Включите остальную часть бункера с помощью предохранителя"
+		"zho"		"用保险丝为其余的掩体供电"
+		"chi"		"用保險絲為其餘的掩體供電"
+	}
+	"d322872bf3443b88d2c17c5b4c85e129"
+	{
+		"en"		"Find the escape tunnel"
+		"ru"		"Найдите тоннель для побега"
+		"zho"		"找到逃生通道"
+		"chi"		"找到逃生通道"
+	}
+}

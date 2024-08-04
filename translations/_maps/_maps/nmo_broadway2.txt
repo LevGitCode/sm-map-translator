@@ -1,0 +1,248 @@
+"Phrases"
+{
+	"f6ab1b96fa1ef11b937c7505c8b3e74a"
+	{
+		"en"		"#nmo_broadway2_ObjT"
+		"ru"		"#nmo_broadway2_ObjT"
+		"zho"		"#nmo_broadway2_ObjT"
+		"chi"		"#nmo_broadway2_ObjT"
+	}
+	"feb07f08f39602ee794f97fc6fac7831"
+	{
+		"en"		"#nmo_broadway2_ObJS"
+		"ru"		"#nmo_broadway2_ObJS"
+		"zho"		"#nmo_broadway2_ObJS"
+		"chi"		"#nmo_broadway2_ObJS"
+	}
+	"6e687dcc093c57f4d4089bec4d9030fd"
+	{
+		"en"		"#nmo_broadway2_ObjR"
+		"ru"		"#nmo_broadway2_ObjR"
+		"zho"		"#nmo_broadway2_ObjR"
+		"chi"		"#nmo_broadway2_ObjR"
+	}
+	"15816af47c692c0b955d265d9f6d54ad"
+	{
+		"en"		"#nmo_broadway2_ObjP"
+		"ru"		"#nmo_broadway2_ObjP"
+		"zho"		"#nmo_broadway2_ObjP"
+		"chi"		"#nmo_broadway2_ObjP"
+	}
+	"d37e5ba3b19e8cf590c24a675603dc57"
+	{
+		"en"		"#nmo_broadway2_ObjQ"
+		"ru"		"#nmo_broadway2_ObjQ"
+		"zho"		"#nmo_broadway2_ObjQ"
+		"chi"		"#nmo_broadway2_ObjQ"
+	}
+	"4d7e869e84ff4d515253444417e6e6bf"
+	{
+		"en"		"#nmo_broadway2_ObjO"
+		"ru"		"#nmo_broadway2_ObjO"
+		"zho"		"#nmo_broadway2_ObjO"
+		"chi"		"#nmo_broadway2_ObjO"
+	}
+	"a1071b921d8af8541dd8881a00793a88"
+	{
+		"en"		"#nmo_broadway2_ObjE_1"
+		"ru"		"#nmo_broadway2_ObjE_1"
+		"zho"		"#nmo_broadway2_ObjE_1"
+		"chi"		"#nmo_broadway2_ObjE_1"
+	}
+	"96425e4c32ae208ad7eb469232b3a24e"
+	{
+		"en"		"#nmo_broadway2_ObjM_2"
+		"ru"		"#nmo_broadway2_ObjM_2"
+		"zho"		"#nmo_broadway2_ObjM_2"
+		"chi"		"#nmo_broadway2_ObjM_2"
+	}
+	"34e8a79f3fd1b37b0fed423ae29f2658"
+	{
+		"en"		"#nmo_broadway2_ObjM_1"
+		"ru"		"#nmo_broadway2_ObjM_1"
+		"zho"		"#nmo_broadway2_ObjM_1"
+		"chi"		"#nmo_broadway2_ObjM_1"
+	}
+	"90d8e4176ba530bedb9862e41ca22bc1"
+	{
+		"en"		"#nmo_broadway2_ObjI_1"
+		"ru"		"#nmo_broadway2_ObjI_1"
+		"zho"		"#nmo_broadway2_ObjI_1"
+		"chi"		"#nmo_broadway2_ObjI_1"
+	}
+	"8a98f7de36936c15e274ed08c61f325a"
+	{
+		"en"		"#nmo_broadway2_ObjG_2"
+		"ru"		"#nmo_broadway2_ObjG_2"
+		"zho"		"#nmo_broadway2_ObjG_2"
+		"chi"		"#nmo_broadway2_ObjG_2"
+	}
+	"51b735229531b99dfc974ef77f358f6d"
+	{
+		"en"		"#nmo_broadway2_ObjJ_1"
+		"ru"		"#nmo_broadway2_ObjJ_1"
+		"zho"		"#nmo_broadway2_ObjJ_1"
+		"chi"		"#nmo_broadway2_ObjJ_1"
+	}
+	"5ab11174a55f104c23967bbae3ba68b2"
+	{
+		"en"		"#nmo_broadway2_ObjH_1"
+		"ru"		"#nmo_broadway2_ObjH_1"
+		"zho"		"#nmo_broadway2_ObjH_1"
+		"chi"		"#nmo_broadway2_ObjH_1"
+	}
+	"d2bcd5831f09ade8061f915ea703a0e8"
+	{
+		"en"		"#nmo_broadway2_ObjG_1"
+		"ru"		"#nmo_broadway2_ObjG_1"
+		"zho"		"#nmo_broadway2_ObjG_1"
+		"chi"		"#nmo_broadway2_ObjG_1"
+	}
+	"9c29356a66c49b85735c9ca924093401"
+	{
+		"en"		"#nmo_broadway2_ObjF_1"
+		"ru"		"#nmo_broadway2_ObjF_1"
+		"zho"		"#nmo_broadway2_ObjF_1"
+		"chi"		"#nmo_broadway2_ObjF_1"
+	}
+	"1e94580811091ce7d0e5858bbb9cd933"
+	{
+		"en"		"#nmo_broadway2_ObjE_4"
+		"ru"		"#nmo_broadway2_ObjE_4"
+		"zho"		"#nmo_broadway2_ObjE_4"
+		"chi"		"#nmo_broadway2_ObjE_4"
+	}
+	"11dc6c3b1b13a12c9d0a63cbdd977890"
+	{
+		"en"		"#nmo_broadway2_ObjE_3"
+		"ru"		"#nmo_broadway2_ObjE_3"
+		"zho"		"#nmo_broadway2_ObjE_3"
+		"chi"		"#nmo_broadway2_ObjE_3"
+	}
+	"9ab8362ee0881dab874bdce144e53867"
+	{
+		"en"		"#nmo_broadway2_ObjE_2"
+		"ru"		"#nmo_broadway2_ObjE_2"
+		"zho"		"#nmo_broadway2_ObjE_2"
+		"chi"		"#nmo_broadway2_ObjE_2"
+	}
+	"77edd47087706693e66b30cb2d1ae2e3"
+	{
+		"en"		"#nmo_broadway2_ObjD_1"
+		"ru"		"#nmo_broadway2_ObjD_1"
+		"zho"		"#nmo_broadway2_ObjD_1"
+		"chi"		"#nmo_broadway2_ObjD_1"
+	}
+	"9b7c79905f83c76d68de864281e9707a"
+	{
+		"en"		"#nmo_broadway2_ObjD_2"
+		"ru"		"#nmo_broadway2_ObjD_2"
+		"zho"		"#nmo_broadway2_ObjD_2"
+		"chi"		"#nmo_broadway2_ObjD_2"
+	}
+	"a14b42198ef92fd7c8fd3a12fe0ad517"
+	{
+		"en"		"#nmo_broadway2_ObjC_4"
+		"ru"		"#nmo_broadway2_ObjC_4"
+		"zho"		"#nmo_broadway2_ObjC_4"
+		"chi"		"#nmo_broadway2_ObjC_4"
+	}
+	"1e4adf8469896d7059300fc582a370d8"
+	{
+		"en"		"#nmo_broadway2_ObjC_3"
+		"ru"		"#nmo_broadway2_ObjC_3"
+		"zho"		"#nmo_broadway2_ObjC_3"
+		"chi"		"#nmo_broadway2_ObjC_3"
+	}
+	"e22e625eaf13a04d77d74983586a7328"
+	{
+		"en"		"#nmo_broadway2_ObjC_2"
+		"ru"		"#nmo_broadway2_ObjC_2"
+		"zho"		"#nmo_broadway2_ObjC_2"
+		"chi"		"#nmo_broadway2_ObjC_2"
+	}
+	"789a8924bde7cbd6cdf3066346ab6533"
+	{
+		"en"		"#nmo_broadway2_ObjC_1"
+		"ru"		"#nmo_broadway2_ObjC_1"
+		"zho"		"#nmo_broadway2_ObjC_1"
+		"chi"		"#nmo_broadway2_ObjC_1"
+	}
+	"52864784b46712eb687dac65783830c4"
+	{
+		"en"		"#nmo_broadway2_ObjB_3"
+		"ru"		"#nmo_broadway2_ObjB_3"
+		"zho"		"#nmo_broadway2_ObjB_3"
+		"chi"		"#nmo_broadway2_ObjB_3"
+	}
+	"ba025de3ec55102895dfafcf3ea8452f"
+	{
+		"en"		"#nmo_broadway2_ObjB_2"
+		"ru"		"#nmo_broadway2_ObjB_2"
+		"zho"		"#nmo_broadway2_ObjB_2"
+		"chi"		"#nmo_broadway2_ObjB_2"
+	}
+	"4509d8da1e67c01d9c1aedd97fb19149"
+	{
+		"en"		"#nmo_broadway2_ObjB_1"
+		"ru"		"#nmo_broadway2_ObjB_1"
+		"zho"		"#nmo_broadway2_ObjB_1"
+		"chi"		"#nmo_broadway2_ObjB_1"
+	}
+	"bfba318def8dea6cb88a5addb1727ff9"
+	{
+		"en"		"#nmo_broadway2_ObjA"
+		"ru"		"#nmo_broadway2_ObjA"
+		"zho"		"#nmo_broadway2_ObjA"
+		"chi"		"#nmo_broadway2_ObjA"
+	}
+	"e97235c229b635c1e9048011699905f6"
+	{
+		"en"		"#nmo_broadway2_5min"
+		"ru"		"#nmo_broadway2_5min"
+		"zho"		"#nmo_broadway2_5min"
+		"chi"		"#nmo_broadway2_5min"
+	}
+	"daf6ad494777956cfa1abe796929620a"
+	{
+		"en"		"#nmo_broadway2_4min"
+		"ru"		"#nmo_broadway2_4min"
+		"zho"		"#nmo_broadway2_4min"
+		"chi"		"#nmo_broadway2_4min"
+	}
+	"fa99ba346dcdab1255ac12d86adf720a"
+	{
+		"en"		"#nmo_broadway2_3min"
+		"ru"		"#nmo_broadway2_3min"
+		"zho"		"#nmo_broadway2_3min"
+		"chi"		"#nmo_broadway2_3min"
+	}
+	"f13ba137b76fa7294a8d390a7d4cddd4"
+	{
+		"en"		"#nmo_broadway2_2min"
+		"ru"		"#nmo_broadway2_2min"
+		"zho"		"#nmo_broadway2_2min"
+		"chi"		"#nmo_broadway2_2min"
+	}
+	"eee41db521c7f172817fe1ffa3948dc9"
+	{
+		"en"		"#nmo_broadway2_1min"
+		"ru"		"#nmo_broadway2_1min"
+		"zho"		"#nmo_broadway2_1min"
+		"chi"		"#nmo_broadway2_1min"
+	}
+	"461689fbada573831e619d72d3a02965"
+	{
+		"en"		"#nmo_broadway2_30sec"
+		"ru"		"#nmo_broadway2_30sec"
+		"zho"		"#nmo_broadway2_30sec"
+		"chi"		"#nmo_broadway2_30sec"
+	}
+	"bb0b84242ffe94ebc8cb49dc8c87e6e9"
+	{
+		"en"		"#nmo_broadway2_getout"
+		"ru"		"#nmo_broadway2_getout"
+		"zho"		"#nmo_broadway2_getout"
+		"chi"		"#nmo_broadway2_getout"
+	}
+}

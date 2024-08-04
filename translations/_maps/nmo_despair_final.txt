@@ -1,0 +1,101 @@
+"Phrases"
+{
+	"d1ccee734a70eb944a9e78cf8b30119f"
+	{
+		"en"		"Look for a way inside the military complex"
+		"ru"		"Ищите путь внутрь военного комплекса"
+		"zho"		"寻找进入军事基地的方式"
+		"chi"		"尋找進入軍事基地的方式"
+	}
+	"48d539df6193d42c0aa9400d1b2d2dca"
+	{
+		"en"		"Manoeuver your way through the tunnels"
+		"ru"		"Пробирайтесь через туннели"
+		"zho"		"在隧道中穿行"
+		"chi"		"在隧道中穿行"
+	}
+	"013ec032d3460d4be4431c6ab1f8f224"
+	{
+		"en"		"Escape"
+		"ru"		"Побег"
+		"zho"		"逃脱"
+		"chi"		"逃脫"
+	}
+	"467acbf353a7a5faf0b16f973263e36c"
+	{
+		"en"		"Reach the surface"
+		"ru"		"Достигните поверхности"
+		"zho"		"到达地面"
+		"chi"		"到達地面"
+	}
+	"7cdc036c2d2ccb6689c7e7db48b3588d"
+	{
+		"en"		"Use the explosive device to progress towards the sewer exit"
+		"ru"		"Используйте взрывное устройство для продвижения к выходу из канализации"
+		"zho"		"使用爆炸装置前往下水道出口"
+		"chi"		"使用爆炸裝置前往下水道出口"
+	}
+	"d61edd9a82df450605e0a609a1a829c1"
+	{
+		"en"		"Look for clues"
+		"ru"		"Ищите подсказки"
+		"zho"		"寻找线索"
+		"chi"		"尋找線索"
+	}
+	"26d7a4ee859f783ef9dfb3ca58b61856"
+	{
+		"en"		"Open up the door towards the sewer entrance"
+		"ru"		"Откройте дверь к входу в канализацию"
+		"zho"		"打开通向下水道入口的门"
+		"chi"		"打開通向下水道入口的門"
+	}
+	"750755734d35110561ee3dc1df8687e1"
+	{
+		"en"		"Locate a red key"
+		"ru"		"Найдите красный ключ"
+		"zho"		"找到红色钥匙"
+		"chi"		"找到紅色鑰匙"
+	}
+	"883b561ab2396e5f910c48a721100c3f"
+	{
+		"en"		"Look for a yellow key to open a door"
+		"ru"		"Ищите желтый ключ для открытия двери"
+		"zho"		"寻找黄色钥匙打开门"
+		"chi"		"尋找黃色鑰匙打開門"
+	}
+	"232226455f6be5540014bfe9f57d3f31"
+	{
+		"en"		"Find your way to the main hall"
+		"ru"		"Найдите путь к главному залу"
+		"zho"		"找到通往主厅的路"
+		"chi"		"找到通往主廳的路"
+	}
+	"5cf39dac969e031d33421ac9b7ddce76"
+	{
+		"en"		"Contact failed, pickup the emergency walkie talkie instead"
+		"ru"		"Связаться не удалось, возьмите аварийную рацию"
+		"zho"		"联系失败，改用应急对讲机"
+		"chi"		"聯繫失敗，改用應急對講機"
+	}
+	"4b0f216bd126077788dfec13241d7835"
+	{
+		"en"		"Contact the radio operator"
+		"ru"		"Свяжитесь с радистом"
+		"zho"		"联系无线电操作员"
+		"chi"		"聯繫無線電操作員"
+	}
+	"a456898383f7c37bd323dd9c3821ff72"
+	{
+		"en"		"Shoot the Cannister"
+		"ru"		"Стреляйте в канистру"
+		"zho"		"射击罐"
+		"chi"		"射擊罐"
+	}
+	"67233527b8842d50ab00526683fc5a9b"
+	{
+		"en"		"Map made by Fersigal"
+		"ru"		"Карта сделана Fersigal"
+		"zho"		"地图由 Fersigal 制作"
+		"chi"		"地圖由 Fersigal 製作"
+	}
+}

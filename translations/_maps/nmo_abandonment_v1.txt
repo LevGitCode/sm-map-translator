@@ -1,0 +1,122 @@
+"Phrases"
+{
+	"b0e0aa3d5c46ec5e22c418cd86cccfc5"
+	{
+		"en"		"Exit the sewers"
+		"ru"		"Выйдите из канализации"
+		"zho"		"退出下水道"
+		"chi"		"退出下水道"
+	}
+	"afd2b3af5c99d2d0c394c72ba12adbb6"
+	{
+		"en"		"Enter the sewers"
+		"ru"		"Войдите в канализацию"
+		"zho"		"进入下水道"
+		"chi"		"進入下水道"
+	}
+	"8b0a6aab7f8188c2882d874edd915d28"
+	{
+		"en"		"Get outside the main building through the sideroof exit"
+		"ru"		"Выйдите из основного здания через боковой выход на крышу"
+		"zho"		"通过侧屋顶出口离开主楼"
+		"chi"		"通過側屋頂出口離開主樓"
+	}
+	"b5222163eb712d8333bf9b998f8e90c0"
+	{
+		"en"		"Prepare yourself for something horrible"
+		"ru"		"Подготовьтесь к чему-то ужасному"
+		"zho"		"准备好面对恐怖的事情"
+		"chi"		"準備好面對恐怖的事情"
+	}
+	"505d9c3b25b21c3d013bd899b1626ad4"
+	{
+		"en"		"Scavenge for answers"
+		"ru"		"Ищите ответы"
+		"zho"		"寻找答案"
+		"chi"		"尋找答案"
+	}
+	"ad461d58d41929c128639e5ffa32480d"
+	{
+		"en"		"Destroy the barricades facing towards the dining room"
+		"ru"		"Уничтожьте баррикады, обращенные к столовой"
+		"zho"		"摧毁面向餐厅的路障"
+		"chi"		"摧毀面向餐廳的路障"
+	}
+	"85010d9aa0714c44ce6153fe566f1ee6"
+	{
+		"en"		"Use an I.E.D. to breach the lock"
+		"ru"		"Используйте СВУ, чтобы взломать замок"
+		"zho"		"使用简易爆炸装置破坏锁"
+		"chi"		"使用簡易爆炸裝置破壞鎖"
+	}
+	"d61edd9a82df450605e0a609a1a829c1"
+	{
+		"en"		"Look for clues"
+		"ru"		"Ищите подсказки"
+		"zho"		"寻找线索"
+		"chi"		"尋找線索"
+	}
+	"be448bbbd9f69ad942c499c0167bb0b6"
+	{
+		"en"		"Unlock the door to gain access towards the main building"
+		"ru"		"Откройте дверь, чтобы получить доступ к основному зданию"
+		"zho"		"解锁门以进入主楼"
+		"chi"		"解鎖門以進入主樓"
+	}
+	"8ba5b2f8472d1bac235afb5e40514074"
+	{
+		"en"		"Door's locked, see if you can find an alternative way out"
+		"ru"		"Дверь заперта, найдите альтернативный выход"
+		"zho"		"门锁了，看看能否找到其他出口"
+		"chi"		"門鎖了，看看能否找到其他出口"
+	}
+	"c449deccdec10392d966a5ce3f9e0c74"
+	{
+		"en"		"Get out of the cellar"
+		"ru"		"Выйдите из подвала"
+		"zho"		"离开地窖"
+		"chi"		"離開地窖"
+	}
+	"a3a1d60a7060b7b84a2a6d1d2a684907"
+	{
+		"en"		"Code door: 6194"
+		"ru"		"Кодовая дверь: 6194"
+		"zho"		"密码门：6194"
+		"chi"		"密碼門：6194"
+	}
+	"2aacaa25018248347152f2918876984f"
+	{
+		"en"		"Code door: 2849"
+		"ru"		"Кодовая дверь: 2849"
+		"zho"		"密码门：2849"
+		"chi"		"密碼門：2849"
+	}
+	"5995720f27d07a8e72aefaf6c7617f20"
+	{
+		"en"		"Code door: 3001"
+		"ru"		"Кодовая дверь: 3001"
+		"zho"		"密码门：3001"
+		"chi"		"密碼門：3001"
+	}
+	"2b93059d89501828ae5a24a111fcd14b"
+	{
+		"en"		"Code door: 5910"
+		"ru"		"Кодовая дверь: 5910"
+		"zho"		"密码门：5910"
+		"chi"		"密碼門：5910"
+	}
+	"c5c19de5f0c17661216d1ee55ac04396"
+	{
+		"en"		"Code door: 5487"
+		"ru"		"Кодовая дверь: 5487"
+		"zho"		"密码门：5487"
+		"chi"		"密碼門：5487"
+	}
+	"5e9695d78f0a39d23f8c918293204df0"
+	{
+		"en"		"Map made by a cat with sunglasses"
+		"ru"		"Карту создал кот в солнечных очках"
+		"zho"		"地图由戴墨镜的猫制作"
+		"chi"		"地圖由戴墨鏡的貓製作"
+	}
+}

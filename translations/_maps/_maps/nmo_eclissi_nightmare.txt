@@ -1,0 +1,108 @@
+"Phrases"
+{
+	"a464bd06d3913a229808593411b02bc8"
+	{
+		"en"		"Set up the truck for your escape, but don't forget to leave a mark."
+		"ru"		"Подготовьте грузовик для побега, но не забудьте оставить след."
+		"zho"		"设置卡车以便逃脱，但不要忘记留下痕迹。"
+		"chi"		"設置卡車以便逃脫，但不要忘記留下痕跡。"
+	}
+	"b679a44c931616f1fbdb863e9a3e8ca3"
+	{
+		"en"		"Find a way to access the control room, unlock and open the exit gate."
+		"ru"		"Найдите способ добраться до диспетчерской, откройте и разблокируйте ворота выхода."
+		"zho"		"找到进入控制室的方法，解锁并打开出口门。"
+		"chi"		"找到進入控制室的方法，解鎖並打開出口門。"
+	}
+	"7a0949a605d974d32ab51c5bfe0877a8"
+	{
+		"en"		"Needs must when the devil drives, get through before you die trying."
+		"ru"		"Нужды требуют, когда дьявол за рулем, пройдите прежде чем погибнете."
+		"zho"		"需要时魔鬼开车，撑过去不要放弃。"
+		"chi"		"需要時魔鬼開車，撐過去不要放棄。"
+	}
+	"7a236e98f9449b80d39b4f73873a5f6b"
+	{
+		"en"		"Dead end, try a different route."
+		"ru"		"Тупик, попробуйте другой маршрут."
+		"zho"		"死胡同，尝试不同的路线。"
+		"chi"		"死胡同，嘗試不同的路線。"
+	}
+	"29efbfc3041cf3464115a57d56b00bdc"
+	{
+		"en"		"Find a way to reach the parking lot."
+		"ru"		"Найдите способ добраться до парковки."
+		"zho"		"找到通往停车场的方法。"
+		"chi"		"找到通往停車場的方法。"
+	}
+	"1e49ff5628b646a08014fc9c11784bbd"
+	{
+		"en"		"Find a way to reach the warehouse."
+		"ru"		"Найдите способ добраться до склада."
+		"zho"		"找到通往仓库的方法。"
+		"chi"		"找到通往倉庫的方法。"
+	}
+	"38ad2f12fa29b463cfcb3c0a6d64cc37"
+	{
+		"en"		"Fix the fusebox and proceed to the next area."
+		"ru"		"Почините предохранительный щиток и двигайтесь дальше."
+		"zho"		"修理配电箱并继续前进到下一个区域。"
+		"chi"		"修理配電箱並繼續前進到下一個區域。"
+	}
+	"8d4ef8da97ae9294f3d893c98a7c1a74"
+	{
+		"en"		"Find a way to turn the power on and proceed to the next area."
+		"ru"		"Найдите способ включить питание и двигайтесь дальше."
+		"zho"		"找到打开电源的方法并继续前进到下一个区域。"
+		"chi"		"找到打開電源的方法並繼續前進到下一個區域。"
+	}
+	"99adfd37f2b851b91cf480fbfeb21a46"
+	{
+		"en"		"Breach through that door using TNT."
+		"ru"		"Взорвите эту дверь с помощью динамита."
+		"zho"		"用炸药炸开那扇门。"
+		"chi"		"用炸藥炸開那扇門。"
+	}
+	"b2998fb26ede4c83a8f93bda0b97b282"
+	{
+		"en"		"That door is about to open back up, weld it shut."
+		"ru"		"Эта дверь скоро откроется снова, заварите её."
+		"zho"		"那扇门即将再次打开，焊死它。"
+		"chi"		"那扇門即將再次打開，焊死它。"
+	}
+	"388003e969df9c08964d2b52e24212af"
+	{
+		"en"		"Restore power first!"
+		"ru"		"Сначала восстановите питание!"
+		"zho"		"先恢复电力！"
+		"chi"		"先恢復電力！"
+	}
+	"16f344d37d82f42f3a760cc2d84e56a6"
+	{
+		"en"		"The truck is about to leave, hurry up!"
+		"ru"		"Грузовик скоро уедет, поторопитесь!"
+		"zho"		"卡车即将离开，快点！"
+		"chi"		"卡車即將離開，快點！"
+	}
+	"70faeafd45209991e03b83a201bfbc79"
+	{
+		"en"		"Fix the fusebox first!"
+		"ru"		"Сначала почините предохранительный щиток!"
+		"zho"		"先修理配电箱！"
+		"chi"		"先修理配電箱！"
+	}
+	"342d58307e2b0e8217f171abe6f5e4e9"
+	{
+		"en"		"Fix the generator first!"
+		"ru"		"Сначала почините генератор!"
+		"zho"		"先修理发电机！"
+		"chi"		"先修理發電機！"
+	}
+	"e682eaf2729547512c154b83b701c1f7"
+	{
+		"en"		"The generator ran out of fuel, find it somewhere to keep the power on."
+		"ru"		"Генератор исчерпал топливо, найдите его где-то, чтобы поддерживать питание."
+		"zho"		"发电机没油了，找到它以保持电源。"
+		"chi"		"發電機沒油了，找到它以保持電源。"
+	}
+}

@@ -1,0 +1,45 @@
+"Phrases"
+{
+	"e3097f502ab789c7ff48b2614cfb39bb"
+	{
+		"en"		"Fuel the helicopter"
+		"ru"		"Заправьте вертолет"
+		"zho"		"给直升机加油"
+		"chi"		"给直升机加油"
+	}
+	"8ecf16a98251b7ac2167f3226c069a0f"
+	{
+		"en"		"Walk into the restaurant"
+		"ru"		"Войдите в ресторан"
+		"zho"		"走进餐厅"
+		"chi"		"走进餐厅"
+	}
+	"3d433d2db74067e1f6ea3cb0c673ea8f"
+	{
+		"en"		"Walk into the building"
+		"ru"		"Войдите в здание"
+		"zho"		"走进建筑物"
+		"chi"		"走进建筑物"
+	}
+	"77554a59b6482958a6d263b8e6d8733a"
+	{
+		"en"		"Walk into the supermarket"
+		"ru"		"Войдите в супермаркет"
+		"zho"		"走进超市"
+		"chi"		"走进超市"
+	}
+	"09ab7a0c518d91da7dd05620998acfed"
+	{
+		"en"		"Find the key to open the door"
+		"ru"		"Найдите ключ, чтобы открыть дверь"
+		"zho"		"找到钥匙打开门"
+		"chi"		"找到钥匙打开门"
+	}
+	"11c4d0600bfc8cf0aecb1dcf5bd2366f"
+	{
+		"en"		"Go to the street"
+		"ru"		"Идите на улицу"
+		"zho"		"去街上"
+		"chi"		"去街上"
+	}
+}

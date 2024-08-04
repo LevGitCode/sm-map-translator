@@ -1,0 +1,94 @@
+"Phrases"
+{
+	"91772487f83a468dad772d7e3a56e9a6"
+	{
+		"en"		"Get in the truck."
+		"ru"		"Садитесь в грузовик."
+		"zho"		"上卡车。"
+		"chi"		"上卡車。"
+	}
+	"3102571dbda6b3c9ccec1030a3a67c78"
+	{
+		"en"		"Someone inside. Survive 3 minutes."
+		"ru"		"Кто-то внутри. Продержитесь 3 минуты."
+		"zho"		"里面有人。生存3分钟。"
+		"chi"		"裡面有人。生存3分鐘。"
+	}
+	"908e104e7b4be2fa95b5772afc2f6423"
+	{
+		"en"		"Try open garage."
+		"ru"		"Попробуйте открыть гараж."
+		"zho"		"尝试打开车库。"
+		"chi"		"嘗試打開車庫。"
+	}
+	"2e832d5779d013e0f61912939de8bdec"
+	{
+		"en"		"There are only zombies around, find survivors."
+		"ru"		"Вокруг только зомби, найдите выживших."
+		"zho"		"周围只有僵尸，寻找幸存者。"
+		"chi"		"周圍只有殭屍，尋找倖存者。"
+	}
+	"04adf49aaaa02f0fff862ca72ec7c5ff"
+	{
+		"en"		"Need find a ladder to climb over the fence."
+		"ru"		"Нужно найти лестницу, чтобы перелезть через забор."
+		"zho"		"需要找到梯子爬过围栏。"
+		"chi"		"需要找到梯子爬過圍欄。"
+	}
+	"667a7259a29f66ed05872ecaf4d6f138"
+	{
+		"en"		"Way is blocked, need find extinguisher!"
+		"ru"		"Путь заблокирован, нужно найти огнетушитель!"
+		"zho"		"道路被堵，需要找到灭火器！"
+		"chi"		"道路被堵，需要找到滅火器！"
+	}
+	"4979b58938b010a33c9a6a5d9cadd4e8"
+	{
+		"en"		"ZOMBIES COMING! RUN OUTSIDE!"
+		"ru"		"ИДУТ ЗОМБИ! БЕГИТЕ НАРУЖУ!"
+		"zho"		"僵尸来了！快跑出去！"
+		"chi"		"殭屍來了！快跑出去！"
+	}
+	"de70a12c42e4fd303e1ec99c6902e0d8"
+	{
+		"en"		"Radio broken. Pick up the walkie-talkie!"
+		"ru"		"Радио сломано. Возьмите рацию!"
+		"zho"		"无线电坏了。拿起对讲机！"
+		"chi"		"無線電壞了。拿起對講機！"
+	}
+	"173e8d7278b642b12021db17bee37b48"
+	{
+		"en"		"System down. Check military radio on basketball court."
+		"ru"		"Система не работает. Проверьте военное радио на баскетбольной площадке."
+		"zho"		"系统故障。检查篮球场上的军用无线电。"
+		"chi"		"系統故障。檢查籃球場上的軍用無線電。"
+	}
+	"596a281627a19442f319c9da0f787169"
+	{
+		"en"		"System down. Check military radio on basketball court!"
+		"ru"		"Система не работает. Проверьте военное радио на баскетбольной площадке!"
+		"zho"		"系统故障。检查篮球场上的军用无线电！"
+		"chi"		"系統故障。檢查籃球場上的軍用無線電！"
+	}
+	"76a8d2031b269628831929863ab21ebb"
+	{
+		"en"		"Find information about visitors."
+		"ru"		"Найдите информацию о посетителях."
+		"zho"		"查找访客信息。"
+		"chi"		"查找訪客信息。"
+	}
+	"30df0f9b91c592ef4b8861ffa0954870"
+	{
+		"en"		"Find keys to open door."
+		"ru"		"Найдите ключи, чтобы открыть дверь."
+		"zho"		"找到钥匙开门。"
+		"chi"		"找到鑰匙開門。"
+	}
+	"d7fd7db055844254fd5a880e7e66e8e9"
+	{
+		"en"		"Break down the barricade."
+		"ru"		"Сломайте баррикаду."
+		"zho"		"打破路障。"
+		"chi"		"打破路障。"
+	}
+}

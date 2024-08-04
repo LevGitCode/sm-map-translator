@@ -1,0 +1,94 @@
+"Phrases"
+{
+	"c7e1edb7dabfa605f6fedf5aeb2a186c"
+	{
+		"en"		"survive until boat leaves"
+		"ru"		"держитесь до отплытия лодки"
+		"zho"		"坚持到船离开"
+		"chi"		"堅持到船離開"
+	}
+	"cc0df03e5bbcdcb66e8e74a9cf0717a7"
+	{
+		"en"		"get on boat"
+		"ru"		"садитесь на лодку"
+		"zho"		"上船"
+		"chi"		"上船"
+	}
+	"f5446a22e48e5d4596e92e8aa0d90ec8"
+	{
+		"en"		"search corpses to find key"
+		"ru"		"обыщите трупы, чтобы найти ключ"
+		"zho"		"搜寻尸体寻找钥匙"
+		"chi"		"搜尋屍體尋找鑰匙"
+	}
+	"d7b1e12627909f2631303ff0a6b42ea0"
+	{
+		"en"		"find boat and escape"
+		"ru"		"найдите лодку и бегите"
+		"zho"		"找到船并逃脱"
+		"chi"		"找到船並逃脫"
+	}
+	"f76a5015622d467d824156903e4c4968"
+	{
+		"en"		"find a way into house"
+		"ru"		"найдите способ войти в дом"
+		"zho"		"找到进入房子的办法"
+		"chi"		"找到進入房子的辦法"
+	}
+	"d84090d572d3a709c48b537d410bb885"
+	{
+		"en"		"reach the surface"
+		"ru"		"доберитесь до поверхности"
+		"zho"		"到达地面"
+		"chi"		"到達地面"
+	}
+	"f6cbb2beb35f42e272e683d9c1427a2d"
+	{
+		"en"		"Power the elevator"
+		"ru"		"включите лифт"
+		"zho"		"给电梯供电"
+		"chi"		"給電梯供電"
+	}
+	"e8a8cf2f94f430c6b053c3546ae5d6a1"
+	{
+		"en"		"press buttons near doors and wait for them to open to proceed"
+		"ru"		"нажмите кнопки возле дверей и ждите их открытия для прохождения"
+		"zho"		"按下门旁的按钮并等待它们打开以继续"
+		"chi"		"按下門旁的按鈕並等待它們打開以繼續"
+	}
+	"b7375503beb637fefb6b3073d7cd4884"
+	{
+		"en"		"Make it to sewer"
+		"ru"		"доберитесь до канализации"
+		"zho"		"到达下水道"
+		"chi"		"到達下水道"
+	}
+	"6aafc12e736aa231469e6c0f32688464"
+	{
+		"en"		"Elevator will start in 15 seconds"
+		"ru"		"лифт запустится через 15 секунд"
+		"zho"		"电梯将在15秒内启动"
+		"chi"		"電梯將在15秒內啟動"
+	}
+	"576e3575c2fab9c4403c91849ac1ba52"
+	{
+		"en"		"All players must be in elevator!"
+		"ru"		"все игроки должны быть в лифте!"
+		"zho"		"所有玩家都必须在电梯里！"
+		"chi"		"所有玩家都必須在電梯裡！"
+	}
+	"caaa7a4157a82e37559e3f620d4f6995"
+	{
+		"en"		"Ported by xkarma123x"
+		"ru"		"портировано xkarma123x"
+		"zho"		"移植自xkarma123x"
+		"chi"		"移植自xkarma123x"
+	}
+	"1c40425b1eca80e6fe02277db7e9e897"
+	{
+		"en"		"Map by Pass"
+		"ru"		"Карта от Pass"
+		"zho"		"地图由Pass制作"
+		"chi"		"地圖由Pass製作"
+	}
+}

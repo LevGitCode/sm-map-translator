@@ -1,0 +1,80 @@
+"Phrases"
+{
+	"2f3f5f65d497488e1719ba48a4245a82"
+	{
+		"en"		"#nmo_cabin_ObjG2"
+		"ru"		"#nmo_cabin_ObjG2"
+		"zho"		"#nmo_cabin_ObjG2"
+		"chi"		"#nmo_cabin_ObjG2"
+	}
+	"e4191026745ce4a05e93c6966b83b326"
+	{
+		"en"		"#nmo_cabin_ObjI"
+		"ru"		"#nmo_cabin_ObjI"
+		"zho"		"#nmo_cabin_ObjI"
+		"chi"		"#nmo_cabin_ObjI"
+	}
+	"688698caec6c0c07993ba4237535e585"
+	{
+		"en"		"#nmo_cabin_ObjH"
+		"ru"		"#nmo_cabin_ObjH"
+		"zho"		"#nmo_cabin_ObjH"
+		"chi"		"#nmo_cabin_ObjH"
+	}
+	"272a0cc277fee193bef33f3ffa7ece80"
+	{
+		"en"		"#nmo_cabin_ObjG"
+		"ru"		"#nmo_cabin_ObjG"
+		"zho"		"#nmo_cabin_ObjG"
+		"chi"		"#nmo_cabin_ObjG"
+	}
+	"6244663ea3a03d0a9e2d6e18ce23f4ca"
+	{
+		"en"		"#nmo_cabin_ObjF"
+		"ru"		"#nmo_cabin_ObjF"
+		"zho"		"#nmo_cabin_ObjF"
+		"chi"		"#nmo_cabin_ObjF"
+	}
+	"3117944206e4fa101007cfec0145b9e7"
+	{
+		"en"		"#nmo_cabin_ObjE"
+		"ru"		"#nmo_cabin_ObjE"
+		"zho"		"#nmo_cabin_ObjE"
+		"chi"		"#nmo_cabin_ObjE"
+	}
+	"226e64105397a82ef4a6227642855954"
+	{
+		"en"		"#nmo_cabin_ObjD"
+		"ru"		"#nmo_cabin_ObjD"
+		"zho"		"#nmo_cabin_ObjD"
+		"chi"		"#nmo_cabin_ObjD"
+	}
+	"09816bb656b84ada13056e55b639e2e9"
+	{
+		"en"		"#nmo_cabin_ObjC"
+		"ru"		"#nmo_cabin_ObjC"
+		"zho"		"#nmo_cabin_ObjC"
+		"chi"		"#nmo_cabin_ObjC"
+	}
+	"9a950ad6dbba08ff93d607d067db22da"
+	{
+		"en"		"#nmo_cabin_ObjB"
+		"ru"		"#nmo_cabin_ObjB"
+		"zho"		"#nmo_cabin_ObjB"
+		"chi"		"#nmo_cabin_ObjB"
+	}
+	"9027bbd1e5a5b987063bb155615c4e92"
+	{
+		"en"		"#nmo_cabin_ObjA"
+		"ru"		"#nmo_cabin_ObjA"
+		"zho"		"#nmo_cabin_ObjA"
+		"chi"		"#nmo_cabin_ObjA"
+	}
+	"6189dadecaf7b8f748a4c707c9e56d69"
+	{
+		"en"		"#nmo_cabin_objStart"
+		"ru"		"#nmo_cabin_objStart"
+		"zho"		"#nmo_cabin_objStart"
+		"chi"		"#nmo_cabin_objStart"
+	}
+}

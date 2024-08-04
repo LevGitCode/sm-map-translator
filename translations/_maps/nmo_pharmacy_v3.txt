@@ -1,0 +1,192 @@
+"Phrases"
+{
+	"0dd442edb423904fa4c8ea60f144bb32"
+	{
+		"en"		"Find a way to call for help."
+		"ru"		"Найдите способ позвать на помощь."
+		"zho"		"找到求救的方法。"
+		"chi"		"找到求救的方法。"
+	}
+	"078a54da0128a38128ed4e48a90db91a"
+	{
+		"en"		"Find an escape route"
+		"ru"		"Найдите путь к спасению"
+		"zho"		"找到逃生路线"
+		"chi"		"找到逃生路线"
+	}
+	"57b08e15b4aeaada464752bfcd353067"
+	{
+		"en"		"Use the 2nd interface to power up the door."
+		"ru"		"Используйте второй интерфейс для питания двери."
+		"zho"		"使用第二个接口来开启门。"
+		"chi"		"使用第二个接口来开启门。"
+	}
+	"0a7c1285fa958927f484129e52a0fcce"
+	{
+		"en"		"Keep going into the city"
+		"ru"		"Продолжайте идти в город"
+		"zho"		"继续进入城市"
+		"chi"		"继续进入城市"
+	}
+	"ae4c58403ffab1cfcaa0c21102058d2c"
+	{
+		"en"		"Use the interface to power up the door."
+		"ru"		"Используйте интерфейс для питания двери."
+		"zho"		"使用接口来开启门。"
+		"chi"		"使用接口来开启门。"
+	}
+	"f07eb180797fedd8307301e41d09feef"
+	{
+		"en"		"Make your way out of the complex"
+		"ru"		"Выберите путь из комплекса"
+		"zho"		"走出复杂区域"
+		"chi"		"走出复杂区域"
+	}
+	"e5fde8d88744357e8f75afe630cb679f"
+	{
+		"en"		"Find a way to get inside the building."
+		"ru"		"Найдите способ попасть внутрь здания."
+		"zho"		"找到进入建筑的方法。"
+		"chi"		"找到进入建筑的方法。"
+	}
+	"c8c5498ecd87f128c54ec3b29964c97d"
+	{
+		"en"		"Hold out until the zeds have been defeated."
+		"ru"		"Держитесь, пока зомби не будут побеждены."
+		"zho"		"坚持到僵尸被击败。"
+		"chi"		"坚持到僵尸被击败。"
+	}
+	"e4466322c06026b8a0ad687f5565221d"
+	{
+		"en"		"Proceed into the city."
+		"ru"		"Продолжайте двигаться в город."
+		"zho"		"继续进入城市。"
+		"chi"		"继续进入城市。"
+	}
+	"47448debf7a08b56092f1b1b11e64261"
+	{
+		"en"		"Go to the underground and use the generator to break to door open"
+		"ru"		"Идите в подземелье и используйте генератор, чтобы открыть дверь"
+		"zho"		"去地下，用发电机打开门"
+		"chi"		"去地下，用发电机打开门"
+	}
+	"78e3a39908fd5cb23586e024dc8aeb9d"
+	{
+		"en"		"Find a way into the streets."
+		"ru"		"Найдите путь на улицы."
+		"zho"		"找到进入街道的方法。"
+		"chi"		"找到进入街道的方法。"
+	}
+	"57599e3c235fdcf63607dd9c8985e676"
+	{
+		"en"		"Find a battery to power up the generator."
+		"ru"		"Найдите аккумулятор для питания генератора."
+		"zho"		"找到电池为发电机供电。"
+		"chi"		"找到电池为发电机供电。"
+	}
+	"30d1d463c68e8ba2f788b8c766daebb5"
+	{
+		"en"		"Use the extinguisher to put out the fire."
+		"ru"		"Используйте огнетушитель, чтобы потушить огонь."
+		"zho"		"用灭火器灭火。"
+		"chi"		"用灭火器灭火。"
+	}
+	"15b110a3bfbe317c58e9c6f7089259a3"
+	{
+		"en"		"Turn on the electricity."
+		"ru"		"Включите электричество."
+		"zho"		"打开电源。"
+		"chi"		"打开电源。"
+	}
+	"59eb555fdc061d0b99f47b3ba4006798"
+	{
+		"en"		"Find welder to cut the backdoor."
+		"ru"		"Найдите сварщика, чтобы разрезать заднюю дверь."
+		"zho"		"找到焊工切开后门。"
+		"chi"		"找到焊工切开后门。"
+	}
+	"89ab3e6b6404419333f773380c785aab"
+	{
+		"en"		"Sounds like the window got smashed"
+		"ru"		"Похоже, окно разбилось"
+		"zho"		"听起来像是窗户被打碎了"
+		"chi"		"听起来像是窗户被打碎了"
+	}
+	"cdf1a95c399c23ecb3a7265731b469cd"
+	{
+		"en"		"Continue to Enervation"
+		"ru"		"Продолжайте к ослаблению"
+		"zho"		"继续衰弱"
+		"chi"		"继续衰弱"
+	}
+	"582a5233ed2cbfc771334dc9f76aad15"
+	{
+		"en"		"This should get the door unlock"
+		"ru"		"Это должно разблокировать дверь"
+		"zho"		"这应该能打开门"
+		"chi"		"这应该能打开门"
+	}
+	"cffb393e0c1e60e5c90aa46f590a0850"
+	{
+		"en"		"Lever will unlock itself in 20 seconds"
+		"ru"		"Рычаг разблокируется через 20 секунд"
+		"zho"		"杠杆将在20秒内解锁"
+		"chi"		"杠杆将在20秒内解锁"
+	}
+	"19a735c9e05dda1af0abc08da2d8183b"
+	{
+		"en"		"Rescue will come in 3 minutes!!"
+		"ru"		"Спасение прибудет через 3 минуты!!"
+		"zho"		"救援将在3分钟内到达！！"
+		"chi"		"救援将在3分钟内到达！！"
+	}
+	"b331600a7941d02068f004d18b566e5d"
+	{
+		"en"		"All players need to be here to proceed"
+		"ru"		"Все игроки должны быть здесь, чтобы продолжить"
+		"zho"		"所有玩家都需要在这里继续"
+		"chi"		"所有玩家都需要在这里继续"
+	}
+	"5f8905a5a0cb37a164abfa3ff8c9483e"
+	{
+		"en"		"Ported by Y#shieon"
+		"ru"		"Перенесено Y#shieon"
+		"zho"		"移植自Y#shieon"
+		"chi"		"移植自Y#shieon"
+	}
+	"84b2cfe993d1b879b7b5b53e90b13632"
+	{
+		"en"		"Map made by Hughlikepoo"
+		"ru"		"Карта сделана Hughlikepoo"
+		"zho"		"Hughlikepoo 制作的地图"
+		"chi"		"Hughlikepoo 制作的地图"
+	}
+	"02ff49b4f0c6fa732b2ae4188eee3ac7"
+	{
+		"en"		"Damn radio is out. wonder if its not connected.."
+		"ru"		"Проклятое радио не работает. интересно, не подключено ли оно.."
+		"zho"		"该死的收音机坏了。不知道是不是没接好.."
+		"chi"		"该死的收音机坏了。不知道是不是没接好.."
+	}
+	"bb3bd18d76fd92fa0ddfb0c1e483b83b"
+	{
+		"en"		"Break the boards to get the secondary ladder"
+		"ru"		"Сломайте доски, чтобы получить вторую лестницу"
+		"zho"		"打破木板得到二级梯子"
+		"chi"		"打破木板得到二级梯子"
+	}
+	"cb82e7614403866618bec0f3064aaec0"
+	{
+		"en"		"Watch your step!"
+		"ru"		"Смотрите под ноги!"
+		"zho"		"小心脚下！"
+		"chi"		"小心脚下！"
+	}
+	"5e0604f45f1c7a3380b60ba71bff76d6"
+	{
+		"en"		"Defend the diner for the impending attacks!"
+		"ru"		"Защитите закусочную от надвигающихся атак!"
+		"zho"		"保卫餐厅免受即将到来的攻击！"
+		"chi"		"保卫餐厅免受即将到来的攻击！"
+	}
+}

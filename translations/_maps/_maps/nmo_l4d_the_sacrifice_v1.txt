@@ -1,0 +1,31 @@
+"Phrases"
+{
+	"774094a99f28fea9246e9f5957495b99"
+	{
+		"en"		"GO TO THE EXIT"
+		"ru"		"ИДИТЕ К ВЫХОДУ"
+		"zho"		"前往出口"
+		"chi"		"前往出口"
+	}
+	"bfec4d88d71cc17e8bea6a80ed9cb1be"
+	{
+		"en"		"GO TO THE WAGON"
+		"ru"		"ИДИТЕ К ВАГОНУ"
+		"zho"		"前往货车"
+		"chi"		"前往貨車"
+	}
+	"857eee6fc8a9b4a171fe3df50bdda4bd"
+	{
+		"en"		"ArtWork By BLAZK0"
+		"ru"		"Художник: BLAZK0"
+		"zho"		"艺术作品：BLAZK0"
+		"chi"		"藝術作品：BLAZK0"
+	}
+	"faa929c892ae1812389f9de01b5ff531"
+	{
+		"en"		"Map by HAMMERCORE"
+		"ru"		"Карта от HAMMERCORE"
+		"zho"		"地图由 HAMMERCORE 制作"
+		"chi"		"地圖由 HAMMERCORE 製作"
+	}
+}

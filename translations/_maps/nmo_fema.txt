@@ -1,0 +1,255 @@
+"Phrases"
+{
+	"d608ed28a5f95387cf3633a1e15a66b8"
+	{
+		"en"		"#nmo_fema_Objective37"
+		"ru"		"#nmo_fema_Objective37"
+		"zho"		"#nmo_fema_Objective37"
+		"chi"		"#nmo_fema_Objective37"
+	}
+	"e1586bb67f71909cc3bf5304ca70329a"
+	{
+		"en"		"#nmo_fema_Objective36"
+		"ru"		"#nmo_fema_Objective36"
+		"zho"		"#nmo_fema_Objective36"
+		"chi"		"#nmo_fema_Objective36"
+	}
+	"8e8bea57d3f76ec97de4582f2f240a3c"
+	{
+		"en"		"#nmo_fema_Objective35"
+		"ru"		"#nmo_fema_Objective35"
+		"zho"		"#nmo_fema_Objective35"
+		"chi"		"#nmo_fema_Objective35"
+	}
+	"1e7a02f4c5b274bd167f4aabe23bdf0b"
+	{
+		"en"		"#nmo_fema_Objective34"
+		"ru"		"#nmo_fema_Objective34"
+		"zho"		"#nmo_fema_Objective34"
+		"chi"		"#nmo_fema_Objective34"
+	}
+	"16c4557e97032d5b530f1a4daa94085f"
+	{
+		"en"		"#nmo_fema_Objective33"
+		"ru"		"#nmo_fema_Objective33"
+		"zho"		"#nmo_fema_Objective33"
+		"chi"		"#nmo_fema_Objective33"
+	}
+	"a40abc47a89d5e0b60a2e817135a793d"
+	{
+		"en"		"#nmo_fema_Objective32"
+		"ru"		"#nmo_fema_Objective32"
+		"zho"		"#nmo_fema_Objective32"
+		"chi"		"#nmo_fema_Objective32"
+	}
+	"313e7e8933c8291dc997e7a72b11243d"
+	{
+		"en"		"#nmo_fema_Objective31"
+		"ru"		"#nmo_fema_Objective31"
+		"zho"		"#nmo_fema_Objective31"
+		"chi"		"#nmo_fema_Objective31"
+	}
+	"d7918248b38bd82091b6fe5469b134c9"
+	{
+		"en"		"#nmo_fema_objective27"
+		"ru"		"#nmo_fema_objective27"
+		"zho"		"#nmo_fema_objective27"
+		"chi"		"#nmo_fema_objective27"
+	}
+	"a6cf5dfb69bc272afa7fe4ae40acba9c"
+	{
+		"en"		"#nmo_fema_objective30"
+		"ru"		"#nmo_fema_objective30"
+		"zho"		"#nmo_fema_objective30"
+		"chi"		"#nmo_fema_objective30"
+	}
+	"c5cd0f202283013d4844e47dbdf39518"
+	{
+		"en"		"#nmo_fema_objective29"
+		"ru"		"#nmo_fema_objective29"
+		"zho"		"#nmo_fema_objective29"
+		"chi"		"#nmo_fema_objective29"
+	}
+	"5c0f1d978fc8952973531260f83edadf"
+	{
+		"en"		"#nmo_fema_objective28"
+		"ru"		"#nmo_fema_objective28"
+		"zho"		"#nmo_fema_objective28"
+		"chi"		"#nmo_fema_objective28"
+	}
+	"4cff3be87aa8afe8d3c68c9341649759"
+	{
+		"en"		"#nmo_fema_objective25"
+		"ru"		"#nmo_fema_objective25"
+		"zho"		"#nmo_fema_objective25"
+		"chi"		"#nmo_fema_objective25"
+	}
+	"52aad48db291b534f03e4b04bb4ea9cb"
+	{
+		"en"		"#nmo_fema_objective24"
+		"ru"		"#nmo_fema_objective24"
+		"zho"		"#nmo_fema_objective24"
+		"chi"		"#nmo_fema_objective24"
+	}
+	"710b95933345c269c5855a5225fb1a63"
+	{
+		"en"		"#nmo_fema_objective21"
+		"ru"		"#nmo_fema_objective21"
+		"zho"		"#nmo_fema_objective21"
+		"chi"		"#nmo_fema_objective21"
+	}
+	"863c2bec04f2c4fa4c73687d77561d2c"
+	{
+		"en"		"#nmo_fema_objective20"
+		"ru"		"#nmo_fema_objective20"
+		"zho"		"#nmo_fema_objective20"
+		"chi"		"#nmo_fema_objective20"
+	}
+	"aa796357b3b5e89a93000213ece78130"
+	{
+		"en"		"#nmo_fema_objective19"
+		"ru"		"#nmo_fema_objective19"
+		"zho"		"#nmo_fema_objective19"
+		"chi"		"#nmo_fema_objective19"
+	}
+	"9d71a4ff90bd1ebe5d071badcf852ca5"
+	{
+		"en"		"#nmo_fema_objective18"
+		"ru"		"#nmo_fema_objective18"
+		"zho"		"#nmo_fema_objective18"
+		"chi"		"#nmo_fema_objective18"
+	}
+	"0576b73519f2f512e2a3c034f22c649d"
+	{
+		"en"		"#nmo_fema_objective17"
+		"ru"		"#nmo_fema_objective17"
+		"zho"		"#nmo_fema_objective17"
+		"chi"		"#nmo_fema_objective17"
+	}
+	"8af6eabc6ba4e0593cdb69f78e8c0c8b"
+	{
+		"en"		"#nmo_fema_objective16"
+		"ru"		"#nmo_fema_objective16"
+		"zho"		"#nmo_fema_objective16"
+		"chi"		"#nmo_fema_objective16"
+	}
+	"754e6e5318c4390eee9c271781a5f569"
+	{
+		"en"		"#nmo_fema_objective15"
+		"ru"		"#nmo_fema_objective15"
+		"zho"		"#nmo_fema_objective15"
+		"chi"		"#nmo_fema_objective15"
+	}
+	"fa0aa0ca1fd78041f74e6ab5b77ab117"
+	{
+		"en"		"#nmo_fema_objective14"
+		"ru"		"#nmo_fema_objective14"
+		"zho"		"#nmo_fema_objective14"
+		"chi"		"#nmo_fema_objective14"
+	}
+	"55ac29494e9c52d7222c6a8a1616e053"
+	{
+		"en"		"#nmo_fema_objective13"
+		"ru"		"#nmo_fema_objective13"
+		"zho"		"#nmo_fema_objective13"
+		"chi"		"#nmo_fema_objective13"
+	}
+	"947608f2022fd28bdf4d1db2e999d97a"
+	{
+		"en"		"#nmo_fema_objective12"
+		"ru"		"#nmo_fema_objective12"
+		"zho"		"#nmo_fema_objective12"
+		"chi"		"#nmo_fema_objective12"
+	}
+	"129664e9d51e2b845518b6c8e428cb31"
+	{
+		"en"		"#nmo_fema_objective11"
+		"ru"		"#nmo_fema_objective11"
+		"zho"		"#nmo_fema_objective11"
+		"chi"		"#nmo_fema_objective11"
+	}
+	"3430a613233a84f144e18774aa87e88d"
+	{
+		"en"		"#nmo_fema_objective10"
+		"ru"		"#nmo_fema_objective10"
+		"zho"		"#nmo_fema_objective10"
+		"chi"		"#nmo_fema_objective10"
+	}
+	"34165fd56c988e3a74f08a332c339243"
+	{
+		"en"		"#nmo_fema_objective9"
+		"ru"		"#nmo_fema_objective9"
+		"zho"		"#nmo_fema_objective9"
+		"chi"		"#nmo_fema_objective9"
+	}
+	"aed771bc29b3149f3cd3ac8451a79a90"
+	{
+		"en"		"#nmo_fema_objective8"
+		"ru"		"#nmo_fema_objective8"
+		"zho"		"#nmo_fema_objective8"
+		"chi"		"#nmo_fema_objective8"
+	}
+	"12e2a08f358bca886b7987bfd1f6b5f7"
+	{
+		"en"		"#nmo_fema_objective7"
+		"ru"		"#nmo_fema_objective7"
+		"zho"		"#nmo_fema_objective7"
+		"chi"		"#nmo_fema_objective7"
+	}
+	"fe3a0f20f2351e366a64e5356c8202b6"
+	{
+		"en"		"#nmo_fema_objective5"
+		"ru"		"#nmo_fema_objective5"
+		"zho"		"#nmo_fema_objective5"
+		"chi"		"#nmo_fema_objective5"
+	}
+	"5717bf759b5efb0ffac659389a17e142"
+	{
+		"en"		"#nmo_fema_objective4"
+		"ru"		"#nmo_fema_objective4"
+		"zho"		"#nmo_fema_objective4"
+		"chi"		"#nmo_fema_objective4"
+	}
+	"5a103ea97574f869b77ee4d321905fb4"
+	{
+		"en"		"#nmo_fema_30sec"
+		"ru"		"#nmo_fema_30sec"
+		"zho"		"#nmo_fema_30sec"
+		"chi"		"#nmo_fema_30sec"
+	}
+	"81d91bf49d0c2d1a1534ea34cd857aef"
+	{
+		"en"		"#nmo_fema_20sec"
+		"ru"		"#nmo_fema_20sec"
+		"zho"		"#nmo_fema_20sec"
+		"chi"		"#nmo_fema_20sec"
+	}
+	"8ba1fe341ebe974db1c862e3d664dde5"
+	{
+		"en"		"#nmo_fema_10sec"
+		"ru"		"#nmo_fema_10sec"
+		"zho"		"#nmo_fema_10sec"
+		"chi"		"#nmo_fema_10sec"
+	}
+	"7ebeb481b7a9210eab1dcaf4a61504f6"
+	{
+		"en"		"#nmo_fema_kill"
+		"ru"		"#nmo_fema_kill"
+		"zho"		"#nmo_fema_kill"
+		"chi"		"#nmo_fema_kill"
+	}
+	"80fa8b93af26b796fe131efea1e69d09"
+	{
+		"en"		"#nmo_fema_5sec"
+		"ru"		"#nmo_fema_5sec"
+		"zho"		"#nmo_fema_5sec"
+		"chi"		"#nmo_fema_5sec"
+	}
+	"857406256d435ccd8158ee2dbfbb14fa"
+	{
+		"en"		"#nmo_fema_msg1"
+		"ru"		"#nmo_fema_msg1"
+		"zho"		"#nmo_fema_msg1"
+		"chi"		"#nmo_fema_msg1"
+	}
+}

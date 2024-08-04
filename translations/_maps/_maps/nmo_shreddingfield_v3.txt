@@ -1,0 +1,206 @@
+"Phrases"
+{
+	"a1fe0124043a6edc02fe54c7fbd22a1f"
+	{
+		"en"		"Press the button when ready for extraction."
+		"ru"		"Нажмите кнопку, когда будете готовы к эвакуации."
+		"zho"		"准备好撤离时按下按钮。"
+		"chi"		"準備好撤離時按下按鈕。"
+	}
+	"c4877ff31aed7c983a9761fc9ac56f55"
+	{
+		"en"		"Push the pallet lifter to elevator"
+		"ru"		"Толкните подъемник поддонов к лифту"
+		"zho"		"把托盘升降机推到电梯"
+		"chi"		"把托盤升降機推到電梯"
+	}
+	"6656ec7d838da34ceade1e1aab987f55"
+	{
+		"en"		"Refuel the generator."
+		"ru"		"Заправьте генератор."
+		"zho"		"给发电机加油。"
+		"chi"		"給發電機加油。"
+	}
+	"36e54785de7f3cef0479c53f119f8db8"
+	{
+		"en"		"Find a welder to break lock."
+		"ru"		"Найдите сварщика, чтобы сломать замок."
+		"zho"		"找个焊工来破坏锁。"
+		"chi"		"找個焊工來破壞鎖。"
+	}
+	"3c3d255139dba8acd96f959db13ffd62"
+	{
+		"en"		"Resume pushing the pallet lifter."
+		"ru"		"Продолжайте толкать подъемник поддонов."
+		"zho"		"继续推托盘升降机。"
+		"chi"		"繼續推托盤升降機。"
+	}
+	"8591d4274825a883c39014709a7575db"
+	{
+		"en"		"Blow up the barricade. Shoot or hold E to ignite the barrels."
+		"ru"		"Взорвите баррикаду. Стреляйте или удерживайте E, чтобы поджечь бочки."
+		"zho"		"炸毁路障。射击或按住E点燃桶。"
+		"chi"		"炸毀路障。射擊或按住E點燃桶。"
+	}
+	"69cbebf10b7c8dfabc29f0fd6c721635"
+	{
+		"en"		"Push the pallet lifter."
+		"ru"		"Толкните подъемник поддонов."
+		"zho"		"推托盘升降机。"
+		"chi"		"推托盤升降機。"
+	}
+	"200c7fa7286fd20c305f7307027709f2"
+	{
+		"en"		"Bring supplies to the pallet."
+		"ru"		"Принесите припасы к поддону."
+		"zho"		"把物资带到托盘。"
+		"chi"		"把物資帶到托盤。"
+	}
+	"dbb42575a3b191fe2e23a468df5c928a"
+	{
+		"en"		"Find the key to open back door."
+		"ru"		"Найдите ключ, чтобы открыть заднюю дверь."
+		"zho"		"找到钥匙打开后门。"
+		"chi"		"找到鑰匙打開後門。"
+	}
+	"c5cd8d6b3879f796654c4ff0a11e10ae"
+	{
+		"en"		"Fill the foodcrate."
+		"ru"		"Наполните ящик для еды."
+		"zho"		"装满食品箱。"
+		"chi"		"裝滿食品箱。"
+	}
+	"dbe09178bf35aac68b92f4accff10f27"
+	{
+		"en"		"Hack PC to get a code to open door."
+		"ru"		"Взломайте компьютер, чтобы получить код для открытия двери."
+		"zho"		"黑入电脑获取开门代码。"
+		"chi"		"黑入電腦獲取開門代碼。"
+	}
+	"8fa2d17cd891a08387e05678d1a06298"
+	{
+		"en"		"You need a welder to unlock this crate."
+		"ru"		"Вам нужен сварщик, чтобы открыть этот ящик."
+		"zho"		"你需要一个焊工来打开这个箱子。"
+		"chi"		"你需要一個焊工來打開這個箱子。"
+	}
+	"c775e136650c33dd6d2a3d81b4a99eac"
+	{
+		"en"		"Gas can has been found"
+		"ru"		"Бензобак найден"
+		"zho"		"发现油箱"
+		"chi"		"發現油箱"
+	}
+	"4afc2fa24df0295a1248c2a4c4a0ee3c"
+	{
+		"en"		"I need a welder to unlock this door."
+		"ru"		"Мне нужен сварщик, чтобы открыть эту дверь."
+		"zho"		"我需要一个焊工来打开这扇门。"
+		"chi"		"我需要一個焊工來打開這扇門。"
+	}
+	"63bb91807733be3a39e61e9b86b753a4"
+	{
+		"en"		"Get in the elevator! You have 30 seconds."
+		"ru"		"Займите лифт! У вас есть 30 секунд."
+		"zho"		"进入电梯！你有30秒时间。"
+		"chi"		"進入電梯！你有30秒時間。"
+	}
+	"fa67e920e9e2b0cb28a4847b80462efe"
+	{
+		"en"		"3/3 Food Items Found."
+		"ru"		"Найдено 3/3 продуктов питания."
+		"zho"		"找到3/3件食品。"
+		"chi"		"找到3/3件食品。"
+	}
+	"5822a9a2aa6a29ca82316b6062aaef16"
+	{
+		"en"		"Get the door up from the inside."
+		"ru"		"Откройте дверь изнутри."
+		"zho"		"从里面打开门。"
+		"chi"		"從裡面打開門。"
+	}
+	"9df3df05d8d2c3139c3d7eddb69305dc"
+	{
+		"en"		"Find a way to power up the door."
+		"ru"		"Найдите способ запитать дверь."
+		"zho"		"找方法给门通电。"
+		"chi"		"找方法給門通電。"
+	}
+	"89d54d0f8ac6738b5d8fde2cfcb0fd9e"
+	{
+		"en"		"Find a way to get past the barricade."
+		"ru"		"Найдите способ пройти через баррикаду."
+		"zho"		"找方法穿过路障。"
+		"chi"		"找方法穿過路障。"
+	}
+	"5de2fced95cca87c1616b30a0a9b48d6"
+	{
+		"en"		"Standing outside the red line will kill you!"
+		"ru"		"Стоя за красной линией, вы умрете!"
+		"zho"		"站在红线外会杀死你！"
+		"chi"		"站在紅線外會殺死你！"
+	}
+	"77283c7935a7c6eb86e3dcc1149d0ff2"
+	{
+		"en"		"Radio found."
+		"ru"		"Радио найдено."
+		"zho"		"发现收音机。"
+		"chi"		"發現收音機。"
+	}
+	"f265d65754eb7b049cfd1fab0a0d5189"
+	{
+		"en"		"Hose found."
+		"ru"		"Шланг найден."
+		"zho"		"发现软管。"
+		"chi"		"發現軟管。"
+	}
+	"100a0b22dc6961fda92187ac6e79f6b9"
+	{
+		"en"		"Gascan found."
+		"ru"		"Бензобак найден."
+		"zho"		"发现油罐。"
+		"chi"		"發現油罐。"
+	}
+	"8ea02a195f1bb6f12e0efd7684677638"
+	{
+		"en"		"Food Item found."
+		"ru"		"Найден продукт питания."
+		"zho"		"发现食品。"
+		"chi"		"發現食品。"
+	}
+	"f7fc178279850db570c38a5d558934fc"
+	{
+		"en"		"2/3 Food Items Found."
+		"ru"		"Найдено 2/3 продуктов питания."
+		"zho"		"找到2/3件食品。"
+		"chi"		"找到2/3件食品。"
+	}
+	"2805d427bbdf3c60f042ae69bb0b4bbe"
+	{
+		"en"		"1/3 Food Items Found."
+		"ru"		"Найдено 1/3 продуктов питания."
+		"zho"		"找到1/3件食品。"
+		"chi"		"找到1/3件食品。"
+	}
+	"21eac0c8367cc6509b6011bd0b8637d9"
+	{
+		"en"		"Exit the supermarket through the kitchen."
+		"ru"		"Выйдите из супермаркета через кухню."
+		"zho"		"通过厨房离开超市。"
+		"chi"		"通過廚房離開超市。"
+	}
+	"93e664b264202d58ccca9ebce7826ae4"
+	{
+		"en"		"Head for the supermarket. Use the tunnel in the basement."
+		"ru"		"Направляйтесь в супермаркет. Используйте туннель в подвале."
+		"zho"		"前往超市。使用地下室的隧道。"
+		"chi"		"前往超市。使用地下室的隧道。"
+	}
+	"b8946a151b0ba0a626613852503e39db"
+	{
+		"en"		"We better find all the supplies first."
+		"ru"		"Нам лучше сначала найти все припасы."
+		"zho"		"我们最好先找到所有物资。"
+		"chi"		"我們最好先找到所有物資。"
+	}
+}

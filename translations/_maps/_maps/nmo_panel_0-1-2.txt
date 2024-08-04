@@ -1,0 +1,157 @@
+"Phrases"
+{
+	"62df674a007c284786504c955c4c78dc"
+	{
+		"en"		"floor VIII - Find the keys and open the door !!"
+		"ru"		"этаж VIII - Найдите ключи и откройте дверь !!"
+		"zho"		"第八层 - 找到钥匙并开门 !!"
+		"chi"		"第八層 - 找到鑰匙並開門 !!"
+	}
+	"b04859f9bd387ce44d573d068256e86b"
+	{
+		"en"		"floor VI - Hack the good PC !!"
+		"ru"		"этаж VI - Взломайте хороший ПК !!"
+		"zho"		"第六层 - 破解好电脑 !!"
+		"chi"		"第六層 - 破解好電腦 !!"
+	}
+	"fa216f5a5f8bc38fd9af1ae442dc4462"
+	{
+		"en"		"floor VII - Go up to the VII floor !!"
+		"ru"		"этаж VII - Поднимитесь на VII этаж !!"
+		"zho"		"第七层 - 上到第七层 !!"
+		"chi"		"第七層 - 上到第七層 !!"
+	}
+	"b7e247d2f27dd1bdf95e5d776de43bc3"
+	{
+		"en"		"floor III - Find the welder and clear the doorway !!"
+		"ru"		"этаж III - Найдите сварщика и освободите дверной проем !!"
+		"zho"		"第三层 - 找到焊工并清理门口 !!"
+		"chi"		"第三層 - 找到焊工並清理門口 !!"
+	}
+	"c85aa50ae83b86db34c57931a1cc6404"
+	{
+		"en"		"floor II - Search for the code !!"
+		"ru"		"этаж II - Найдите код !!"
+		"zho"		"第二层 - 寻找代码 !!"
+		"chi"		"第二層 - 尋找代碼 !!"
+	}
+	"606729a03d331e658d235a1fc634198d"
+	{
+		"en"		"floor I - Make a table !!"
+		"ru"		"этаж I - Сделайте стол !!"
+		"zho"		"第一层 - 做一张桌子 !!"
+		"chi"		"第一層 - 做一張桌子 !!"
+	}
+	"afb56a7bce85934ce4d0dcd6bf03347b"
+	{
+		"en"		"floor - Clear the staircase !!"
+		"ru"		"этаж - Освободите лестницу !!"
+		"zho"		"楼层 - 清理楼梯 !!"
+		"chi"		"樓層 - 清理樓梯 !!"
+	}
+	"19294bba3caef160189b25233b93259f"
+	{
+		"en"		"floor - Left or right ??"
+		"ru"		"этаж - Налево или направо ??"
+		"zho"		"楼层 - 左还是右 ??"
+		"chi"		"樓層 - 左還是右 ??"
+	}
+	"d47260eceb699503b8784ef703226d52"
+	{
+		"en"		"4 secs"
+		"ru"		"4 сек"
+		"zho"		"4 秒"
+		"chi"		"4 秒"
+	}
+	"4973ff7de84c296fb5c25c38ea152100"
+	{
+		"en"		"3 secs"
+		"ru"		"3 сек"
+		"zho"		"3 秒"
+		"chi"		"3 秒"
+	}
+	"1ca18e8052a87722f0d04a7d1fc708eb"
+	{
+		"en"		"2 secs"
+		"ru"		"2 сек"
+		"zho"		"2 秒"
+		"chi"		"2 秒"
+	}
+	"6335957698fe4679a9bceb57dec341b1"
+	{
+		"en"		"1 sec"
+		"ru"		"1 сек"
+		"zho"		"1 秒"
+		"chi"		"1 秒"
+	}
+	"24a2b0e6c7cfa1c8841737b42b1dc0f8"
+	{
+		"en"		"9 secs"
+		"ru"		"9 сек"
+		"zho"		"9 秒"
+		"chi"		"9 秒"
+	}
+	"03f5235348f85aaf6e451ddd9ebb04fd"
+	{
+		"en"		"8 secs"
+		"ru"		"8 сек"
+		"zho"		"8 秒"
+		"chi"		"8 秒"
+	}
+	"fdb513501cba95c68f775c35a3d7654b"
+	{
+		"en"		"7 secs"
+		"ru"		"7 сек"
+		"zho"		"7 秒"
+		"chi"		"7 秒"
+	}
+	"76761bf414424d629f0a9a0113d50faf"
+	{
+		"en"		"6 secs"
+		"ru"		"6 сек"
+		"zho"		"6 秒"
+		"chi"		"6 秒"
+	}
+	"9a7fce4b0088ad8125585212ee3d547c"
+	{
+		"en"		"5 secs"
+		"ru"		"5 сек"
+		"zho"		"5 秒"
+		"chi"		"5 秒"
+	}
+	"ce58b7878fec1ed9f9eef2a51491aeb0"
+	{
+		"en"		"40 secs"
+		"ru"		"40 сек"
+		"zho"		"40 秒"
+		"chi"		"40 秒"
+	}
+	"5867568adc9903c3f1d8c55737be6388"
+	{
+		"en"		"10 secs"
+		"ru"		"10 сек"
+		"zho"		"10 秒"
+		"chi"		"10 秒"
+	}
+	"bcf1b6bf94453a3a160d12ae258131d3"
+	{
+		"en"		"20 secs"
+		"ru"		"20 сек"
+		"zho"		"20 秒"
+		"chi"		"20 秒"
+	}
+	"a001b1ff0fd3e9548dcd8ff7d416d855"
+	{
+		"en"		"30 secs"
+		"ru"		"30 сек"
+		"zho"		"30 秒"
+		"chi"		"30 秒"
+	}
+	"bcf5b7be678e3bc6001f835e42363958"
+	{
+		"en"		"to be continued ......"
+		"ru"		"продолжение следует ......"
+		"zho"		"未完待续 ......"
+		"chi"		"未完待續 ......"
+	}
+}

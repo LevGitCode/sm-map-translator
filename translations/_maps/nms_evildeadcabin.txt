@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"5fd15986d89a8f8969020417b52bd6ac"
+	{
+		"en"		"The Deadites has overrun the remaining survivors."
+		"ru"		"Мертвецы захватили оставшихся выживших."
+		"zho"		"死灵族已经攻占了剩余的幸存者。"
+		"chi"		"死靈族已經攻佔了剩餘的倖存者。"
+	}
+	"a493c54d951f609f7e765f16f818b989"
+	{
+		"en"		"Escape through the portal !!!"
+		"ru"		"Бегите через портал !!!"
+		"zho"		"通过传送门逃跑 !!!"
+		"chi"		"通過傳送門逃跑 !!!"
+	}
+	"4c732a4b13f1f1bc4ed78ccf0dc0ab4f"
+	{
+		"en"		"Find wood logs outside and bring them to the saw table in the cellar to make boards"
+		"ru"		"Найдите бревна снаружи и принесите их к пилораме в подвале, чтобы сделать доски"
+		"zho"		"在外面找到木头，然后把它们带到地下室的锯台上制作木板"
+		"chi"		"在外面找到木頭，然後把它們帶到地下室的鋸台上製作木板"
+	}
+	"a1e82c424224105c5da168725cb23b80"
+	{
+		"en"		"Find a wood log outside and bring it to the saw table to make boards."
+		"ru"		"Найдите бревно снаружи и принесите его к пилораме, чтобы сделать доски."
+		"zho"		"在外面找到一根木头，然后把它带到锯台上制作木板。"
+		"chi"		"在外面找到一根木頭，然後把它帶到鋸台上製作木板。"
+	}
+	"b3d975c9919ff4cab3bc10b8cc978c10"
+	{
+		"en"		"The Deadites has possesed the childs !!!The Evil Spirits are unleashed, STAY IN THE CABIN !!!!"
+		"ru"		"Мертвецы завладели детьми !!! Злые духи освобождены, ОСТАВАЙТЕСЬ В ХИЖИНЕ !!!!"
+		"zho"		"死灵族已经附身于孩子们 !!! 邪灵被释放了，待在小屋里 !!!!"
+		"chi"		"死靈族已經附身於孩子們 !!! 邪靈被釋放了，待在小屋裡 !!!!"
+	}
+	"ac9b7ff04c3c5c46b12c8803ac8a20b4"
+	{
+		"en"		"The Deadites are getting faster !!! An Evil Spirit as appeared. Be careful outside."
+		"ru"		"Мертвецы становятся быстрее !!! Появился злой дух. Будьте осторожны снаружи."
+		"zho"		"死灵族变得更快了 !!! 出现了一个邪灵。小心外面。"
+		"chi"		"死靈族變得更快了 !!! 出現了一個邪靈。小心外面。"
+	}
+	"912c6fed6c601c1586720dc18be968bf"
+	{
+		"en"		"The Deadites are growing !!!! Watch your sides !!!!"
+		"ru"		"Мертвецы растут !!!! Следите за сторонами !!!!"
+		"zho"		"死灵族正在增长 !!!! 注意你的侧面 !!!!"
+		"chi"		"死靈族正在增長 !!!! 注意你的側面 !!!!"
+	}
+	"7b7064d2e5cff6aee7c6416d930fb71b"
+	{
+		"en"		"The Deadtites are getting stronger. Watch the back !!!"
+		"ru"		"Мертвецы становятся сильнее. Следите за спиной !!!"
+		"zho"		"死灵族变得更强了。注意后面 !!!"
+		"chi"		"死靈族變得更強了。注意後面 !!!"
+	}
+}

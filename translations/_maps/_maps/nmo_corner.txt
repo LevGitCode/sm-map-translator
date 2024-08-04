@@ -1,0 +1,38 @@
+"Phrases"
+{
+	"21b630c3ae0d1936fd29749b0acb876e"
+	{
+		"en"		"Pick up a crate to get on the truck"
+		"ru"		"Поднимите ящик, чтобы забраться в грузовик"
+		"zho"		"捡起一个箱子上卡车"
+		"chi"		"拿起一個箱子上卡車"
+	}
+	"8c6bedf3c308182c49902f679483dd9d"
+	{
+		"en"		"Get out of the gun store"
+		"ru"		"Выйдите из оружейного магазина"
+		"zho"		"离开枪店"
+		"chi"		"離開槍店"
+	}
+	"98313342ef0a2fcb3d44c6423eb66561"
+	{
+		"en"		"Put supplies on the truck"
+		"ru"		"Положите припасы в грузовик"
+		"zho"		"把物资放上卡车"
+		"chi"		"把物資放上卡車"
+	}
+	"513013e08d33bfec0714bce90403e8df"
+	{
+		"en"		"Put gas on the truck"
+		"ru"		"Залейте топливо в грузовик"
+		"zho"		"把油加到卡车上"
+		"chi"		"把油加到卡車上"
+	}
+	"f35a1028099a7522da0ce37de18adbf4"
+	{
+		"en"		"Get in the truck"
+		"ru"		"Залезьте в грузовик"
+		"zho"		"上卡车"
+		"chi"		"上卡車"
+	}
+}

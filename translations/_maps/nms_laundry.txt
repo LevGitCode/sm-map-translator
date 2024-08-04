@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"e0082edcf6624d2549dc589c7e1859d1"
+	{
+		"en"		"#nms_laundry_hintb"
+		"ru"		"#nms_laundry_hintb"
+		"zho"		"#nms_laundry_hintb"
+		"chi"		"#nms_laundry_hintb"
+	}
+	"a2bd1b554612f29144774621d2db0112"
+	{
+		"en"		"#nms_laundry_mine"
+		"ru"		"#nms_laundry_mine"
+		"zho"		"#nms_laundry_mine"
+		"chi"		"#nms_laundry_mine"
+	}
+	"735aaae2239ed433468f7e22dfd241e6"
+	{
+		"en"		"#nms_laundry_hinta"
+		"ru"		"#nms_laundry_hinta"
+		"zho"		"#nms_laundry_hinta"
+		"chi"		"#nms_laundry_hinta"
+	}
+	"6d68fd8a3b4bf803e86dd1d2856ac8e6"
+	{
+		"en"		"#nms_laundry_pushcar"
+		"ru"		"#nms_laundry_pushcar"
+		"zho"		"#nms_laundry_pushcar"
+		"chi"		"#nms_laundry_pushcar"
+	}
+	"4d12a353a6e68f595e753ab005d34e4a"
+	{
+		"en"		"#nms_laundry_et"
+		"ru"		"#nms_laundry_et"
+		"zho"		"#nms_laundry_et"
+		"chi"		"#nms_laundry_et"
+	}
+	"b325ca5754a42c1de371cd83e954233e"
+	{
+		"en"		"#nms_laundry_losea"
+		"ru"		"#nms_laundry_losea"
+		"zho"		"#nms_laundry_losea"
+		"chi"		"#nms_laundry_losea"
+	}
+	"326be51aabdaf88ea5213593fe465a53"
+	{
+		"en"		"#nms_laundry_cutrope2"
+		"ru"		"#nms_laundry_cutrope2"
+		"zho"		"#nms_laundry_cutrope2"
+		"chi"		"#nms_laundry_cutrope2"
+	}
+	"b7afaf0398a374eafbbec4be8c128cd6"
+	{
+		"en"		"#nms_laundry_cutrope1"
+		"ru"		"#nms_laundry_cutrope1"
+		"zho"		"#nms_laundry_cutrope1"
+		"chi"		"#nms_laundry_cutrope1"
+	}
+}

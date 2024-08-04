@@ -1,0 +1,192 @@
+"Phrases"
+{
+	"b0448b82b4454b23b203ce95fcdb6135"
+	{
+		"en"		"Survive until train is arrive"
+		"ru"		"Выживайте до прибытия поезда"
+		"zho"		"坚持到火车到来"
+		"chi"		"堅持到火車到來"
+	}
+	"37794703dcb3524f269549cb805445b6"
+	{
+		"en"		"Fix the radio"
+		"ru"		"Почините радио"
+		"zho"		"修理收音机"
+		"chi"		"修理收音機"
+	}
+	"6b20e6987249bb2b2937ebed30311fab"
+	{
+		"en"		"Move to the evacuation site"
+		"ru"		"Переместитесь к месту эвакуации"
+		"zho"		"前往撤离地点"
+		"chi"		"前往撤離地點"
+	}
+	"8e28d59ed81013aa4e8b1a97c11ad2cc"
+	{
+		"en"		"Find a crowbar to open the door"
+		"ru"		"Найдите лом, чтобы открыть дверь"
+		"zho"		"找到撬棍打开门"
+		"chi"		"找到撬棍打開門"
+	}
+	"03a7cbbccd3ecc5e7fbaa5af48f10db9"
+	{
+		"en"		"Move further into underground"
+		"ru"		"Идите дальше под землю"
+		"zho"		"进一步进入地下"
+		"chi"		"進一步進入地下"
+	}
+	"0f96337be1814a9d00be881426036e01"
+	{
+		"en"		"Survive"
+		"ru"		"Выживайте"
+		"zho"		"生存"
+		"chi"		"生存"
+	}
+	"33726eb37e8796a28b97c929bd39d547"
+	{
+		"en"		"Move into underground further"
+		"ru"		"Продвигайтесь дальше под землю"
+		"zho"		"进一步进入地下"
+		"chi"		"進一步進入地下"
+	}
+	"478681fa5bc72aee72c742ccb062bc53"
+	{
+		"en"		"Find some tnt for blowing some doors inside the door"
+		"ru"		"Найдите динамит, чтобы взорвать некоторые двери внутри"
+		"zho"		"找到炸药炸开里面的几扇门"
+		"chi"		"找到炸藥炸開裡面的幾扇門"
+	}
+	"1d59c1e7259c8a6f7d0e56a432c26033"
+	{
+		"en"		"Find gasoline and fill generator to open roll door"
+		"ru"		"Найдите бензин и заправьте генератор, чтобы открыть рулонную дверь"
+		"zho"		"找到汽油并填充发电机以打开卷帘门"
+		"chi"		"找到汽油並填充發電機以打開卷簾門"
+	}
+	"b97c694f7ec1a0ad7a4edff14aa384a3"
+	{
+		"en"		"Open the door and move to the street"
+		"ru"		"Откройте дверь и выйдите на улицу"
+		"zho"		"打开门并移到街上"
+		"chi"		"打開門並移到街上"
+	}
+	"0c60e22bc32e597fee5ca9b4448218d8"
+	{
+		"en"		"Find code for storage door"
+		"ru"		"Найдите код для двери склада"
+		"zho"		"找到储藏室门的密码"
+		"chi"		"找到儲藏室門的密碼"
+	}
+	"bcf26018d19d6e9facf771e258920226"
+	{
+		"en"		"Break lock and get inside a storage"
+		"ru"		"Взломайте замок и зайдите в кладовую"
+		"zho"		"破锁进入储藏室"
+		"chi"		"破鎖進入儲藏室"
+	}
+	"5ebf790c22bb53f386685593241b13a5"
+	{
+		"en"		"Move to the building"
+		"ru"		"Переместитесь в здание"
+		"zho"		"移动到建筑物"
+		"chi"		"移動到建築物"
+	}
+	"7305293d2e7e4d61b7e364ab46b858c4"
+	{
+		"en"		"Use canisters to clean the path"
+		"ru"		"Используйте канистры, чтобы очистить путь"
+		"zho"		"使用罐子清理道路"
+		"chi"		"使用罐子清理道路"
+	}
+	"6afba7830d72e39247d33f66331e04dd"
+	{
+		"en"		"Find gasoline can and blow the door"
+		"ru"		"Найдите канистру с бензином и взорвите дверь"
+		"zho"		"找到汽油罐并炸开门"
+		"chi"		"找到汽油罐並炸開門"
+	}
+	"ef13d2a07841107a2d6a4bd1c68d7f55"
+	{
+		"en"		"Move to the backyard"
+		"ru"		"Переместитесь во двор"
+		"zho"		"移到后院"
+		"chi"		"移到後院"
+	}
+	"9567be8b7c4c2845628b90234925d4f4"
+	{
+		"en"		"Find welder and weld latch"
+		"ru"		"Найдите сварщика и заварите защелку"
+		"zho"		"找到焊工并焊接插销"
+		"chi"		"找到焊工並焊接插銷"
+	}
+	"f70fd6eee1d1ca101753a856d608c6e3"
+	{
+		"en"		"Move to the street"
+		"ru"		"Переместитесь на улицу"
+		"zho"		"移到街上"
+		"chi"		"移到街上"
+	}
+	"531c89cb178f8011e53c50c3694066d7"
+	{
+		"en"		"Find key for door to the next floor"
+		"ru"		"Найдите ключ от двери на следующий этаж"
+		"zho"		"找到通往下一层的钥匙"
+		"chi"		"找到通往下一層的鑰匙"
+	}
+	"6887d59186b8dc21661ec9b8a61c9fce"
+	{
+		"en"		"Move inside the building"
+		"ru"		"Войдите в здание"
+		"zho"		"进入建筑物"
+		"chi"		"進入建築物"
+	}
+	"39d64924d6ee2f9c26da41ffe599cffd"
+	{
+		"en"		"Unlock first door with key"
+		"ru"		"Откройте первую дверь ключом"
+		"zho"		"用钥匙打开第一扇门"
+		"chi"		"用鑰匙打開第一扇門"
+	}
+	"edad9685e5b7c45364557c118e3b90c9"
+	{
+		"en"		"Train Operator: We're here, get to the chrainer!"
+		"ru"		"Оператор поезда: Мы здесь, доберитесь до тренажера!"
+		"zho"		"火车操作员：我们到了，到训练器那里去！"
+		"chi"		"火車操作員：我們到了，到訓練器那裡去！"
+	}
+	"57030d94973bb7721a8be1ee6df93617"
+	{
+		"en"		"Survive for 240 seconds, until train is arrive"
+		"ru"		"Выживайте 240 секунд, пока поезд не прибудет"
+		"zho"		"坚持240秒，直到火车到来"
+		"chi"		"堅持240秒，直到火車到來"
+	}
+	"48464b69939b114e3102833c2569321e"
+	{
+		"en"		"Train Operator: Hang On!"
+		"ru"		"Оператор поезда: Держитесь!"
+		"zho"		"火车操作员：坚持住！"
+		"chi"		"火車操作員：堅持住！"
+	}
+	"4c949983c4993ce1fe1da1b6c5e64947"
+	{
+		"en"		"Train Operator: Wait, a horde is approaching you!"
+		"ru"		"Оператор поезда: Подождите, к вам приближается орда!"
+		"zho"		"火车操作员：等等，一群敌人正向你逼近！"
+		"chi"		"火車操作員：等等，一群敵人正向你逼近！"
+	}
+	"2c9433bacc0b3242f215b284d23febd5"
+	{
+		"en"		"Train Operator: We can pick up you by the way"
+		"ru"		"Оператор поезда: Мы можем вас подобрать по пути"
+		"zho"		"火车操作员：顺便捎上你"
+		"chi"		"火車操作員：順便捎上你"
+	}
+	"8620b0dcf4d79e3325b9db678a13489c"
+	{
+		"en"		"You found a Secret Stash."
+		"ru"		"Вы нашли секретный тайник."
+		"zho"		"你找到了一个秘密藏匿点。"
+		"chi"		"你找到了一個秘密藏匿點。"
+	}
+}

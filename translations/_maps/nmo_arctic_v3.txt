@@ -1,0 +1,66 @@
+"Phrases"
+{
+	"668dd42702f6493ecb7105b152b2fa66"
+	{
+		"en"		"The gate is open and you can escape."
+		"ru"		"Ворота открыты, и вы можете сбежать."
+		"zho"		"大门已开，您可以逃跑。"
+		"chi"		"大门已开，您可以逃跑。"
+	}
+	"9ecd0a4d62a90db809b6b9c99dedbbe8"
+	{
+		"en"		"Hold out for 240 seconds before a technician arrives from the side of the citadel."
+		"ru"		"Продержитесь 240 секунд до прибытия техника со стороны цитадели."
+		"zho"		"坚持240秒，直到技师从城堡一侧到达。"
+		"chi"		"坚持240秒，直到技师从城堡一侧到达。"
+	}
+	"11deaa995c1a0a894878cc1e66f323bc"
+	{
+		"en"		"All right, cross the bridge, stand on the mark and get ready."
+		"ru"		"Отлично, перейдите через мост, встаньте на метку и готовьтесь."
+		"zho"		"好吧，过桥，站在标记处，准备好。"
+		"chi"		"好吧，过桥，站在标记处，准备好。"
+	}
+	"aae406c5678a4aa0c7ff8dfc39567cad"
+	{
+		"en"		"You received a message on a pager, but part of the message was lost, find a way out."
+		"ru"		"Вам поступило сообщение на пейджер, но часть сообщения потеряна, найдите выход."
+		"zho"		"您在寻呼机上收到了一条消息，但部分消息丢失，找到出路。"
+		"chi"		"您在寻呼机上收到了一条消息，但部分消息丢失，找到出路。"
+	}
+	"cfbfaa00bc206342372cf5e927950e6a"
+	{
+		"en"		"Use the panel."
+		"ru"		"Используйте панель."
+		"zho"		"使用面板。"
+		"chi"		"使用面板。"
+	}
+	"342c23c07789425a763225bf5d6726f6"
+	{
+		"en"		"You need to fix the control panel, use welding."
+		"ru"		"Вам нужно починить панель управления, используйте сварку."
+		"zho"		"您需要修理控制面板，使用焊接。"
+		"chi"		"您需要修理控制面板，使用焊接。"
+	}
+	"98ae59835521a39fad32679a1d927801"
+	{
+		"en"		"Exit the cave."
+		"ru"		"Выйдите из пещеры."
+		"zho"		"退出洞穴。"
+		"chi"		"退出洞穴。"
+	}
+	"4f9908679b1a259046ea83201fbaf2bb"
+	{
+		"en"		"Map by Ethosaur, port and modified to nmrih by MAGISTER"
+		"ru"		"Карта от Ethosaur, портирована и модифицирована для nmrih MAGISTER"
+		"zho"		"地图由Ethosaur制作，MAGISTER移植并修改为nmrih"
+		"chi"		"地图由Ethosaur制作，MAGISTER移植并修改为nmrih"
+	}
+	"d26e5e11aa9045835c1163dbf0a1cbb5"
+	{
+		"en"		"STAY THERE"
+		"ru"		"ОСТАНЬТЕСЬ ТАМ"
+		"zho"		"呆在那里"
+		"chi"		"呆在那里"
+	}
+}

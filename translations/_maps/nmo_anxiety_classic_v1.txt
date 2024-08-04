@@ -1,0 +1,73 @@
+"Phrases"
+{
+	"4a0fa1be1855b0ab5b60ae0aa7a222e1"
+	{
+		"en"		"Find the RV key"
+		"ru"		"Найдите ключ от фургона"
+		"zho"		"找到房车钥匙"
+		"chi"		"找到房車鑰匙"
+	}
+	"226a6200dcadd2cc809e842f62ec25b4"
+	{
+		"en"		"Find suitable transport"
+		"ru"		"Найдите подходящий транспорт"
+		"zho"		"找到合适的交通工具"
+		"chi"		"找到合適的交通工具"
+	}
+	"dc51ff7e9516e6370b8f9666ec6324b7"
+	{
+		"en"		"Resupply at the gun store"
+		"ru"		"Пополните запасы в оружейном магазине"
+		"zho"		"在枪店补给"
+		"chi"		"在槍店補給"
+	}
+	"c296b43ecf7aee9cee67d403473cb46f"
+	{
+		"en"		"Climb the fence"
+		"ru"		"Перелезьте через забор"
+		"zho"		"翻过栅栏"
+		"chi"		"翻過柵欄"
+	}
+	"2c49e273860c51751cc042ed6a99882e"
+	{
+		"en"		"Leave the subway"
+		"ru"		"Выйдите из метро"
+		"zho"		"离开地铁"
+		"chi"		"離開地鐵"
+	}
+	"e86ed123a198ff003289d0f8bf1f5aeb"
+	{
+		"en"		"Find a yellow key"
+		"ru"		"Найдите желтый ключ"
+		"zho"		"找到黄钥匙"
+		"chi"		"找到黃鑰匙"
+	}
+	"ea78be62d097d63cbb4af163739149fa"
+	{
+		"en"		"Access the subway"
+		"ru"		"Получите доступ к метро"
+		"zho"		"进入地铁"
+		"chi"		"進入地鐵"
+	}
+	"14f9f216c820526dddeee20918b40715"
+	{
+		"en"		"Access the tunnels"
+		"ru"		"Получите доступ к туннелям"
+		"zho"		"进入隧道"
+		"chi"		"進入隧道"
+	}
+	"4683d61624e19fcd8af28ea66552ea9e"
+	{
+		"en"		"Weld the lock"
+		"ru"		"Заварите замок"
+		"zho"		"焊接锁"
+		"chi"		"焊接鎖"
+	}
+	"afbe9a50fcb4644a27a5a9e034dbef88"
+	{
+		"en"		"Map by Porkchops4lunch"
+		"ru"		"Карта от Porkchops4lunch"
+		"zho"		"Porkchops4lunch制作的地图"
+		"chi"		"Porkchops4lunch製作的地圖"
+	}
+}

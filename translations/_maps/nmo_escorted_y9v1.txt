@@ -1,0 +1,94 @@
+"Phrases"
+{
+	"44bffa16d8a858bc8a44462b2e72be93"
+	{
+		"en"		"EVERYBODY ON THE BOAT"
+		"ru"		"ВСЕ НА ЛОДКУ"
+		"zho"		"大家上船"
+		"chi"		"大家上船"
+	}
+	"6650785b4fd08a878823bfc6c54a780f"
+	{
+		"en"		"CLEAR THE HOUSE"
+		"ru"		"ОЧИСТИТЕ ДОМ"
+		"zho"		"清理房子"
+		"chi"		"清理房子"
+	}
+	"1b125baec1d59c37b46af17b79e1f725"
+	{
+		"en"		"BRING LADDER ON THE ROOF"
+		"ru"		"ПРИНЕСИТЕ ЛЕСТНИЦУ НА КРЫШУ"
+		"zho"		"把梯子搬到屋顶"
+		"chi"		"把梯子搬到屋頂"
+	}
+	"c0f47cb1b637da2c5413617063c76d89"
+	{
+		"en"		"FIND THE SURVIVOR ON THE ROOF"
+		"ru"		"НАЙДИТЕ ВЫЖИВШЕГО НА КРЫШЕ"
+		"zho"		"在屋顶找到幸存者"
+		"chi"		"在屋頂找到倖存者"
+	}
+	"aebc69e78e1fd47ecb780c5e0fb7751c"
+	{
+		"en"		"BRING THE LADDER TO BUILDING"
+		"ru"		"ПРИНЕСИТЕ ЛЕСТНИЦУ К ЗДАНИЮ"
+		"zho"		"把梯子搬到大楼"
+		"chi"		"把梯子搬到大樓"
+	}
+	"6b21a1ead085761eb06916ad3a58c09d"
+	{
+		"en"		"GIVE THE SURVIVOR A KIT"
+		"ru"		"ДАЙТЕ ВЫЖИВШЕМУ АПТЕЧКУ"
+		"zho"		"给幸存者一个急救包"
+		"chi"		"給倖存者一個急救包"
+	}
+	"fd4a90447cb9eba49ef20508dc3bd64d"
+	{
+		"en"		"FIND THE SURVIVOR"
+		"ru"		"НАЙДИТЕ ВЫЖИВШЕГО"
+		"zho"		"找到幸存者"
+		"chi"		"找到倖存者"
+	}
+	"1162b6b9e63ff4d38ab3a6c31b90271e"
+	{
+		"en"		"THE END"
+		"ru"		"КОНЕЦ"
+		"zho"		"结束"
+		"chi"		"結束"
+	}
+	"cce169ea831ac4a5a17270eae90eacc1"
+	{
+		"en"		"SURVIVOR RESCUED"
+		"ru"		"ВЫЖИВШИЙ СПАСЕН"
+		"zho"		"幸存者获救"
+		"chi"		"倖存者獲救"
+	}
+	"640eae9a0b8833a4a287726c6e43f453"
+	{
+		"en"		"Map by HAMMERCORE / Modified by yomox9"
+		"ru"		"Карта от HAMMERCORE / Изменена yomox9"
+		"zho"		"地图由 HAMMERCORE 制作 / yomox9 修改"
+		"chi"		"地圖由 HAMMERCORE 製作 / yomox9 修改"
+	}
+	"66d2b3b4dbf57a2eed43d5108783c853"
+	{
+		"en"		"ESCORT HIM TO THE END OF THE STREET"
+		"ru"		"СОПРОВОЖДАЙТЕ ЕГО ДО КОНЦА УЛИЦЫ"
+		"zho"		"护送他到街道尽头"
+		"chi"		"護送他到街道盡頭"
+	}
+	"e10f6a7e024ce92eed221b87a995589e"
+	{
+		"en"		"PROTECT THE SURVIVOR FROM ZOMBIES"
+		"ru"		"ЗАЩИЩАЙТЕ ВЫЖИВШЕГО ОТ ЗОМБИ"
+		"zho"		"保护幸存者免受僵尸袭击"
+		"chi"		"保護倖存者免受殭屍襲擊"
+	}
+	"8839cba7ee197d9e3d7a13e175f9ff94"
+	{
+		"en"		"CLEAR THE AREA BEHIND THE TRUCK"
+		"ru"		"ОЧИСТИТЕ ТЕРРИТОРИЮ ЗА ГРУЗОВИКОМ"
+		"zho"		"清理卡车后方区域"
+		"chi"		"清理卡車後方區域"
+	}
+}

@@ -1,0 +1,10 @@
+"Phrases"
+{
+	"aebcbf592f40c02d64f34b74e9c2e3ee"
+	{
+		"en"		"Take a watermelon and go home."
+		"ru"		"Возьмите арбуз и идите домой."
+		"zho"		"拿个西瓜回家。"
+		"chi"		"拿個西瓜回家。"
+	}
+}

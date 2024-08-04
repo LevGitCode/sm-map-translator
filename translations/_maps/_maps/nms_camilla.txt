@@ -1,0 +1,24 @@
+"Phrases"
+{
+	"46ca310673a4febc6443143be936c515"
+	{
+		"en"		"#nms_camilla_text1"
+		"ru"		"#nms_camilla_text1"
+		"zho"		"#nms_camilla_text1"
+		"chi"		"#nms_camilla_text1"
+	}
+	"80d774704db9ba556336995b91e26e6d"
+	{
+		"en"		"#nms_camilla_text2"
+		"ru"		"#nms_camilla_text2"
+		"zho"		"#nms_camilla_text2"
+		"chi"		"#nms_camilla_text2"
+	}
+	"53f1c85c9e1998c4c136026056ee162a"
+	{
+		"en"		"#nms_camilla_final"
+		"ru"		"#nms_camilla_final"
+		"zho"		"#nms_camilla_final"
+		"chi"		"#nms_camilla_final"
+	}
+}

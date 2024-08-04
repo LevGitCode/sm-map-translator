@@ -1,0 +1,94 @@
+"Phrases"
+{
+	"d61edd9a82df450605e0a609a1a829c1"
+	{
+		"en"		"Look for clues"
+		"ru"		"Ищите подсказки"
+		"zho"		"寻找线索"
+		"chi"		"尋找線索"
+	}
+	"ade07134a17c427259cc067e089652eb"
+	{
+		"en"		"Cross the canals"
+		"ru"		"Переправьтесь через каналы"
+		"zho"		"穿过运河"
+		"chi"		"穿過運河"
+	}
+	"b92c0bb483b419e74e7e0f2afabbb507"
+	{
+		"en"		"Look for a way out of the sewers"
+		"ru"		"Ищите выход из канализации"
+		"zho"		"寻找下水道的出路"
+		"chi"		"尋找下水道的出路"
+	}
+	"6408b779df6b93f9e1d12ec14f8439b8"
+	{
+		"en"		"Go out with a boom"
+		"ru"		"Выйдите с грохотом"
+		"zho"		"带着轰鸣声出去"
+		"chi"		"帶著轟鳴聲出去"
+	}
+	"78423b65f5b00cffd9bb7731260dfad2"
+	{
+		"en"		"Find a way outside of the alley"
+		"ru"		"Найдите выход из переулка"
+		"zho"		"找到小巷外的路"
+		"chi"		"找到小巷外的路"
+	}
+	"f28a380713b4627e4f775b8915451b36"
+	{
+		"en"		"Open up the shortcut leading to the sewers"
+		"ru"		"Откройте короткий путь к канализации"
+		"zho"		"打开通往下水道的捷径"
+		"chi"		"打開通往下水道的捷徑"
+	}
+	"f4bbded2a88503614c7d4e71e153ed46"
+	{
+		"en"		"Open up the underground garage by hacking Dimitri his laptop"
+		"ru"		"Откройте подземный гараж, взломав ноутбук Дмитрия"
+		"zho"		"通过破解Dimitri的笔记本电脑打开地下车库"
+		"chi"		"通過破解Dimitri的筆記本電腦打開地下車庫"
+	}
+	"738c17f174013c5798eae13bb1929e38"
+	{
+		"en"		"Enter dimitri his apartment"
+		"ru"		"Войдите в квартиру Дмитрия"
+		"zho"		"进入Dimitri的公寓"
+		"chi"		"進入Dimitri的公寓"
+	}
+	"ee39208be3398f16c4672e761653dc60"
+	{
+		"en"		"Look for a way across the other apartments"
+		"ru"		"Ищите путь через другие квартиры"
+		"zho"		"寻找穿越其他公寓的方法"
+		"chi"		"尋找穿越其他公寓的方法"
+	}
+	"12e4230ad1fd0d4f9116e817514a794b"
+	{
+		"en"		"Contact Dimitri Dimitrovich"
+		"ru"		"Свяжитесь с Дмитрием Дмитровичем"
+		"zho"		"联系Dimitri Dimitrovich"
+		"chi"		"聯繫Dimitri Dimitrovich"
+	}
+	"a50d85a276034e694b9d2e8846972c94"
+	{
+		"en"		"Look for a key around the streets and gain acces to the apartments"
+		"ru"		"Ищите ключ на улицах и получите доступ к квартирам"
+		"zho"		"在街道周围寻找钥匙，进入公寓"
+		"chi"		"在街道周圍尋找鑰匙，進入公寓"
+	}
+	"e165e1f1a3e13977baffe0d3b9c6543f"
+	{
+		"en"		"Check outside near bridge"
+		"ru"		"Проверьте снаружи возле моста"
+		"zho"		"检查桥附近的外面"
+		"chi"		"檢查橋附近的外面"
+	}
+	"67233527b8842d50ab00526683fc5a9b"
+	{
+		"en"		"Map made by Fersigal"
+		"ru"		"Карта сделана Fersigal"
+		"zho"		"地图由Fersigal制作"
+		"chi"		"地圖由Fersigal製作"
+	}
+}

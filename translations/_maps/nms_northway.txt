@@ -1,0 +1,17 @@
+"Phrases"
+{
+	"66edcc01fca4771355ca6090fbcf3deb"
+	{
+		"en"		"#nms_northway_work"
+		"ru"		"#nms_northway_work"
+		"zho"		"#nms_northway_work"
+		"chi"		"#nms_northway_work"
+	}
+	"78ab625429c91a4d4dfd788abd50ca5c"
+	{
+		"en"		"#nms_northway_5"
+		"ru"		"#nms_northway_5"
+		"zho"		"#nms_northway_5"
+		"chi"		"#nms_northway_5"
+	}
+}
